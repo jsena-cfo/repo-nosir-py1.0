@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarInfoPresFuturo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccda2d53-62d8-46be-8917-979000158233</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>47d73578-dd7b-45bd-93be-a07bba4bb1d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47d73578-dd7b-45bd-93be-a07bba4bb1d1</id>
+      <masked>false</masked>
+      <name>solicitudGasto</name>
+   </variable>
+</TestCaseEntity>

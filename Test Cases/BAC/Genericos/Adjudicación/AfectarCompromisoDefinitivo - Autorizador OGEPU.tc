@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Autorizador OGEPU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d0b81b8-ce77-40ba-b6ab-39de90ab5ba3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ed77f5d-823b-4133-9f93-5070cd0310e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>6ed77f5d-823b-4133-9f93-5070cd0310e1</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

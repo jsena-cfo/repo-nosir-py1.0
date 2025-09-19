@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GuardarAutorizarAnularRectificarHistoricoVolver Atrs</name>
+   <tag></tag>
+   <elementGuidId>f0332073-e4d8-45d7-97df-b09adee6b994</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.actions-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[5]/following::div[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f96dc58-d944-46f6-85a0-f2018c82c8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>actions-container</value>
+      <webElementGuid>a5e2ad5b-b894-4bff-a1b0-07e392168ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GuardarAutorizarAnularRectificarHistoricoVolver Atrás</value>
+      <webElementGuid>a6ce466d-762b-4eec-a139-50186e2fbf57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;actions-container&quot;]</value>
+      <webElementGuid>344140e3-bc33-4183-b92a-9446c636cf34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div[2]</value>
+      <webElementGuid>e9df5136-1c5d-4d8b-a879-764d6a838524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[5]/following::div[11]</value>
+      <webElementGuid>ee8535fc-785e-495e-bed4-35413805ed2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filas por página:'])[1]/following::div[13]</value>
+      <webElementGuid>bb7dd591-2e5d-436f-af59-044f86dce26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>a175fbf1-40d4-4e2d-a023-123242ec3eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GuardarAutorizarAnularRectificarHistoricoVolver Atrás' or . = 'GuardarAutorizarAnularRectificarHistoricoVolver Atrás')]</value>
+      <webElementGuid>8f0988a3-fbbd-48b4-9ae1-125f1c42c1b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

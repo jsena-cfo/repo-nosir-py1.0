@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarRequisitosMinimosPC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c992d278-07e5-4503-9726-7cf99b43d027</testCaseGuid>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>23d3c005-5cc0-4b07-8a17-fd26f99b67c1</id>
+      <masked>false</masked>
+      <name>RequisitosEconomicoYFinaciero</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>a5dec296-3820-4eda-aa2c-f03d8d7b0ea6</id>
+      <masked>false</masked>
+      <name>RequisitosTecnicos</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>ec3fc478-ce1f-4bcb-ad95-b5711c8548e2</id>
+      <masked>false</masked>
+      <name>RequisitosAdministrativos</name>
+   </variable>
+</TestCaseEntity>

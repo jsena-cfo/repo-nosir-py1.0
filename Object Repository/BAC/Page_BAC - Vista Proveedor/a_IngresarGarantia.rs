@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_IngresarGarantia</name>
+   <tag></tag>
+   <elementGuidId>072d1ea2-58b4-4553-a328-ff362a3aced0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkIngresarGarantia</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@id, 'IngresarGarantia')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>684a8334-9319-4ec8-aea2-4f253aa18b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:ValidarPagina();return false;</value>
+      <webElementGuid>ef536809-446f-494c-907a-aa2fd612b08b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_lnkIngresarGarantia</value>
+      <webElementGuid>6a631571-cf7e-45d0-b973-70b6e7bdead7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right</value>
+      <webElementGuid>2f3e7f37-b478-4a49-a973-d6e2926fb588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$lnkIngresarGarantia','')</value>
+      <webElementGuid>f67f4eed-aa48-421b-a74f-fd9e116ae501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingresar garantía</value>
+      <webElementGuid>143e6c58-d1fe-4a4c-8960-c912dcca7803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkIngresarGarantia&quot;)</value>
+      <webElementGuid>a6cb12b9-c8c9-4f96-91d4-ae2acaa25ed2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkIngresarGarantia']</value>
+      <webElementGuid>b6973f34-a7cb-4414-8a61-0c2a5fe5373c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas']/div[5]/div/div/a</value>
+      <webElementGuid>123ae917-03de-4d26-925d-cc939c1cc30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ingresar garantía')]</value>
+      <webElementGuid>c46cbfea-d069-4381-a341-4969949e94bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observaciones'])[1]/following::a[1]</value>
+      <webElementGuid>68906f7f-48ef-4539-8895-7bd1965b6c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifique que la moneda haya sido ingresada.'])[1]/following::a[1]</value>
+      <webElementGuid>f5aa71ba-6be9-482b-ab38-6514b36a3df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garantías ingresadas'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc2762a8-da2d-4cff-91f9-8a19586541a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para cada garantía ingresada debe presentarse el documento en soporte físico'])[1]/preceding::a[1]</value>
+      <webElementGuid>68333977-4286-4618-a7ee-9fefc03c6fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingresar garantía']/parent::*</value>
+      <webElementGuid>49657edc-310a-4a2f-8ffa-17e9e3f1a508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$lnkIngresarGarantia','')&quot;)]</value>
+      <webElementGuid>05a9b72f-65d7-4d43-a2bf-a40deb8f0c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/a</value>
+      <webElementGuid>febf93d0-0e1b-41f2-89b5-edddfc0b6ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkIngresarGarantia' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$lnkIngresarGarantia&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Ingresar garantía' or . = 'Ingresar garantía')]</value>
+      <webElementGuid>2232fe3d-fae2-4771-a415-93d08dc5c34e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

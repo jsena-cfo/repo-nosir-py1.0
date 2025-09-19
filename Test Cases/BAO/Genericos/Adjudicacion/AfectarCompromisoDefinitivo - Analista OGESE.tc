@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Analista OGESE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5a72807-a330-409d-bb3f-09ef24048fd7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0da2f26-d083-4009-bfbb-d1d8792d4c1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa0ed602-72f4-495d-84fa-ea0f39aaae95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>f0da2f26-d083-4009-bfbb-d1d8792d4c1a</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+   <variable>
+      <defaultValue>337004.04</defaultValue>
+      <description></description>
+      <id>fa0ed602-72f4-495d-84fa-ea0f39aaae95</id>
+      <masked>false</masked>
+      <name>monto</name>
+   </variable>
+</TestCaseEntity>

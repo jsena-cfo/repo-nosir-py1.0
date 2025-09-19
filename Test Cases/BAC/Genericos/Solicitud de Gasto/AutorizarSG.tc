@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AutorizarSG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47fb65de-f94a-4e0a-be6c-72cd553eb70e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88d9c375-4dea-4414-bed6-68b7c8de89ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4776916-f638-4d4e-afa0-16a51c2ac464</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>140395dd-9e1c-4375-9583-efcbfceeeba2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'401-4147-SG22'</defaultValue>
+      <description></description>
+      <id>88d9c375-4dea-4414-bed6-68b7c8de89ed</id>
+      <masked>false</masked>
+      <name>solicitudGasto</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.userAutorizador</defaultValue>
+      <description></description>
+      <id>e4776916-f638-4d4e-afa0-16a51c2ac464</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passAutorizador</defaultValue>
+      <description></description>
+      <id>140395dd-9e1c-4375-9583-efcbfceeeba2</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

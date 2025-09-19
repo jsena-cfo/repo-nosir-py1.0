@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckVisibleInterno</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9a73a72-8868-41cd-a21a-98eaa8b73f4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68f6d385-b283-4db2-ba54-3d4fa8c157f0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9291c345-6a4f-423e-acb4-484de01757a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa00a9be-6d84-496f-a876-820924180b3b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>68f6d385-b283-4db2-ba54-3d4fa8c157f0</id>
+      <masked>false</masked>
+      <name>userInterno</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>9291c345-6a4f-423e-acb4-484de01757a0</id>
+      <masked>false</masked>
+      <name>userInternoAdmin</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>fa00a9be-6d84-496f-a876-820924180b3b</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

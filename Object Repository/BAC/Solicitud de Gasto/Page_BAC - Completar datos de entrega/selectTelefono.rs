@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectTelefono</name>
+   <tag></tag>
+   <elementGuidId>179abe6b-6d0f-4161-9bb7-3fe2c02f3344</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_ddlTelefono</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_ddlTelefono']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>76f4b2e1-9d2d-4f0b-ba64-04800a093d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$ddlTelefono</value>
+      <webElementGuid>bd6598ea-c098-4dfc-9a6c-b8ade72329f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_ddlTelefono</value>
+      <webElementGuid>9ede829d-e4ab-4ee4-a7f2-46a6b27cf3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajas</value>
+      <webElementGuid>88ea46e7-f7f2-4b4b-8e5d-1ac025a14356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:HabilitarOtroTelefono();</value>
+      <webElementGuid>5f1e5129-4cf6-4d0c-b47d-f3f1efb3844e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Otra
+
+</value>
+      <webElementGuid>647f582f-41e4-4e71-9fec-8acaccb45118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ddlTelefono&quot;)</value>
+      <webElementGuid>20917a42-6b7e-4673-8d45-8c4cc4bd4168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BAC/Solicitud de Gasto/Page_BAC - Completar datos de entrega/iframe_PopUpIngresarEntrega</value>
+      <webElementGuid>d3eacebb-71cd-44ed-bc13-52aabda6d80d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ddlTelefono']</value>
+      <webElementGuid>30f154be-cd98-4a28-ac78-2a4bf65c37e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_divContenedorLugarEntrega']/div[3]/table/tbody/tr[2]/td[2]/div/select</value>
+      <webElementGuid>170d89e8-015f-416a-82e0-fc73a5621885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teléfono:'])[1]/following::select[1]</value>
+      <webElementGuid>2c9869d0-f8b0-40d3-8035-a48b917fb0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>e5657241-05ec-437c-b348-248a59957ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otro Teléfono:'])[1]/preceding::select[1]</value>
+      <webElementGuid>f1e9715d-3841-41c3-b49a-8aee065fe822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/select</value>
+      <webElementGuid>537e4685-e179-4c4b-a0aa-35c432b51dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$ddlTelefono' and @id = 'ctl00_CPH1_ddlTelefono' and (text() = '
+	Otra
+
+' or . = '
+	Otra
+
+')]</value>
+      <webElementGuid>72031ded-4506-40c7-9cf9-faba4382287a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

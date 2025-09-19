@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenFord</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc88a6de-1e23-486a-8eb9-df9a0bf7b250</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>856065eb-4f82-4d95-b0fa-a25fce1fd143</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b2a77fb-f329-4369-a933-4e05356470b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>615e3dec-f931-4320-8bd5-c1e83060c883</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Ford'</defaultValue>
+      <description></description>
+      <id>856065eb-4f82-4d95-b0fa-a25fce1fd143</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Ford se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>9b2a77fb-f329-4369-a933-4e05356470b5</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Ford correctamente'</defaultValue>
+      <description></description>
+      <id>615e3dec-f931-4320-8bd5-c1e83060c883</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

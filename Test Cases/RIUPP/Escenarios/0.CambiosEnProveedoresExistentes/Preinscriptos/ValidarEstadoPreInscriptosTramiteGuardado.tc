@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarEstadoPreInscriptosTramiteGuardado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e100eac4-9ca2-4509-ba5b-f663e7fa94c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cd350b3-a138-42c9-8b61-cda666b50e87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>8cd350b3-a138-42c9-8b61-cda666b50e87</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_mensajeImportePrestacion</name>
+   <tag></tag>
+   <elementGuidId>b18a75b4-3067-4993-b638-fef2f0b409d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/form/div/div[10]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiFormHelperText-root.MuiFormHelperText-contained.Mui-error</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Rango entre 1 y 999999999,99' or . = 'Rango entre 1 y 999999999,99')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0b58f572-c252-4a84-9b0f-cd1e6b637c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root MuiFormHelperText-contained Mui-error</value>
+      <webElementGuid>cec9408e-ec1d-4640-ba34-c2ba1d3a2af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rango entre 1 y 999999999,99</value>
+      <webElementGuid>423054c5-ea24-49e2-a6c2-096d50812036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss40 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss41 MuiGrid-item&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root jss45 MuiFormControl-fullWidth&quot;]/p[@class=&quot;MuiFormHelperText-root MuiFormHelperText-contained Mui-error&quot;]</value>
+      <webElementGuid>8a023e25-7069-4f47-bfcc-9766dda9c5f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/form/div/div[10]/div/p</value>
+      <webElementGuid>2c958b9a-a9b5-419e-9a48-b1f2f3de3250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importe de Prestación'])[2]/following::p[1]</value>
+      <webElementGuid>f7f7921f-ec8f-4492-939f-9df8e1fce165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importe de Prestación'])[1]/following::p[2]</value>
+      <webElementGuid>dcea8eec-7cfe-4e32-a90a-b36c28cc33f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Titulo de Carpeta'])[1]/preceding::p[1]</value>
+      <webElementGuid>622a18d4-26c3-4e7a-a324-9d1972a8fa19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Titulo de Carpeta'])[2]/preceding::p[1]</value>
+      <webElementGuid>ba033818-aaba-4063-a726-79911178c571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rango entre 1 y 999999999,99']/parent::*</value>
+      <webElementGuid>d3ad7781-7b0e-44eb-9b24-5f8202dbeadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/p</value>
+      <webElementGuid>deb0f4a2-ec52-4260-bc06-c3f009a55d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rango entre 1 y 999999999,99' or . = 'Rango entre 1 y 999999999,99')]</value>
+      <webElementGuid>4dfe030c-0741-4be3-9f2e-a339795164c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

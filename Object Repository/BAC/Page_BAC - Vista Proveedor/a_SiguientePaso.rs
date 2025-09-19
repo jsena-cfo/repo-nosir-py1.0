@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SiguientePaso</name>
+   <tag></tag>
+   <elementGuidId>f2a23b2c-0e55-49c8-81b5-ead2aadbbbfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkSiguientePaso</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@id, 'SiguientePaso')]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e8f4136e-8580-44d0-a113-1c33894da8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_lnkSiguientePaso</value>
+      <webElementGuid>032a4be8-78c1-486a-8fc0-561d64995e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right</value>
+      <webElementGuid>c9171e8e-0f45-48a5-a4e8-0b75bece61c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$lnkSiguientePaso','')</value>
+      <webElementGuid>87e49885-0ac2-49f3-a11e-455d8f2fe568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Siguiente paso</value>
+      <webElementGuid>a1981365-4bee-42f4-a646-f1c54ef14b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkSiguientePaso&quot;)</value>
+      <webElementGuid>ec1f6d80-9112-430f-8d79-728b004c0e8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkSiguientePaso']</value>
+      <webElementGuid>25a3e95d-f99f-4735-810b-a7e1bf3fa6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divBotones']/div/div/a[2]</value>
+      <webElementGuid>256377c4-9202-4f87-8595-b14efa0b15a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Siguiente paso')]</value>
+      <webElementGuid>26fb1461-cbce-47b6-940e-0710c552312c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paso anterior'])[1]/following::a[1]</value>
+      <webElementGuid>72e18d35-c752-4af0-a208-02a3b73efbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresar garantía'])[1]/following::a[4]</value>
+      <webElementGuid>091af86a-8ff0-4624-9d28-8bf47b267932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir al escritorio'])[1]/preceding::a[1]</value>
+      <webElementGuid>f0e03f1d-7645-4498-aef6-9ff87f9ef368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar oferta'])[1]/preceding::a[2]</value>
+      <webElementGuid>b5d9b433-2e60-40c5-aedf-60c1ee87e4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Siguiente paso']/parent::*</value>
+      <webElementGuid>495203f3-a5a3-4c2f-bf71-b0eaed8701f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$lnkSiguientePaso','')&quot;)]</value>
+      <webElementGuid>6903b6f8-afc9-4089-99f4-64c9d910ba9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/a[2]</value>
+      <webElementGuid>b8e9ad22-b39b-4ab7-8e54-740256c160f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkSiguientePaso' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$lnkSiguientePaso&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Siguiente paso' or . = 'Siguiente paso')]</value>
+      <webElementGuid>cb4e215e-a3b1-4a41-a130-4226a7c7bcd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

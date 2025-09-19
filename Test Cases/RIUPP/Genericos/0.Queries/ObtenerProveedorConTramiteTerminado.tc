@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ObtenerProveedorConTramiteTerminado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ec1dbf5-3b7e-4a46-aa08-a30edadf8554</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>183908f5-6b7a-47dd-b7e4-6939ba162d09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>183908f5-6b7a-47dd-b7e4-6939ba162d09</id>
+      <masked>false</masked>
+      <name>tramiteEval</name>
+   </variable>
+</TestCaseEntity>

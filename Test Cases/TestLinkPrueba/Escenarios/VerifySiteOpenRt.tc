@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenRt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a45fc871-35f5-45f4-91bd-f83c7f761900</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12e3243d-f98c-4486-a53d-c8186a35d402</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e0c8dc15-534b-4542-a1f2-2a42c8160850</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48081f28-f0a4-4b2e-a387-653e743661a5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open RT'</defaultValue>
+      <description></description>
+      <id>12e3243d-f98c-4486-a53d-c8186a35d402</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio RT se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>e0c8dc15-534b-4542-a1f2-2a42c8160850</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio RT correctamente'</defaultValue>
+      <description></description>
+      <id>48081f28-f0a4-4b2e-a387-653e743661a5</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

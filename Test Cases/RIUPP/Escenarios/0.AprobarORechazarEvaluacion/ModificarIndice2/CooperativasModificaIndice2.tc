@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>se verifica que en la evaluación de modificaciones se traigan las fechas y permita aprobar o rechazar items que ya habian sido aprobado o rechazado</description>
+   <name>CooperativasModificaIndice2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da18e998-96b7-4a1c-ad4f-bd1c029d5a77</testCaseGuid>
+</TestCaseEntity>

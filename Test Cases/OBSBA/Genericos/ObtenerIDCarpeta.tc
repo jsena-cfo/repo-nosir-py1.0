@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ObtenerIDCarpeta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02b483ae-74e0-4e16-9813-8e901147ae89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04d5c4d8-4767-4c00-b532-1c4feb555228</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04d5c4d8-4767-4c00-b532-1c4feb555228</id>
+      <masked>false</masked>
+      <name>titulo</name>
+   </variable>
+</TestCaseEntity>

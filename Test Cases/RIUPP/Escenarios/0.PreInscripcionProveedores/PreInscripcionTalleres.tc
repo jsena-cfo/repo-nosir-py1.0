@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionTalleres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41aa6cd8-0757-469c-a860-75db050104ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d402d8ca-1165-4dc4-9648-96d1965d046b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TalleresProtegidos'</defaultValue>
+      <description></description>
+      <id>d402d8ca-1165-4dc4-9648-96d1965d046b</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

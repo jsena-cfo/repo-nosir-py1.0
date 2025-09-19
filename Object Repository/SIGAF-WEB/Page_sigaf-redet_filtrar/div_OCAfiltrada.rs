@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OCAfiltrada</name>
+   <tag></tag>
+   <elementGuidId>767e0da4-867c-4b2e-abaf-a9a88bbe75ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;q-app&quot;]/div/div/div[1]/div[2]/div/div[1]/div/div/div/div/div/div[2]/div[5]/div/div[2]/table/tbody/tr/td[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = '
+                2051-0169-OCA20
+              ' or . = '
+                2051-0169-OCA20
+              ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00c2c0b1-10f9-4902-b877-ea4d962f3e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                2051-0169-OCA20
+              </value>
+      <webElementGuid>d4779061-e559-4369-91e5-52d4adf7a02d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;controls-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-11&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;select-delux&quot;]/div[@class=&quot;q-card select-delux-body&quot;]/table[1]/tbody[1]/tr[1]/td[2]/div[1]</value>
+      <webElementGuid>1331babb-9260-4688-b455-185d3b99ffd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div/div/div[5]/div/div[2]/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>0ab4d7a9-ac89-41bd-9dc9-4cbcc91b3b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número OC BAC'])[1]/following::div[2]</value>
+      <webElementGuid>21d6cc3f-5dd4-4a1d-8750-c7d2554e58dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anio'])[1]/following::div[2]</value>
+      <webElementGuid>8916d425-301d-41e9-8768-a956250e70c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total: 1'])[1]/preceding::div[1]</value>
+      <webElementGuid>aaaa5f0b-0a72-401c-8fc6-60e758ce0375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página actual: 1'])[2]/preceding::div[2]</value>
+      <webElementGuid>fdda1919-6127-4652-8b78-91627b782b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2051-0169-OCA20']/parent::*</value>
+      <webElementGuid>49e7256c-062f-4560-92a3-554c258b4fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>37eb68df-1132-4f57-9787-4845f3f051d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                2051-0169-OCA20
+              ' or . = '
+                2051-0169-OCA20
+              ')]</value>
+      <webElementGuid>9bbe2afd-4df9-4014-b4ec-e4e22fafd2ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

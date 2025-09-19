@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Acciones_ingresarPrimeraCarpeta</name>
+   <tag></tag>
+   <elementGuidId>991d1a0d-e06f-4604-b6b5-603bd18e869d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;root&quot;]/div/main/div/div[1]/div[1]/div[2]/div/div/div/div[1]/div/a/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > button.MuiButtonBase-root.MuiIconButton-root</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84d257bd-ce79-4c83-b897-22feed0d7d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiIconButton-root</value>
+      <webElementGuid>673649a3-57ef-4c5e-b9ea-f8e338f93634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>dc362afc-bab7-46ca-8352-c2577b685321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1be9513c-19b8-41c9-b5de-4a0c45a180a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss56&quot;]/main[@class=&quot;MuiGrid-root jss55 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss54 MuiGrid-item&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-g1du22&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-1pzb349&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row MuiDataGrid-row--lastVisible MuiDataGrid-row--dynamicHeight Mui-hovered&quot;]/div[@class=&quot;MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textCenter MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiGrid-root&quot;]/a[1]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]</value>
+      <webElementGuid>c86c9f76-54fc-45ca-beb3-566e6db93be1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[24]</value>
+      <webElementGuid>60198e4f-c89a-4493-a2ae-7fc4f065c05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div[2]/div/div/div/div/div/a/button</value>
+      <webElementGuid>b07c284e-4d89-47c8-a40b-1ff432c88ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::button[1]</value>
+      <webElementGuid>98deff5a-a483-476b-9939-146f4a63bc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observaciones'])[1]/following::button[1]</value>
+      <webElementGuid>545c9e51-a130-44d4-bbcc-9fbd5f95226c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/preceding::button[1]</value>
+      <webElementGuid>bb82ee66-0d18-4f32-bc06-34d9dc17332c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIEN SALUD'])[1]/preceding::button[1]</value>
+      <webElementGuid>24c46b0d-0112-4526-8030-7350f27aec98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>ab77dcb0-c583-4d05-bd69-ad288d92f5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>13a56237-2720-4357-a588-d6ad6b942a27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

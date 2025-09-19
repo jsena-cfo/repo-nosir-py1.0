@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enviar Modificacin</name>
+   <tag></tag>
+   <elementGuidId>9a0961d1-bbcb-4278-8395-5b9f2ff499c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_lnkEnviarModificacion']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkEnviarModificacion</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df51743a-9dac-492b-920e-f48e02a6c18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_lnkEnviarModificacion</value>
+      <webElementGuid>7e191716-b44b-4797-a209-ca107346e0d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right</value>
+      <webElementGuid>413e2b5d-b3ff-4e07-b9b4-cee60f6460ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$lnkEnviarModificacion','')</value>
+      <webElementGuid>73f6df5d-71c7-463c-b391-b9c50d2455a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enviar Modificación</value>
+      <webElementGuid>4e166480-082f-4bdc-b8f4-7fc3e8387998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkEnviarModificacion&quot;)</value>
+      <webElementGuid>e76c355e-fd5a-4ab8-944f-1717bfa99a7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkEnviarModificacion']</value>
+      <webElementGuid>60294766-eeac-4f2c-a808-3aabe8116632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_updatePanel']/div/div/a</value>
+      <webElementGuid>91c6a760-bee0-4c9a-a83b-f00b55059ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Enviar Modificación')]</value>
+      <webElementGuid>3ca028a0-3d17-4dbe-bf2d-50d2de608319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rubros licitatorios'])[1]/following::a[2]</value>
+      <webElementGuid>97f92b43-28f0-4f63-b578-748b376f9ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentación y Declaraciones Juradas'])[1]/following::a[3]</value>
+      <webElementGuid>89682cbe-dc4d-41db-853e-fbe808f7b2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención: faltan cargar campos obligatorios'])[1]/preceding::a[1]</value>
+      <webElementGuid>302053f9-a6d4-41d5-ae75-372cffada9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indice Información básica y domicilio'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3c33818-d063-48b4-80f4-e9b3a6fe2bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enviar Modificación']/parent::*</value>
+      <webElementGuid>c4fdd4df-3135-4ea6-a00f-7da636742950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$lnkEnviarModificacion','')&quot;)]</value>
+      <webElementGuid>51ad4c3c-359d-4a18-a778-f507f334b1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>e515af15-47fe-41a7-bd42-6cf5d42ccc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkEnviarModificacion' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$lnkEnviarModificacion&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Enviar Modificación' or . = 'Enviar Modificación')]</value>
+      <webElementGuid>eedf333f-1203-4654-b53a-9dfad176a190</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

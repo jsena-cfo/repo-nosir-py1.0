@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtOperacionExitosa</name>
+   <tag></tag>
+   <elementGuidId>69cda616-6e51-4999-8734-432d23a1a21f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='transition-modal-description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fcfa809a-750f-42b9-ba02-daad9d6f3ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1</value>
+      <webElementGuid>af374069-3c55-494d-9fa0-4a18cf5f1630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-description</value>
+      <webElementGuid>03829dc8-c669-457a-99f3-b84f7fb6fdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sx</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0517481e-dea4-4f50-b885-f2ea3bf4fc2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operación exitosa</value>
+      <webElementGuid>fb42736d-c9b6-4212-8cdf-e69bb9a732da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-description&quot;)</value>
+      <webElementGuid>6f1a4744-c713-4b45-a7d7-67c628e5f992</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='transition-modal-description']</value>
+      <webElementGuid>a77001c2-c19e-405f-a5d8-e04ff088305e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos de usuario actualizados'])[1]/following::p[1]</value>
+      <webElementGuid>f4258e33-4b0f-4cc2-94ad-67b7eef81e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-description', '&quot;', ')')])[1]/following::p[1]</value>
+      <webElementGuid>e7bfab63-a1e2-488d-a81a-c4dc4e4098e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operación exitosa']/parent::*</value>
+      <webElementGuid>1e025def-df73-4b70-835b-7a3bce8cada4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>4f04e300-dd3c-43c6-902d-66b99fea3448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'transition-modal-description' and (text() = 'Operación exitosa' or . = 'Operación exitosa')]</value>
+      <webElementGuid>a3a9c928-a37e-4303-8540-3cbff6a66200</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

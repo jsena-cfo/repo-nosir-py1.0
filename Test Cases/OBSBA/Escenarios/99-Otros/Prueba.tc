@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prueba</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cdecc75-50b3-4b5d-8c47-ae13f915bcd2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d767fac-871f-4ec3-b2aa-b37510056ea4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.rangoCuitIntMin</defaultValue>
+      <description></description>
+      <id>5d767fac-871f-4ec3-b2aa-b37510056ea4</id>
+      <masked>false</masked>
+      <name>rangoCuitIntMin</name>
+   </variable>
+</TestCaseEntity>

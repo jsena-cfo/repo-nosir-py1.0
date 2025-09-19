@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_APartirDe</name>
+   <tag></tag>
+   <elementGuidId>d50d9a75-eefa-45cb-a0f7-740b1f07a5d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_ddlApartirNormal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_ddlApartirNormal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>479585d0-d810-4e0a-ba56-b4417d8b764e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$ddlApartirNormal</value>
+      <webElementGuid>a8374038-d55a-42f8-8122-fe4ab613541d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_ddlApartirNormal</value>
+      <webElementGuid>b061d4f5-4c8d-4dcc-b76d-07e5911c7d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajas</value>
+      <webElementGuid>d7221e8f-d196-45dc-9d00-43d200372b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Perfeccionamiento orden de compra
+
+</value>
+      <webElementGuid>d6dd137f-f0f6-4f23-b1a8-9b2a0f9d9c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ddlApartirNormal&quot;)</value>
+      <webElementGuid>25f88471-3b80-4faf-98ad-b3def7f271c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ddlApartirNormal']</value>
+      <webElementGuid>e09ef880-0d76-465b-9587-110977e7215c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_divPlazoEntrega']/div[2]/div[2]/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>50700245-78b4-4b9e-a86a-ed8d6bee973d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A partir de:'])[1]/following::select[1]</value>
+      <webElementGuid>5ac6a2e6-df97-4d42-a3b1-bf9badd158b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>cd94b5f1-71ea-4465-a8d2-41ebe92f4c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lugar entrega'])[1]/preceding::select[1]</value>
+      <webElementGuid>e6e9d349-e05c-4d99-ab7b-f2e836971f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>0c8059eb-c2da-4aae-9377-48026cba5674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>4dcb1212-b508-421d-8531-b572c2efc2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$ddlApartirNormal' and @id = 'ctl00_CPH1_ddlApartirNormal' and (text() = '
+	Perfeccionamiento orden de compra
+
+' or . = '
+	Perfeccionamiento orden de compra
+
+')]</value>
+      <webElementGuid>1b993252-c40b-454d-8afb-0e395fa74ba6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

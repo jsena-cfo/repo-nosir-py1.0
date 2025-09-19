@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_labelPaginaNo</name>
+   <tag></tag>
+   <elementGuidId>61620b1f-c4ec-4e35-bc8b-7d08a7cc1d9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss14.MuiTypography-body1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/form/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9bcc88ee-eca1-4fc5-ba8a-e36080c54c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss14 MuiTypography-body1</value>
+      <webElementGuid>6d7ce62f-2fc9-43e3-99e9-bcfb75efc1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pagina no</value>
+      <webElementGuid>7590fc5e-c99f-461e-a808-599e59408383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;jss31&quot;]/form[@class=&quot;jss6&quot;]/p[@class=&quot;MuiTypography-root jss14 MuiTypography-body1&quot;]</value>
+      <webElementGuid>0e683bf2-2226-48b4-88ff-877093b24546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/form/p</value>
+      <webElementGuid>d88d1fb0-ab9f-4075-8fb7-fe57523d8ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERROR'])[2]/preceding::p[4]</value>
+      <webElementGuid>fdfbe04b-4931-45b5-afda-3b9c6faef79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soporte ObSBA:'])[1]/preceding::p[5]</value>
+      <webElementGuid>920274bd-4817-4cb7-a387-6fab37a75b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pagina no']/parent::*</value>
+      <webElementGuid>69b8f568-d74a-4ffc-9c6c-370953242145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8e5e2c46-7c16-4168-9ab1-eba5f4641f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pagina no' or . = 'Pagina no')]</value>
+      <webElementGuid>706f8bd3-d652-4e8d-bb60-33ffb98cec88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

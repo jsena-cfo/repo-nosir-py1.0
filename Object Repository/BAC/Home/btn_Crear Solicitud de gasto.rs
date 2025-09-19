@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Crear Solicitud de gasto</name>
+   <tag></tag>
+   <elementGuidId>3df00a52-4079-4ee0-8aa7-f439e0ecea7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearSG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearSG']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5da56d21-8cac-40bb-948f-e19320feb949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearSG</value>
+      <webElementGuid>c6aec73e-5696-4613-a5a3-e6e53627107d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right</value>
+      <webElementGuid>2041d08b-10ac-4b4a-ae74-12fb77a013a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$UC_BandejaTareasPersonal$btnCrearSG&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/SGA/CrearSolicitudGasto.aspx&quot;, false, true))</value>
+      <webElementGuid>6f8833a0-f377-49af-8a8d-b620d056bf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear Solicitud de gasto</value>
+      <webElementGuid>70784340-2682-40da-b220-653b70d5bc56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearSG&quot;)</value>
+      <webElementGuid>9983996e-051f-4d6e-b07b-28c30adbb58f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearSG']</value>
+      <webElementGuid>27bcdffb-2bb1-425c-837e-71f8aab035a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseMenuSolicitudesGasto']/div/a</value>
+      <webElementGuid>c6dc791e-aee5-4937-a267-99a0c7d3bab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Crear Solicitud de gasto')]</value>
+      <webElementGuid>c19665fc-ff67-4306-9ec1-12006f45adaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejecutar'])[1]/following::a[1]</value>
+      <webElementGuid>98993605-7b52-4f8c-b58b-17c0617ca8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresar pedido'])[1]/following::a[2]</value>
+      <webElementGuid>4ba2bd9c-b012-49b0-80b1-1e52550ea390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear Solicitud de gasto']/parent::*</value>
+      <webElementGuid>f4451ad5-60a2-43d9-a942-3a2d0cb8adb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$UC_BandejaTareasPersonal$btnCrearSG&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/SGA/CrearSolicitudGasto.aspx&quot;, false, true))')]</value>
+      <webElementGuid>6abcdd2a-bf0b-4777-b97a-7ec4286c5ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>9c157311-6342-46fc-9f6a-3da8363320c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearSG' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$UC_BandejaTareasPersonal$btnCrearSG&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/SGA/CrearSolicitudGasto.aspx&quot;, false, true))' and (text() = 'Crear Solicitud de gasto' or . = 'Crear Solicitud de gasto')]</value>
+      <webElementGuid>183626ec-fe60-4a4a-b942-d2027d9d6490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

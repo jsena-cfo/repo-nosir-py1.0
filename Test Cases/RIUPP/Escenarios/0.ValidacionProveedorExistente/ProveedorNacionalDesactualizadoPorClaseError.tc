@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProveedorNacionalDesactualizadoPorClaseError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ae5da4d-ea6e-468e-a6a2-cdc50ccaeee5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7dfcbc4f-1554-4fc5-b691-153a3360da78</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>7dfcbc4f-1554-4fc5-b691-153a3360da78</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

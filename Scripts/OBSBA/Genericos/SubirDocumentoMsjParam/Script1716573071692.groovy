@@ -1,0 +1,102 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
+
+/**Author: Jer**/
+String titulo = getBinding().getAt('varTitulo').toString()
+
+String descripcion = getBinding().getAt('varDescripcion').toString()
+
+String pathFile = getBinding().getAt('varPathFile').toString()
+
+String msjValidado = getBinding().getAt('varMsjValidado').toString()
+
+String usuarioRol = getBinding().getAt('varUsuarioRol').toString()
+
+boolean visible = getBinding().getAt('varVisible')
+
+boolean mensajeValidado = false
+
+WebUI.waitForElementPresent(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/div_Subir Archivo'), 1)
+
+WebUI.scrollToElement(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/div_Subir Archivo'), 1)
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/SeleccionarTipoDocumento'), [('varTipoDocumento') : 'receta'], FailureHandling.STOP_ON_FAILURE)
+
+System.out.println('Usuario rol: ' + usuarioRol)
+
+if ((visible)&&(usuarioRol== "Interno")) {
+    WebUI.callTestCase(findTestCase('OBSBA/Genericos/ValidarCheckVisibleDocChequear'), [:], FailureHandling.STOP_ON_FAILURE)
+}
+
+WebUI.sendKeys(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/input_Titulo_fileTitle_documento'), titulo)
+
+WebUI.sendKeys(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpeta/textarea_Observaciones_fileDescription'), descripcion)
+
+TestObject to = new TestObject()
+
+String spanSubirArchivo1 = '//div[@id=\'root\']/main/div[2]/form[2]/div/div[6]/label/span'
+
+String spanSubirArchivo2 = ((('//div[@id=' + '\'') + 'root') + '\'') + ']/div/main/div/form[2]/div/div[6]/label/span'
+
+String spanSubirArchivo3 = ((((((((((((((('//span[@role = ' + '\'') + 'button') + '\'') + ' and (text() = ') + '\'') + 'Subir Archivo') + 
+'\'') + ' or . = ') + '\'') + 'Subir Archivo') + '\'') + ' or . = ') + '\'') + 'SUBIR ARCHIVO') + '\'') + ')]'
+
+to.addProperty('xpath', ConditionType.EQUALS, spanSubirArchivo3)
+
+WebUI.uploadFile(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/input_uploadFIle'), pathFile)
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/ClickAdjuntarDocumento'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/EsperarGifProgresoCircular'), [:], FailureHandling.STOP_ON_FAILURE)
+
+switch (msjValidado) {
+    case 'Prueba descripcion 30MB':
+        //String mensajeError = ''
+        WebUI.waitForElementVisible(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/span_maximoPermitido25MB'), 
+            1)
+
+        encontro = WebUI.verifyElementVisible(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/span_maximoPermitido25MB'), 
+            FailureHandling.OPTIONAL)
+
+        System.out.println('Se valido ' + msjValidado)
+
+        mensajeValidado = encontro
+
+        WebUI.callTestCase(findTestCase('OBSBA/Genericos/DobleClickPantalla'), [:], FailureHandling.STOP_ON_FAILURE)
+
+        break
+    case 'Archivo subido correctamente':
+        WebUI.waitForElementPresent(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/h2_msjArchivoSubidoCorrectamente'), 
+            1)
+
+        mensajeValidado = WebUI.verifyElementText(findTestObject('ObsbaPortal/Page_ObSBA_AdministrarCarpetaDocumento/h2_msjArchivoSubidoCorrectamente'), 
+            msjValidado, FailureHandling.OPTIONAL)
+
+        break
+    case 'Sin mensaje':
+        WebUI.callTestCase(findTestCase('OBSBA/Genericos/ClickLimpiar'), [:], FailureHandling.STOP_ON_FAILURE)
+
+        break
+}
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/DobleClickPantalla'), [:], FailureHandling.STOP_ON_FAILURE)
+
+return mensajeValidado
+

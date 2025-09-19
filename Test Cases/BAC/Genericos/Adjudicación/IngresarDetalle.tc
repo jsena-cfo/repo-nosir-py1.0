@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarDetalle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb84a487-5a0b-4955-bdbc-137f405ba9fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d15fb45-9afe-426e-bea8-67dcde72cc1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56d3a554-aba7-4a81-8842-aee873cd9a8e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d15fb45-9afe-426e-bea8-67dcde72cc1b</id>
+      <masked>false</masked>
+      <name>n</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56d3a554-aba7-4a81-8842-aee873cd9a8e</id>
+      <masked>false</masked>
+      <name>monto</name>
+   </variable>
+</TestCaseEntity>

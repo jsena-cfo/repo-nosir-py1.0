@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FiltrarCarpeta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da978a55-d45e-48e1-8a0c-99273a4350b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c6281fa-c6ec-4875-b1c7-87004298ce19</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>791178a3-4205-4cfd-8f19-94711d2786f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>0c6281fa-c6ec-4875-b1c7-87004298ce19</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>791178a3-4205-4cfd-8f19-94711d2786f6</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarParametrosContratacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c2b4a7c-df9c-48e1-9849-e8e1fbf91228</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3321db55-2366-4cb4-993a-ff05d4348a06</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>74c7c979-5b70-4603-b166-dd01d7f8d1ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SAVARELA'</defaultValue>
+      <description></description>
+      <id>3321db55-2366-4cb4-993a-ff05d4348a06</id>
+      <masked>false</masked>
+      <name>varUsuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'sigaf2014'</defaultValue>
+      <description></description>
+      <id>74c7c979-5b70-4603-b166-dd01d7f8d1ba</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo -Analista UE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf101176-5411-4acb-b8c5-1bc25793dfcc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>044e22ea-ebbe-4c4f-b835-80776e1edcde</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>044e22ea-ebbe-4c4f-b835-80776e1edcde</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

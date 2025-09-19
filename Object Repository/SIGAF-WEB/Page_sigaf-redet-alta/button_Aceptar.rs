@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aceptar</name>
+   <tag></tag>
+   <elementGuidId>616b8290-c51f-46e9-aaff-adfe1888ce31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body.mat.desktop.no-touch.platform-mat.q-responsive-modal > div.modal.fullscreen.row.flex-center > div.modal-content > div.row.justify-end.q-pa-sm > button.q-btn.inline.relative-position.q-btn-item.non-selectable.q-btn-rectangle.q-focusable.q-hoverable.bg-primary.text-white</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and (text() = 'Aceptar' or . = 'Aceptar')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[32]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b50fdd31-6f4f-4558-a70c-54f47e79f402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9c3a3436-60f1-41c6-b3fa-16a33fb606fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>16b41d71-65bb-4844-b1cd-c11066433a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-focusable q-hoverable bg-primary text-white</value>
+      <webElementGuid>ed010a24-e42b-4ba4-81d9-f59825534b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aceptar</value>
+      <webElementGuid>659708b4-92a0-4531-a45a-baae6e9a0bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat desktop no-touch platform-mat q-responsive-modal&quot;]/div[@class=&quot;modal fullscreen row flex-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;row justify-end q-pa-sm&quot;]/button[@class=&quot;q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-focusable q-hoverable bg-primary text-white&quot;]</value>
+      <webElementGuid>44ee111e-bb23-428c-a83c-5865aedd6d93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[32]</value>
+      <webElementGuid>60f3fdc0-4f38-48d1-804d-b3eb73f5f1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Está seguro de anular esta solicitud?'])[1]/following::button[1]</value>
+      <webElementGuid>9b5b49c3-2ac9-48ff-8ee8-fe3892622991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anular solicitud'])[1]/following::button[1]</value>
+      <webElementGuid>ec341dc8-1cfd-4fb1-a34a-27a13c763dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/preceding::button[1]</value>
+      <webElementGuid>14833683-3659-4674-8500-07c1ba8433c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>5297559b-75e6-4a50-8e19-16642f8cd8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Aceptar' or . = 'Aceptar')]</value>
+      <webElementGuid>326d9001-8bfa-4498-9965-c5859a96fac2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarBotonLimpiar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d29c88f-f757-4357-af11-173c9db32467</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9b812d5-d273-4bd7-8291-e44114ffae9e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a9c1ac5-c212-4f9c-912b-af8419edc96b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitEmpleado</defaultValue>
+      <description></description>
+      <id>e9b812d5-d273-4bd7-8291-e44114ffae9e</id>
+      <masked>false</masked>
+      <name>varEmpleado</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>1a9c1ac5-c212-4f9c-912b-af8419edc96b</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>

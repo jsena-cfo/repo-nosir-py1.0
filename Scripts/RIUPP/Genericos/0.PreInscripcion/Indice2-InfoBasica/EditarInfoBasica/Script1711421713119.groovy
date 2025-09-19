@@ -1,0 +1,51 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.setText(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/inputNumero de IIBB'), '12345678')
+
+if (tipoProveedor != 'Union Transitoria de Empresas') {
+    WebUI.setText(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/input_Lugar'), 'test')
+
+    WebUI.setText(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/input_Fecha'), '05/05/2018')
+}
+
+WebUI.click(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/input_Numero de inscripcion'))
+
+WebUI.setText(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/input_Numero de inscripcion'), '12345678')
+
+WebUI.setText(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/input_Organismo'), 'test')
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/select_ProvinciaOrganismo'), 'Ciudad Autonoma de Bs.As.', 
+    true)
+
+if (tipoProveedor == 'Cooperativas') {
+    WebUI.setText(findTestObject('RIUPP/Page_BAC - Indice 2/inputINAES'), 'test')
+} else if (tipoProveedor == 'Talleres Protegidos') {
+    WebUI.setText(findTestObject('RIUPP/Page_BAC - Indice 2/inputREGICE'), 'test')
+}
+
+WebUI.callTestCase(findTestCase('RIUPP/Genericos/0.PreInscripcion/Indice2-InfoBasica/CompletarDomicilioLegal'), [('provincia') : provincia
+	, ('partido') : partido, ('localidad') : localidad], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/chkUsarMismoDomicilio'))
+
+WebUI.click(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/rbFiguraEstatal'))
+
+WebUI.click(findTestObject('Object Repository/RIUPP/Page_BAC - Indice 2/btnSiguiente'))
+

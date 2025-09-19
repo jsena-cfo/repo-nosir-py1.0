@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05c8cde3-1014-4bb0-8439-9581d4981009</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>699d4bca-e151-46e4-828d-33681130ae67</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dae9158f-dead-4e33-92a6-e30d1a703473</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc7af33b-180e-4364-b332-916819e8421c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userSolicitante</defaultValue>
+      <description></description>
+      <id>699d4bca-e151-46e4-828d-33681130ae67</id>
+      <masked>false</masked>
+      <name>userVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passSolicitante</defaultValue>
+      <description></description>
+      <id>dae9158f-dead-4e33-92a6-e30d1a703473</id>
+      <masked>false</masked>
+      <name>passVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>fc7af33b-180e-4364-b332-916819e8421c</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

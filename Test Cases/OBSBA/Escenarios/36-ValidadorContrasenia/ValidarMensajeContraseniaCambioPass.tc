@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarMensajeContraseniaCambioPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8f01365-db31-4680-9220-51a5ffd6d5e2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f30e268d-5a31-48ee-999a-b72cac15688a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cd57cab-7186-409d-a6e6-7c44dd3c96c3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99da6e72-2719-45a8-956d-61d110999581</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAfiliado</defaultValue>
+      <description></description>
+      <id>f30e268d-5a31-48ee-999a-b72cac15688a</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'auto'</defaultValue>
+      <description></description>
+      <id>1cd57cab-7186-409d-a6e6-7c44dd3c96c3</id>
+      <masked>false</masked>
+      <name>ContrasenaError</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>99da6e72-2719-45a8-956d-61d110999581</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

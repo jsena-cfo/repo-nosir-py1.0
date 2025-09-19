@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompraPorConvenioMarco</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0717020e-a9bc-48a0-a492-e2c81687f7be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>269e096b-7d9d-4e23-a6f2-0372733e7bf2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Emilse Carmen Filippo'</defaultValue>
+      <description></description>
+      <id>269e096b-7d9d-4e23-a6f2-0372733e7bf2</id>
+      <masked>false</masked>
+      <name>autorizador</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarDocumentoSubir01Mayor25MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fd21f3a-2a2f-4200-98ec-fba9a9ba5a5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d54f45e-d9de-4319-a217-98d9a8286701</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9920afc0-7528-457e-a3da-e51be1f94b25</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>2d54f45e-d9de-4319-a217-98d9a8286701</id>
+      <masked>false</masked>
+      <name>intUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>9920afc0-7528-457e-a3da-e51be1f94b25</id>
+      <masked>false</masked>
+      <name>intPassword</name>
+   </variable>
+</TestCaseEntity>

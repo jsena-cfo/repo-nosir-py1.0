@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarModificarDatosUsuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08268753-5a92-4516-8987-dc165e1947b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>478182b8-8988-4396-8c51-f6a83b71cd1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1223e389-932c-4609-828b-904f50d75462</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e7681fe-82bc-478e-84d4-188fa2e323b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>478182b8-8988-4396-8c51-f6a83b71cd1a</id>
+      <masked>false</masked>
+      <name>usuarioAdm</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>1223e389-932c-4609-828b-904f50d75462</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>0e7681fe-82bc-478e-84d4-188fa2e323b0</id>
+      <masked>false</masked>
+      <name>usuarioInt</name>
+   </variable>
+</TestCaseEntity>

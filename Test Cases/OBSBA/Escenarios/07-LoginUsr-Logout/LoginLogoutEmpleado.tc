@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginLogoutEmpleado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96180359-3c65-43f5-83b4-9ca3ed9d7ff1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15ff1eec-0641-4082-88e2-e322303fb1d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>836b4276-a107-462e-b9ed-10a63d4bf84a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitEmpleado</defaultValue>
+      <description></description>
+      <id>15ff1eec-0641-4082-88e2-e322303fb1d3</id>
+      <masked>false</masked>
+      <name>varUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>836b4276-a107-462e-b9ed-10a63d4bf84a</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>

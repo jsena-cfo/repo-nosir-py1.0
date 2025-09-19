@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProveedorNacionalDeshabilitadoError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3d38cfd-f420-4d20-b956-768131e0aa97</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d33adb4-b729-4cf8-b3c2-e6c647e70e25</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>0d33adb4-b729-4cf8-b3c2-e6c647e70e25</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

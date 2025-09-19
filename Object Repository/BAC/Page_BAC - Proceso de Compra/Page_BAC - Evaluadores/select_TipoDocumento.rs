@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TipoDocumento</name>
+   <tag></tag>
+   <elementGuidId>8cc0476b-f326-4b73-ac7b-6532f2ce2234</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_ucActoAdministrativoSADE_ddlTipoDocumento</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_ucActoAdministrativoSADE_ddlTipoDocumento']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>51236972-6103-404a-886d-1e64d1b26aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$ucActoAdministrativoSADE$ddlTipoDocumento</value>
+      <webElementGuid>3a83a20b-f586-419f-ac2f-7f1db258a790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_ucActoAdministrativoSADE_ddlTipoDocumento</value>
+      <webElementGuid>a37a0cc0-3c31-432e-b3d7-30fa68ea500c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f2818b4f-6bed-4ed8-b182-5c3f45d969f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Seleccionar
+	Declaración Jurada Incompatibilidad C. Evaluadora
+
+</value>
+      <webElementGuid>673f3023-0f98-44c6-9565-571673120806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ucActoAdministrativoSADE_ddlTipoDocumento&quot;)</value>
+      <webElementGuid>98f0fa4a-0b3e-4240-bcf2-1e4219d85fea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ucActoAdministrativoSADE_ddlTipoDocumento']</value>
+      <webElementGuid>7559727c-c69a-4de1-9eec-a28ce4bf7bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DivValidaTipoDocumento']/div/select</value>
+      <webElementGuid>09dee981-0327-417c-b48c-6e3921a7bb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo documento:'])[1]/following::select[1]</value>
+      <webElementGuid>1bdf901e-a3be-4a15-a4f8-e5a5fba4ff70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaración Jurada Evaluador'])[1]/following::select[1]</value>
+      <webElementGuid>2ea02c45-8095-40a4-8456-1b99d44b8d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifique que el tipo haya sido ingresado.'])[1]/preceding::select[1]</value>
+      <webElementGuid>00ee4ae1-a754-45e1-baf8-7bddb0eb4089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Año:'])[1]/preceding::select[1]</value>
+      <webElementGuid>fcde6cb2-8afa-4425-a663-ca32e4b06dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>3ad99099-4649-4aa7-8974-dfa335852f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$ucActoAdministrativoSADE$ddlTipoDocumento' and @id = 'ctl00_CPH1_ucActoAdministrativoSADE_ddlTipoDocumento' and (text() = '
+	Seleccionar
+	Declaración Jurada Incompatibilidad C. Evaluadora
+
+' or . = '
+	Seleccionar
+	Declaración Jurada Incompatibilidad C. Evaluadora
+
+')]</value>
+      <webElementGuid>e69d89ac-0552-46f2-85b2-7383048b10c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

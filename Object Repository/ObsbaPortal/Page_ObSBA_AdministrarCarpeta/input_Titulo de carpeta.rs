@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Titulo de carpeta</name>
+   <tag></tag>
+   <elementGuidId>59f00dc9-a048-4781-aaee-ca0851a099cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-fullWidth.Mui-focused.Mui-focused.MuiInputBase-formControl > input.MuiInputBase-input.MuiOutlinedInput-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;root&quot;]/div/main/div/form[1]/div/div[18]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'idInpTitulo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ccb6cd84-7bb4-417e-bfc1-7c2bd8917e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bd7a3e4a-9559-4915-b1ad-73ed7513be4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8187359b-6fd9-4162-903d-ab55d3712be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input MuiOutlinedInput-input</value>
+      <webElementGuid>61b88c89-1065-4ab5-af84-299d613e6e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Prueba titulo78572</value>
+      <webElementGuid>5d8c2bb7-f4a3-4631-9146-25ddb73d3914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss132&quot;]/main[@class=&quot;MuiGrid-root jss131 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss130 MuiGrid-item&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root jss148 MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl&quot;]/input[@class=&quot;MuiInputBase-input MuiOutlinedInput-input&quot;]</value>
+      <webElementGuid>bb8e9b94-2348-4e04-8c6f-79cdfe21d2f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idInpTitulo</value>
+      <webElementGuid>f0a96816-2bbd-47b9-a4f0-86c9059162de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Prueba titulo78572']</value>
+      <webElementGuid>9e396fbe-19de-4aed-8790-22d40dbd0058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/form/div/div[15]/div/div/input</value>
+      <webElementGuid>abd476e6-cdd5-4bb7-b06c-477c5079e6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/input</value>
+      <webElementGuid>d7c051db-1ffa-4ed8-a28d-4d4b4f9196c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>ad2b359b-d187-4032-bc6d-1c1d423321cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

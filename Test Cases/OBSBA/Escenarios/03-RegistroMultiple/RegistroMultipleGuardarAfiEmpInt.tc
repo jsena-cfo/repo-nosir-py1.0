@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RegistroMultipleGuardarAfiEmpInt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0d62c13-4c38-4570-ac42-734ba767ab8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97655ec5-7cc5-4269-aa5b-ea6279c0ac9d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>97655ec5-7cc5-4269-aa5b-ea6279c0ac9d</id>
+      <masked>false</masked>
+      <name>varUrl</name>
+   </variable>
+</TestCaseEntity>

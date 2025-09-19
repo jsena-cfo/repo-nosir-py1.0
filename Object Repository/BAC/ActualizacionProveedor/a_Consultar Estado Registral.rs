@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Consultar Estado Registral</name>
+   <tag></tag>
+   <elementGuidId>30fc33e9-6109-48b9-9ad8-d4ce0d24d57c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu > ul.dropdown-menu > li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ccc5fc77-63ad-4089-859d-99be603846ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/RIUPP/VerCertificadoEstadoRegistral.aspx</value>
+      <webElementGuid>49a70de8-5c4a-4b96-bc13-07ae9c4c678a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consultar Estado Registral</value>
+      <webElementGuid>83d340ec-b32b-453a-aa0c-9b443b90343d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[5]/a[1]</value>
+      <webElementGuid>fe9faf8e-a724-4921-8c5e-43ae03b12366</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[5]/a</value>
+      <webElementGuid>82e1a96f-1ad0-4877-8f4d-252e0820924f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Consultar Estado Registral')]</value>
+      <webElementGuid>7f590213-e6d8-4016-ba3f-8ff0c0187ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar Usuarios'])[1]/following::a[1]</value>
+      <webElementGuid>da82db84-bef8-409c-8afe-bfa10fcdb551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitar Baja del Proveedor'])[1]/following::a[2]</value>
+      <webElementGuid>5dafe328-9dde-4db8-892e-726c6018a9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis trámites'])[1]/preceding::a[1]</value>
+      <webElementGuid>53aa007c-874f-4e3f-9ba1-cd752113ceb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consultar Estado Registral']/parent::*</value>
+      <webElementGuid>40d5ea28-6683-4d44-95c2-ec8de642d6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/RIUPP/VerCertificadoEstadoRegistral.aspx')]</value>
+      <webElementGuid>b2208ae5-d30d-4444-bc0a-6e203a6a1718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[5]/a</value>
+      <webElementGuid>f7c7aa43-0a2d-4d8f-be67-91ded75dfeaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/RIUPP/VerCertificadoEstadoRegistral.aspx' and (text() = 'Consultar Estado Registral' or . = 'Consultar Estado Registral')]</value>
+      <webElementGuid>7cb34389-fabd-432f-8073-8d948c3c9887</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

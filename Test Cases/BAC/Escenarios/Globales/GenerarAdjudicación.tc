@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarAdjudicación</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aed96cca-971a-49cb-8ca0-25139fd9fd4e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>044e22ea-ebbe-4c4f-b835-80776e1edcde</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8570bbc-8b85-4621-93bc-a44890e3452a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>044e22ea-ebbe-4c4f-b835-80776e1edcde</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>c8570bbc-8b85-4621-93bc-a44890e3452a</id>
+      <masked>false</masked>
+      <name>renglones</name>
+   </variable>
+</TestCaseEntity>

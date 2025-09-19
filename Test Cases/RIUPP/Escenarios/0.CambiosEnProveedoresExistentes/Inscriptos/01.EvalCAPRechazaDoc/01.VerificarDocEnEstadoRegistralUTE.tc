@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.VerificarDocEnEstadoRegistralUTE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf976ed2-cd81-40d1-a7cd-417638671c9b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarSinDeudaRegistradaPrestador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ecc883a-d3ea-4ab2-bf56-62d5de933d6c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20d612b4-87d8-4fed-9295-38830c5660d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9816ea8d-e071-44c2-8ff5-5c8d1ff971b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitPrestador</defaultValue>
+      <description></description>
+      <id>20d612b4-87d8-4fed-9295-38830c5660d4</id>
+      <masked>false</masked>
+      <name>varUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>9816ea8d-e071-44c2-8ff5-5c8d1ff971b9</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>

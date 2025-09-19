@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Configurar documentos</name>
+   <tag></tag>
+   <elementGuidId>1422caca-f65c-4c0a-ac9a-9414594b0f0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu > ul.dropdown-menu > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85de8b9b-fcee-4412-9ddb-3b772a845bee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/RIUPP/ConfiguraciondeDocumento.aspx</value>
+      <webElementGuid>426fff80-4d00-4924-94f9-8ad9c1730041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configurar documentos </value>
+      <webElementGuid>74a1a664-4044-450c-95a0-44f3aab98abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>b75fb197-c081-4489-953e-febb9b117708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li/a</value>
+      <webElementGuid>d2aa823d-a4e4-457d-85b6-1d355180498b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Configurar documentos')]</value>
+      <webElementGuid>b1ca9fac-a5df-433f-95d5-b550d5c2eadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar'])[1]/following::a[1]</value>
+      <webElementGuid>13d1f0bb-42c2-4c2e-b091-796122134ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Búsqueda avanzada Proveedor'])[1]/following::a[2]</value>
+      <webElementGuid>25cd9862-4b21-4522-94b6-6596f8348aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel de Tramites RIUPP/CAP'])[1]/preceding::a[1]</value>
+      <webElementGuid>70f8f34e-56d4-406b-ac93-64876740ba4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar'])[1]/preceding::a[2]</value>
+      <webElementGuid>51ab2b0f-2668-48c2-a5e6-ac7bc90846b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Configurar documentos']/parent::*</value>
+      <webElementGuid>e60b398b-625f-4f0d-aeff-9eb29ea8cd83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/RIUPP/ConfiguraciondeDocumento.aspx')]</value>
+      <webElementGuid>37535343-f878-470f-a221-73f187a766fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>d31eb08a-cc0b-46c0-a35b-31bfc5d5ce77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/RIUPP/ConfiguraciondeDocumento.aspx' and (text() = 'Configurar documentos ' or . = 'Configurar documentos ')]</value>
+      <webElementGuid>3c1f7aef-d90e-4a09-8141-d8c477b4e952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

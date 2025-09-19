@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OCAParametrizadaParcialParcial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7341776-da5b-483b-a5ef-07080fad6781</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c8e2e9b-039e-40fd-89c6-629356dd20bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c8e2e9b-039e-40fd-89c6-629356dd20bc</id>
+      <masked>false</masked>
+      <name>cantidad</name>
+   </variable>
+</TestCaseEntity>

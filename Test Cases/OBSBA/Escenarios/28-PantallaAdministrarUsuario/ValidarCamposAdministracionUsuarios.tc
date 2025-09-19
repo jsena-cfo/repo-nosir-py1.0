@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarCamposAdministracionUsuarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feed46d2-e625-4878-b528-b2e71a171d8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bfbe848f-54b4-4eb9-afcf-b4a76752e07a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f3b5096-a5fe-446a-a41d-aa6356a454df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da1f3bff-7136-43a3-ac4c-20a7906f5df9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>bfbe848f-54b4-4eb9-afcf-b4a76752e07a</id>
+      <masked>false</masked>
+      <name>usuarioAdm</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>8f3b5096-a5fe-446a-a41d-aa6356a454df</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>da1f3bff-7136-43a3-ac4c-20a7906f5df9</id>
+      <masked>false</masked>
+      <name>usuarioInt</name>
+   </variable>
+</TestCaseEntity>

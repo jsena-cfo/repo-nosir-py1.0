@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_comentarioRectificar</name>
+   <tag></tag>
+   <elementGuidId>68115fcf-524e-4283-890a-f9987b934861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-10 > textarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>f7a6683e-d0d0-4d6c-8094-07e1fb666990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>cd705193-a107-4950-8384-1d487c86a31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Deje una observación...</value>
+      <webElementGuid>3a6b9be3-0ed9-460b-8c2e-6622d291de14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat desktop no-touch platform-mat q-responsive-modal&quot;]/div[@class=&quot;modal fullscreen row flex-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/textarea[1]</value>
+      <webElementGuid>66210778-3cef-43ca-a5b8-ccd8ea2a0788</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/textarea</value>
+      <webElementGuid>3082fe70-62dd-41ae-ab69-4a1f4977dfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Deje una observación...']</value>
+      <webElementGuid>f9ada79d-ba07-4e43-ac4d-ec401d7532a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

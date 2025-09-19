@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tipo usuario</name>
+   <tag></tag>
+   <elementGuidId>1c26aa25-65a1-45e6-af07-277b4d3ea4a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiInputBase-root.MuiOutlinedInput-root.MuiAutocomplete-inputRoot.Mui-disabled.Mui-disabled.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedEnd.MuiOutlinedInput-adornedEnd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/form/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4c740ff-c0d3-436a-adec-d9190792a9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-root MuiOutlinedInput-root MuiAutocomplete-inputRoot Mui-disabled Mui-disabled MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd</value>
+      <webElementGuid>e500b647-d6d5-4613-ac4a-f9e655fdb7e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo usuario</value>
+      <webElementGuid>f8b115db-7f5d-444d-a42f-739c5cff8692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss40 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss41 MuiGrid-item&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6&quot;]/div[@class=&quot;MuiAutocomplete-root MuiAutocomplete-fullWidth MuiAutocomplete-hasPopupIcon&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiAutocomplete-inputRoot Mui-disabled Mui-disabled MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd&quot;]</value>
+      <webElementGuid>40983552-9a5a-4b53-8e10-aff70bfbaa9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/form/div/div[3]/div/div/div</value>
+      <webElementGuid>a8d437d7-7d7a-4efd-808d-3a5f9d1d6423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo usuario'])[1]/following::div[1]</value>
+      <webElementGuid>583b0fb4-7633-47df-a126-2a8473babdaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apellido / Nombre / Razon Social'])[2]/following::div[4]</value>
+      <webElementGuid>fb6986f6-cf3c-40b7-9901-3c72bd7162a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre de Usuario'])[1]/preceding::div[2]</value>
+      <webElementGuid>88d9da77-62a2-47e9-9ab5-34a37bf85063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>c650f17f-1ad5-4e53-8743-1479fe96013c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tipo usuario' or . = 'Tipo usuario')]</value>
+      <webElementGuid>8f5ef7e8-cfda-45bf-84f3-f188b290a8e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

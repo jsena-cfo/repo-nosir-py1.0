@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarItemSalud</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9c4568f-fb1b-4cc0-b609-c328858fd69d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fc739a8-8900-49d8-b1ea-f7e215147812</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test.pdf'</defaultValue>
+      <description></description>
+      <id>5fc739a8-8900-49d8-b1ea-f7e215147812</id>
+      <masked>false</masked>
+      <name>nombreArchivo</name>
+   </variable>
+</TestCaseEntity>

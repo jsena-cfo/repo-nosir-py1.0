@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Solicitar Baja del Proveedor</name>
+   <tag></tag>
+   <elementGuidId>5fd451c7-014d-44b2-8eda-1c65f59d4896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu > ul.dropdown-menu > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3d08983-054a-4466-a392-4757d592b64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/RIUPP/SolicitarBajaProveedor.aspx</value>
+      <webElementGuid>d6c24d55-fb74-49d1-ad50-e1649c0f7aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solicitar Baja del Proveedor</value>
+      <webElementGuid>1a67bae1-323f-4f1b-b11d-de3d6f7f2981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>7b1c66c8-4dfd-41e7-9b92-c9d822b99898</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[3]/a</value>
+      <webElementGuid>6f88b2b8-1a0c-428f-937e-d83cd8b87942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Solicitar Baja del Proveedor')]</value>
+      <webElementGuid>c3d2f3d4-ed19-4e2a-a8dc-7a1a0bc61b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificar Datos del Proveedor'])[1]/following::a[1]</value>
+      <webElementGuid>5a660da5-4030-4f9b-bc87-ae2a31121bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sello Empresa Mujer'])[1]/following::a[2]</value>
+      <webElementGuid>af343eef-ffee-4275-9cf1-9f4375376b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar Usuarios'])[1]/preceding::a[1]</value>
+      <webElementGuid>022731fc-b374-4fa1-9554-446a9abcd453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar Estado Registral'])[1]/preceding::a[2]</value>
+      <webElementGuid>23f5b6ff-6e34-477a-850e-77342d5a8672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solicitar Baja del Proveedor']/parent::*</value>
+      <webElementGuid>0191f437-9a75-4383-a9d0-a1cd42836255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/RIUPP/SolicitarBajaProveedor.aspx')]</value>
+      <webElementGuid>42485139-4ea6-46a3-9bf9-d9dae670a730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[3]/a</value>
+      <webElementGuid>b20bffc9-7311-4a2c-9f6e-dc9a14190dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/RIUPP/SolicitarBajaProveedor.aspx' and (text() = 'Solicitar Baja del Proveedor' or . = 'Solicitar Baja del Proveedor')]</value>
+      <webElementGuid>4c669069-6e61-4101-a575-c76f9ad777e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

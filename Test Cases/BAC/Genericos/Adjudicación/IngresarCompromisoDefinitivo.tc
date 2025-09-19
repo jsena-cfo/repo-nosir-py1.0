@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarCompromisoDefinitivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30429bae-4779-4749-be3c-aca1fae5a943</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f46d5419-6647-4b9b-acd2-bbfcf6a25231</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6fe33c5f-3d05-48a9-a162-dc6d5530c481</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.passAutorizador</defaultValue>
+      <description></description>
+      <id>f46d5419-6647-4b9b-acd2-bbfcf6a25231</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>6fe33c5f-3d05-48a9-a162-dc6d5530c481</id>
+      <masked>false</masked>
+      <name>monto</name>
+   </variable>
+</TestCaseEntity>

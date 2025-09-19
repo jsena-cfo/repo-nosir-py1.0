@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectSexo</name>
+   <tag></tag>
+   <elementGuidId>282f7be5-c0a6-4869-8eb4-a49600cd5232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_DatosPersonaFisica_ddlSexo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_DatosPersonaFisica_ddlSexo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2642e1e1-b933-4c94-a069-1a07efe68777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$DatosPersonaFisica$ddlSexo</value>
+      <webElementGuid>483ce8de-aa10-484a-9e02-4e483fbbf6a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_DatosPersonaFisica_ddlSexo</value>
+      <webElementGuid>5d0edd7c-57e4-4916-a62e-587423682762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f551b31c-e847-459f-a10c-d5ac7c372d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Seleccionar
+	Femenino
+	Masculino
+
+</value>
+      <webElementGuid>82f5cebe-66e3-4f5e-a61a-1bf2b0aaf31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_DatosPersonaFisica_ddlSexo&quot;)</value>
+      <webElementGuid>06200f45-695e-4d0d-9de7-355432236e25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_DatosPersonaFisica_ddlSexo']</value>
+      <webElementGuid>ea87d3b0-6106-46c8-b7f8-b5d583cdb207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_DatosPersonaFisica_DivSexo']/select</value>
+      <webElementGuid>752f3bb1-d91e-4e46-8c5b-1a2dcba35f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexo:'])[1]/following::select[1]</value>
+      <webElementGuid>4f6198c6-c0f8-4e36-b1c4-1b7a29055da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completar'])[3]/preceding::select[1]</value>
+      <webElementGuid>8133cc36-be40-48ed-af04-244f99c85149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>3122f3e3-6662-49a1-92b0-8c779c3e143d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$DatosPersonaFisica$ddlSexo' and @id = 'ctl00_CPH1_DatosPersonaFisica_ddlSexo' and (text() = '
+	Seleccionar
+	Femenino
+	Masculino
+
+' or . = '
+	Seleccionar
+	Femenino
+	Masculino
+
+')]</value>
+      <webElementGuid>4ceea1e6-f546-4043-aa3e-e8c6a8a89c44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

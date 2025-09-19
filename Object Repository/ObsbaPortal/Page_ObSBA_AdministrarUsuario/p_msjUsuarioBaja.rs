@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_msjUsuarioBaja</name>
+   <tag></tag>
+   <elementGuidId>fb11f9cd-40cb-48e8-aa6b-4848c25311e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='transition-modal-description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-description</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'transition-modal-description' and (text() = 'El usuario fue dado de baja.' or . = 'El usuario fue dado de baja.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dec35563-e505-4e5a-b0e6-7dd96610971b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1</value>
+      <webElementGuid>c927451a-4d15-41a3-b6db-f4b30781239a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-description</value>
+      <webElementGuid>90cc97a0-89d5-4a43-94a6-4deda828f08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sx</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0278dcb9-084f-463c-ae09-fc4c8c58ff39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El usuario fue dado de baja.</value>
+      <webElementGuid>824b72d8-eabc-4948-b971-1be793655968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-description&quot;)</value>
+      <webElementGuid>4b2c3dc1-b118-4595-832d-d2f8db57b3e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='transition-modal-description']</value>
+      <webElementGuid>da79297a-a2a7-47d8-8acc-e91991771a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operación realizada exitosamente'])[1]/following::p[1]</value>
+      <webElementGuid>93a9135f-af66-4746-9a34-5f3dbdb08683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-description', '&quot;', ')')])[1]/following::p[1]</value>
+      <webElementGuid>3aeecfc3-ef03-45b3-a473-670b3488ee51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El usuario fue dado de baja.']/parent::*</value>
+      <webElementGuid>c2b1f343-0243-4fd1-8018-b4683f5a378f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>0c4390e5-2724-43b8-8ad8-d3986a7abfb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'transition-modal-description' and (text() = 'El usuario fue dado de baja.' or . = 'El usuario fue dado de baja.')]</value>
+      <webElementGuid>82b15b6b-80a6-4d99-ac7d-e9e12d8cbd2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

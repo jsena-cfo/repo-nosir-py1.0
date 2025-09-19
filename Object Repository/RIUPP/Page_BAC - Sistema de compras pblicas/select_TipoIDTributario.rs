@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TipoIDTributario</name>
+   <tag></tag>
+   <elementGuidId>55f44bc3-e81d-4e5b-925d-14a5010ae436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_GenerarProveedor_ddlTipoIdentificador']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_GenerarProveedor_ddlTipoIdentificador</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9e08647e-38d1-458f-b449-069985c8de31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$GenerarProveedor$ddlTipoIdentificador</value>
+      <webElementGuid>a69cb8fe-90bc-4dc1-93a3-2dde9eeb11ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_GenerarProveedor_ddlTipoIdentificador</value>
+      <webElementGuid>1a1955a2-d0ea-418d-b83a-39dde2596ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>0e918477-3d1b-415d-a0fc-b8b3c26ee3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Seleccionar
+
+</value>
+      <webElementGuid>39c7fa1f-c12d-4e06-8c89-a0ae1aabd121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_GenerarProveedor_ddlTipoIdentificador&quot;)</value>
+      <webElementGuid>cc788e04-5aad-45ce-91cb-ea877f4b568b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_GenerarProveedor_ddlTipoIdentificador']</value>
+      <webElementGuid>09b22cc9-6e25-4f4c-8d99-9deb69557fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DivTipoIdentificador']/select</value>
+      <webElementGuid>e79c1051-b29e-4f70-b649-30dbba59aa71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo identificador tributario:'])[1]/following::select[1]</value>
+      <webElementGuid>51078df4-6ae6-41b5-8cc7-bbd81add7463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifique que el campo tipo de identificador tributario haya sido seleccionado.'])[1]/preceding::select[1]</value>
+      <webElementGuid>021bea12-d086-44d6-9bc0-842381e8e4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/select</value>
+      <webElementGuid>9be58b22-0f32-46db-9969-11cc64999a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$GenerarProveedor$ddlTipoIdentificador' and @id = 'ctl00_CPH1_GenerarProveedor_ddlTipoIdentificador' and (text() = '
+	Seleccionar
+
+' or . = '
+	Seleccionar
+
+')]</value>
+      <webElementGuid>92030013-acbe-475f-a5da-1ea850492d64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

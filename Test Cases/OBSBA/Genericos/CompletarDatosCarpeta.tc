@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDatosCarpeta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f13aa3d-9ae8-457e-8e6b-3d4bcc1ae577</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b829b5e7-5fec-4ca2-8e51-d793fde03094</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb4ccc5f-e266-4beb-8664-9242a46f88e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d341364f-2718-480b-a051-877c3fad13a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef9f07ba-dc82-4f54-903d-568916a2ae7f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b829b5e7-5fec-4ca2-8e51-d793fde03094</id>
+      <masked>false</masked>
+      <name>tipoCarpeta</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>cb4ccc5f-e266-4beb-8664-9242a46f88e2</id>
+      <masked>false</masked>
+      <name>contienePago</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>d341364f-2718-480b-a051-877c3fad13a9</id>
+      <masked>false</masked>
+      <name>titulo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Prueba automatizada'</defaultValue>
+      <description></description>
+      <id>ef9f07ba-dc82-4f54-903d-568916a2ae7f</id>
+      <masked>false</masked>
+      <name>descripcion</name>
+   </variable>
+</TestCaseEntity>

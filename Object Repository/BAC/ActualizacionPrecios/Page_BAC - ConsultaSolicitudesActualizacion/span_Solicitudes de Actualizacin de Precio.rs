@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Solicitudes de Actualizacin de Precio</name>
+   <tag></tag>
+   <elementGuidId>91cbc1eb-82c4-4154-9854-4161435a4d3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_Label2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_CPH1_Label2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f6b789f-6a50-4a63-a6b3-d96bbb2242d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_Label2</value>
+      <webElementGuid>db94b2a5-5eb2-4243-8eb0-e56d208fda73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solicitudes de Actualización de Precio:</value>
+      <webElementGuid>1e3e0281-9038-4c7f-b514-633a645fce16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_Label2&quot;)</value>
+      <webElementGuid>b520ded6-7529-45dc-a2cf-842abdb814ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_CPH1_Label2']</value>
+      <webElementGuid>57cf1627-a340-4dc5-aaa5-f69b7daa8223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas']/div[21]/div/span</value>
+      <webElementGuid>da637d5d-02ce-48b7-9e19-54086dfa469e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actualización de Precios'])[12]/following::span[1]</value>
+      <webElementGuid>5198e8d6-10f6-4a99-87ba-417b3acbae21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actualización de Precios'])[11]/following::span[4]</value>
+      <webElementGuid>139219bc-7a15-48e4-a7af-cb5636ec2c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver solicitudes'])[1]/preceding::span[1]</value>
+      <webElementGuid>cc160603-9080-45d2-a2fa-b678dcb2fa1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unidades Ejecutoras habilitadas'])[1]/preceding::span[1]</value>
+      <webElementGuid>454979d7-1c34-4b15-b8e6-6e9bf2d29698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solicitudes de Actualización de Precio:']/parent::*</value>
+      <webElementGuid>82f655c9-6fc5-4fff-b2b8-6bedaf7c8f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div/span</value>
+      <webElementGuid>68f57bca-7d21-4da2-8917-3d0375b9f79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_CPH1_Label2' and (text() = 'Solicitudes de Actualización de Precio:' or . = 'Solicitudes de Actualización de Precio:')]</value>
+      <webElementGuid>37d66125-5f1d-4c45-9ade-a57476a7ca98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

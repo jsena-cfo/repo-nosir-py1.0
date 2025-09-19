@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnGuardar y Volver</name>
+   <tag></tag>
+   <elementGuidId>72ccf07b-1cf1-4eb2-956a-2aeda8a0c226</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkSiguientePaso</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_lnkSiguientePaso']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>444f2c0c-5c07-46d0-84e2-869083ffc2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_lnkSiguientePaso</value>
+      <webElementGuid>6429112f-85b5-48c0-91c5-b624d77f619e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>a4e86c63-a1f4-4041-9bea-7b420f09eff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkSiguientePaso&quot;, &quot;&quot;, true, &quot;validarAutorizador&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>68e03649-0dce-4fec-b691-7de36d58c82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guardar y Volver</value>
+      <webElementGuid>7bc6f605-e664-429c-82a3-360436fd59ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkSiguientePaso&quot;)</value>
+      <webElementGuid>796f2728-bf12-4050-b426-bef9bdb9b992</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkSiguientePaso']</value>
+      <webElementGuid>21f52d6d-b988-4210-b6b1-135d266852e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas']/div[4]/a</value>
+      <webElementGuid>300cd167-679d-4556-ba06-f20ae0fdd38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Guardar y Volver')]</value>
+      <webElementGuid>57643c72-6099-4a9e-b68d-f6b2ebf2a1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorizador Seleccionado'])[1]/following::a[1]</value>
+      <webElementGuid>7859b1a6-5607-46ab-99d5-568b88f30a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/preceding::a[1]</value>
+      <webElementGuid>4961b1b6-4e38-4513-bb84-2a31d896512a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/preceding::a[2]</value>
+      <webElementGuid>dec36498-43bd-4307-aedf-de9535531dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guardar y Volver']/parent::*</value>
+      <webElementGuid>312a3686-2de6-4137-86b7-62907d7b43d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkSiguientePaso&quot;, &quot;&quot;, true, &quot;validarAutorizador&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>eb402e73-3e9c-4412-a6a9-3bdd348218da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>2882af8a-469e-4b4e-bdc4-cb25ed1353d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkSiguientePaso' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkSiguientePaso&quot;, &quot;&quot;, true, &quot;validarAutorizador&quot;, &quot;&quot;, false, true))' and (text() = 'Guardar y Volver' or . = 'Guardar y Volver')]</value>
+      <webElementGuid>2e0aed11-d213-49ab-98b7-6a6abef91c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

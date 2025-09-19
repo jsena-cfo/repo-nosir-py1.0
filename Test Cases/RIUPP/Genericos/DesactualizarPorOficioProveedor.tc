@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DesactualizarPorOficioProveedor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55400a0b-c608-4f32-b38f-c11a5902ddee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>084d02d3-c8fe-4cfd-9861-d1d29a48d368</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.razonSocial</defaultValue>
+      <description></description>
+      <id>084d02d3-c8fe-4cfd-9861-d1d29a48d368</id>
+      <masked>false</masked>
+      <name>razonSocial</name>
+   </variable>
+</TestCaseEntity>

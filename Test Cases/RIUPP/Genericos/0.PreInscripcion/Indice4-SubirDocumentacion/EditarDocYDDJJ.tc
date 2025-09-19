@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditarDocYDDJJ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9f4a849-82f2-44d9-9583-2e4714d79376</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>092209df-7d9f-4b42-8806-37592a84fff0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>092209df-7d9f-4b42-8806-37592a84fff0</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

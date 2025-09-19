@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_detalleOCA</name>
+   <tag></tag>
+   <elementGuidId>7b0db34e-df9e-45bb-84e3-789e6c325ae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div/div/div[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3 > label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = '550-0033-OCA19 ' or . = '550-0033-OCA19 ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>abfadfa5-93ba-4352-92a2-07d7abfa7ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>550-0033-OCA19 </value>
+      <webElementGuid>64a8ccd1-d6c1-49b4-9026-49fa24855aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;controls-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-11&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 row&quot;]/div[@class=&quot;col-md-3&quot;]/label[1]</value>
+      <webElementGuid>7a8e85a5-4f0c-4aab-865b-7d5b98ca3485</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div/div/div[5]/label</value>
+      <webElementGuid>54b43fd3-abd6-4278-80d2-d774bba70103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proveedor:'])[1]/following::label[3]</value>
+      <webElementGuid>d258555d-cbc1-4f57-9e17-f9cd89eae74e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejercicio:'])[1]/preceding::label[1]</value>
+      <webElementGuid>11608dcb-a5c2-4a1e-aa22-feaa16f717ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitud de Redeterminación Definitiva'])[1]/preceding::label[2]</value>
+      <webElementGuid>8012fd0b-6dd1-44a9-9146-6da798cc9b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='550-0033-OCA19']/parent::*</value>
+      <webElementGuid>23cc8077-047d-4356-ba29-a282f9cd6ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label</value>
+      <webElementGuid>fe95f83e-46a5-4ec0-8756-c14f975e5252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '550-0033-OCA19 ' or . = '550-0033-OCA19 ')]</value>
+      <webElementGuid>5e361799-2832-4700-9fad-14c78caa5566</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

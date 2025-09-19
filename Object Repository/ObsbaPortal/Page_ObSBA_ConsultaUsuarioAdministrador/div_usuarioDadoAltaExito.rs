@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_usuarioDadoAltaExito</name>
+   <tag></tag>
+   <elementGuidId>637b5717-97c2-46fb-b3a5-e92c166888a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss76</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/div[3]/div[@class=', '&quot;', 'MuiBox-root jss76', '&quot;', ']')])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f1828e0-4a7c-45f3-af6a-bbc8d2700185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss76</value>
+      <webElementGuid>4a2bd779-fcc8-45e0-845c-ccf8166ebc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d5b22110-ac08-4758-9dfb-a946627a0d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operación realizada exitosamenteEl usuario fue dado de alta.</value>
+      <webElementGuid>310a7eb9-98d0-4890-ab62-3302eaba1e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;MuiBox-root jss76&quot;]</value>
+      <webElementGuid>a55e233b-7f91-4cff-833d-8baaa91d651c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/div[3]/div[@class=', '&quot;', 'MuiBox-root jss76', '&quot;', ']')])[1]/following::div[4]</value>
+      <webElementGuid>9d9e16e0-589e-41ed-9e65-2a6dbc694576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[5]</value>
+      <webElementGuid>840c30f6-cc6e-4d40-a522-3e9554d8fa16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>c22bbd89-3f3e-4517-ac08-afecbfe70b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Operación realizada exitosamenteEl usuario fue dado de alta.' or . = 'Operación realizada exitosamenteEl usuario fue dado de alta.')]</value>
+      <webElementGuid>65165fb3-e8ef-4764-afb3-9b688053b788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

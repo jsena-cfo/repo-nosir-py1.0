@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0efa895-251e-4470-8508-9bb070067f85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e4e3625-4498-45da-b217-0c8414716d4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>0e4e3625-4498-45da-b217-0c8414716d4f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

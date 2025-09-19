@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ObtenerProveedorConTipoTramite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3894c5e3-0e3a-4c93-8a0b-8f7163ece046</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd17e1df-a8eb-4a6c-b53d-4aa71902ae5b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>cd17e1df-a8eb-4a6c-b53d-4aa71902ae5b</id>
+      <masked>false</masked>
+      <name>tipoTramite</name>
+   </variable>
+</TestCaseEntity>

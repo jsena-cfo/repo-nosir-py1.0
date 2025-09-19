@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarRequisitosMinimosPC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>562c9365-af56-4bfe-927e-b8626191aa8a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4c24d5b-1592-4c7a-8f59-8ba6f6b6e50e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ca2ccb0-4709-46f0-9491-02715ec60f6a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>203af51c-3d17-49d4-b56d-4e5ed06da218</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>b4c24d5b-1592-4c7a-8f59-8ba6f6b6e50e</id>
+      <masked>false</masked>
+      <name>RequisitosEconomicoYFinaciero</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>1ca2ccb0-4709-46f0-9491-02715ec60f6a</id>
+      <masked>false</masked>
+      <name>RequisitosTecnicos</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>203af51c-3d17-49d4-b56d-4e5ed06da218</id>
+      <masked>false</masked>
+      <name>RequisitosAdministrativos</name>
+   </variable>
+</TestCaseEntity>

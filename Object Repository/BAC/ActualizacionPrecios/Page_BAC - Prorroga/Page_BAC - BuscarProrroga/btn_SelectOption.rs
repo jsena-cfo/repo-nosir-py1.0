@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SelectOption</name>
+   <tag></tag>
+   <elementGuidId>67937b66-37a2-47d9-850f-68a5e62e5ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_divBddAcciones']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-option-vertical</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff1ec8d6-abbd-46cb-b636-4f83f982785b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-option-vertical</value>
+      <webElementGuid>b13411b8-ad0d-46f4-a6f4-d06bbac41b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_divBddAcciones&quot;)/button[@class=&quot;btn btn-primary btn-sm dropdown-toggle&quot;]/span[@class=&quot;glyphicon glyphicon-option-vertical&quot;]</value>
+      <webElementGuid>ad81d68c-479b-4a81-89c8-ab80c21e7c48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_divBddAcciones']/button/span</value>
+      <webElementGuid>9dbdf80a-5190-4258-a0e2-94b3e07b046d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/button/span</value>
+      <webElementGuid>ea38ed38-7dfa-4f5d-a96c-454f71ceadfd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

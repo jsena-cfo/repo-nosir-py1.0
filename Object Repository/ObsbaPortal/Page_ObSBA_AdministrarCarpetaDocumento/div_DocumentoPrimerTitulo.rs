@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DocumentoPrimerTitulo</name>
+   <tag></tag>
+   <elementGuidId>4dbca375-e2d4-4ae7-a321-805c4487c0a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Prueba  Titulo 02' and (text() = 'Prueba  Titulo 02' or . = 'Prueba  Titulo 02')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div/div/div[2]/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fad4ad14-e4f5-43cd-9917-7a12f57f1d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-cellContent</value>
+      <webElementGuid>b228da50-b33d-4482-84d2-8ff0dd00c9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Prueba  Titulo 02</value>
+      <webElementGuid>386e7fde-b76c-496b-a313-ef4bf3dbe3ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prueba  Titulo 02</value>
+      <webElementGuid>374106aa-922a-4eaf-b527-0e1c130c16f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-12dkb5y&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-frlfct&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row&quot;]/div[@class=&quot;MuiDataGrid-cell MuiDataGrid-cell--textLeft MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-cellContent&quot;]</value>
+      <webElementGuid>51a0a015-183b-42bc-ba4f-a06d36472650</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div/div/div[2]/div/div/div/div[3]/div</value>
+      <webElementGuid>d8258d21-53b9-4969-8da1-7e6725a9ac4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receta'])[1]/following::div[2]</value>
+      <webElementGuid>7de64e4b-3c6d-443a-a04e-4af89dec93c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::div[11]</value>
+      <webElementGuid>5206b135-f1aa-4a76-b557-406068fb35b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba Observacion 02'])[1]/preceding::div[1]</value>
+      <webElementGuid>aba88da1-13ab-41db-99a8-1ebfb1db0944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGRESION0589'])[3]/preceding::div[3]</value>
+      <webElementGuid>a9b402f5-2db7-4215-bc3c-975f1f549e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div</value>
+      <webElementGuid>59a7b259-c65d-42d2-99cd-41d6194932e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Prueba  Titulo 02' and (text() = 'Prueba  Titulo 02' or . = 'Prueba  Titulo 02')]</value>
+      <webElementGuid>9bc3897a-5e27-4ec7-a849-34d460eca448</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CrearReciboUsuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80506180-1f60-42d4-bed7-700691aec5c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd36fc10-6025-448c-9d66-a99ea467407f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitEmpleado</defaultValue>
+      <description></description>
+      <id>dd36fc10-6025-448c-9d66-a99ea467407f</id>
+      <masked>false</masked>
+      <name>cuilEmpleado</name>
+   </variable>
+</TestCaseEntity>

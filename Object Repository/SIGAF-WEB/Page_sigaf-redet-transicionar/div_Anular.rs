@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anular</name>
+   <tag></tag>
+   <elementGuidId>445591bf-dacc-4494-bea8-f790be317599</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8cffb43-704e-493f-8b3e-b9e7878b0f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn-inner row col items-center q-popup--skip justify-center</value>
+      <webElementGuid>11618410-ef32-498b-bb9b-6ec1df9bc322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anular</value>
+      <webElementGuid>c9565aca-536a-4dab-ad1b-8b67fae871bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;actions-container&quot;]/button[@class=&quot;q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-focusable q-hoverable bg-primary text-white&quot;]/div[@class=&quot;q-btn-inner row col items-center q-popup--skip justify-center&quot;]</value>
+      <webElementGuid>bfd6860a-96b4-479b-9c4e-13b73394b8bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div[2]/button[3]/div[2]</value>
+      <webElementGuid>5f075635-82e3-4a40-8378-e5c96e7f4c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autorizar'])[1]/following::div[2]</value>
+      <webElementGuid>6bd6191c-ee5a-45e3-90ba-42adb94b094a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/following::div[4]</value>
+      <webElementGuid>87aa7ad9-c63b-4ed5-a19d-71f41c62b719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rectificar'])[1]/preceding::div[2]</value>
+      <webElementGuid>2272e253-2b2e-4263-b50f-9cec7d43399f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historico'])[1]/preceding::div[4]</value>
+      <webElementGuid>0badc70a-f321-41d4-a01d-61369cfe68fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anular']/parent::*</value>
+      <webElementGuid>58fa5251-bc34-41f9-b4c3-32ccdc5a9eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div[2]</value>
+      <webElementGuid>e4b4492e-5546-4a3d-baeb-83da107a64b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anular' or . = 'Anular')]</value>
+      <webElementGuid>e012d489-61e5-421b-b1fd-bd8f2fe730a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

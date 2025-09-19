@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnNuevaCarpeta</name>
+   <tag></tag>
+   <elementGuidId>e0ce3176-eee2-49b6-93dc-6f8904eafd31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/form/div/div[12]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-8 > button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedSizeLarge.MuiButton-sizeLarge.MuiButton-fullWidth > span.MuiButton-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dde4e468-d9dd-40f6-8da4-f9a4e87cdf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>f2deffa2-c3c5-41f7-b45b-988f4bcaf4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nueva Carpeta</value>
+      <webElementGuid>c754b978-8240-438d-bfda-2a88a29999ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/form[@class=&quot;jss37&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>cb4b6d38-f938-46f9-a580-97dc999dfb62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/form/div/div[12]/button/span</value>
+      <webElementGuid>bbf2e597-b90f-457b-b322-a6dda8f71a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/following::span[2]</value>
+      <webElementGuid>57bf48d1-4e2c-4425-ae84-7110d1e1eacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar'])[1]/following::span[4]</value>
+      <webElementGuid>38507353-93b7-44da-af72-6bb2369eeb4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carpeta'])[1]/preceding::span[2]</value>
+      <webElementGuid>074c229f-3ea5-4c16-8ffd-002beae0f6d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fac'])[1]/preceding::span[4]</value>
+      <webElementGuid>9b6bd95a-1100-4964-b814-36e752bd97bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nueva Carpeta']/parent::*</value>
+      <webElementGuid>ca01ac17-ed1d-4404-b83d-0dd371a591e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/button/span</value>
+      <webElementGuid>31cb18e2-2c2f-4590-bf16-ef0bcb6357b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nueva Carpeta' or . = 'Nueva Carpeta')]</value>
+      <webElementGuid>179235a0-eb63-425c-b041-d33341dc4655</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

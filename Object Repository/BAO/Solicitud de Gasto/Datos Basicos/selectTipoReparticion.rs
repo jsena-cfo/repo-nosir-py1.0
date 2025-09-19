@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectTipoReparticion</name>
+   <tag></tag>
+   <elementGuidId>ac5fd309-8ba5-4902-a6b6-1c83de663cb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_ddlReparticionActuado</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_ddlReparticionActuado']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>951bdf38-5c08-46cf-be8c-538729fc9b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$ddlReparticionActuado</value>
+      <webElementGuid>a393f447-0cb0-40a2-8907-98aba2e5cd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_ddlReparticionActuado</value>
+      <webElementGuid>f510441b-e5aa-4ee0-a284-66947698dc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>d552dc91-5aa7-4400-8a52-f5094638926e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	MGEYA
+	GCABA
+
+</value>
+      <webElementGuid>95ffcbf8-3c79-45f7-a7fc-e3de402f2355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ddlReparticionActuado&quot;)</value>
+      <webElementGuid>cff27f55-51af-4a11-95c3-2c1a92e0e365</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ddlReparticionActuado']</value>
+      <webElementGuid>a42f48c5-bf41-4dae-ad2c-4ab07cd73ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_nroExpedienteContainer']/div[2]/table/tbody/tr/td[4]/select</value>
+      <webElementGuid>24255196-f250-47dd-b8c9-f79fe6e60b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número'])[1]/following::select[1]</value>
+      <webElementGuid>54a38a3e-f434-452a-afad-151d2d5dd202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paso'])[1]/preceding::select[1]</value>
+      <webElementGuid>bb5c330c-09b0-43b6-826c-67784418e2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>f7a1127a-418b-4e3a-acd9-643696327db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$ddlReparticionActuado' and @id = 'ctl00_CPH1_ddlReparticionActuado' and (text() = '
+	MGEYA
+	GCABA
+
+' or . = '
+	MGEYA
+	GCABA
+
+')]</value>
+      <webElementGuid>43bc9ecf-8a59-45c0-a750-3e0119a60902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

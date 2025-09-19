@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_modalAnular</name>
+   <tag></tag>
+   <elementGuidId>bdd19f43-b555-43cf-9706-78ba6383af84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body.mat.desktop.no-touch.platform-mat.q-responsive-modal > div.modal.fullscreen.row.flex-center > div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c39dc9c8-6c70-4e85-ac3a-cb02b02cefb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>73186477-2011-42c7-8f8a-2a19f4b6d543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>849112b9-54e4-42ad-a830-161c58dee2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anular solicitud¿Está seguro de anular esta solicitud?AceptarCancelar</value>
+      <webElementGuid>bdbff40c-65a8-42d9-98f2-1dbcad1bad86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat desktop no-touch platform-mat q-responsive-modal&quot;]/div[@class=&quot;modal fullscreen row flex-center&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>1cb5b5dd-0f5c-4f4e-a23f-53adfaa59a1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[4]</value>
+      <webElementGuid>648e3124-02d6-4e7a-8982-375b5b147fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[4]</value>
+      <webElementGuid>86fb644d-848d-4c8d-8adc-8d39cffd7f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>ba1de905-c757-4052-871b-72adde8f1f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anular solicitud¿Está seguro de anular esta solicitud?AceptarCancelar' or . = 'Anular solicitud¿Está seguro de anular esta solicitud?AceptarCancelar')]</value>
+      <webElementGuid>063f871b-6114-48b3-a49c-4fe96ed0f1a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

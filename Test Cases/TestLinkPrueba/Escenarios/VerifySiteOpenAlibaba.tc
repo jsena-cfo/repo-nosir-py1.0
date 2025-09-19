@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenAlibaba</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad493dc9-2f01-4027-a41c-4d1e917b40ae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e637d3c-a046-4be7-888c-e02e7648a391</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4d1dd3c-54b6-4a63-8bbf-7aea5e5809e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc566c81-a1a9-4b50-8763-8e792f043b61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Alibaba'</defaultValue>
+      <description></description>
+      <id>3e637d3c-a046-4be7-888c-e02e7648a391</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Alibaba se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>f4d1dd3c-54b6-4a63-8bbf-7aea5e5809e4</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Alibaba correctamente'</defaultValue>
+      <description></description>
+      <id>bc566c81-a1a9-4b50-8763-8e792f043b61</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

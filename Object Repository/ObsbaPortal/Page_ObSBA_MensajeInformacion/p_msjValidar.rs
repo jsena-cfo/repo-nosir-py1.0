@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_msjValidar</name>
+   <tag></tag>
+   <elementGuidId>5e0e9bdb-0eda-4f2c-9878-28dee7273d2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='transition-modal-description']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[@id = 'transition-modal-description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>912fd7d3-132b-4dcb-b731-8cf9641aa48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1</value>
+      <webElementGuid>086db32a-5e41-4fc1-91a1-17900263de13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-description</value>
+      <webElementGuid>5d37bec6-f9db-47c7-934e-39a6527db041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sx</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0cee4e03-ccdd-4b80-a03d-14243300fe3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El usuario 20153479500 con perfil prestador no puede tener otro perfil asignado</value>
+      <webElementGuid>1a9faaca-f8ba-43fd-9de2-763032bbf248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-description&quot;)</value>
+      <webElementGuid>c5537293-291f-40d3-8db3-14e2618492e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='transition-modal-description']</value>
+      <webElementGuid>a8af9936-2659-4d0d-bc7f-9e490716b864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalObsba']/p</value>
+      <webElementGuid>adf32b49-db0d-4ee4-9602-712acbe65e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
+      <webElementGuid>9498fe1a-57ca-4de1-8db9-3ff89fd30864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-description', '&quot;', ')')])[1]/following::p[1]</value>
+      <webElementGuid>aeea6d9c-515e-467e-a349-e25e4121116b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El usuario 20153479500 con perfil prestador no puede tener otro perfil asignado']/parent::*</value>
+      <webElementGuid>f043917c-4d11-4e7d-9b22-d78af1c8755d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>f61cf5fa-5c4c-4a10-a9c0-bc6feef2e2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'transition-modal-description' and (text() = 'El usuario 20153479500 con perfil prestador no puede tener otro perfil asignado' or . = 'El usuario 20153479500 con perfil prestador no puede tener otro perfil asignado')]</value>
+      <webElementGuid>5bc1dd24-8014-4278-87ec-1a059969b178</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

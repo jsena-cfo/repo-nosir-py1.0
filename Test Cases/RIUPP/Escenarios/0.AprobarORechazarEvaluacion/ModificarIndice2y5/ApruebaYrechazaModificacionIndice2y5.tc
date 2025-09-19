@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Evaluador verifica que puede aprobar/rechazar todos los campos despues de que el prov modifica el ind 2</description>
+   <name>ApruebaYrechazaModificacionIndice2y5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3ce8e3b-8027-47b4-92b4-bcca6399dd4d</testCaseGuid>
+</TestCaseEntity>

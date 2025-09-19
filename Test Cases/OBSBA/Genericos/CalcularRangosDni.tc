@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CalcularRangosDni</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d2de636-d5b2-442b-8608-d61cc03ec360</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92b44d74-3879-4e94-a1d5-774c233ba322</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.rangoCuitIntMin</defaultValue>
+      <description></description>
+      <id>92b44d74-3879-4e94-a1d5-774c233ba322</id>
+      <masked>false</masked>
+      <name>varRangoCuitIntMin</name>
+   </variable>
+</TestCaseEntity>

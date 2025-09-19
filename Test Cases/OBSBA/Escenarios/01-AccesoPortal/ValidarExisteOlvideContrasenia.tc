@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarExisteOlvideContrasenia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c23f6886-13d8-4073-9f62-05ae084c022f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>42015fcb-6c4e-4f27-92f4-db18705d9678</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>42015fcb-6c4e-4f27-92f4-db18705d9678</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

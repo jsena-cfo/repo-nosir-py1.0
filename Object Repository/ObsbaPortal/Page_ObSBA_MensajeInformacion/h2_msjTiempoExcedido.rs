@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_msjTiempoExcedido</name>
+   <tag></tag>
+   <elementGuidId>767d6091-7aae-4b98-b5f3-05aafd425272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='transition-modal-title']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[@id = 'transition-modal-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>61af6bc1-8ea8-4b7a-9e19-891547f8d28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6</value>
+      <webElementGuid>861ee72b-ad07-472d-914a-d983a3206802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-title</value>
+      <webElementGuid>026566c8-a2eb-496c-9766-debfd7b841de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ha excedido el tiempo de inactividad en la plataforma.</value>
+      <webElementGuid>05be6b90-8ce0-4241-86bc-b190de15afaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-title&quot;)</value>
+      <webElementGuid>fe43420a-2be9-425b-933b-437074910a6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='transition-modal-title']</value>
+      <webElementGuid>808cb304-4c1c-4e85-b260-689af5e772ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/div[3]/div[@class=', '&quot;', 'MuiBackdrop-root', '&quot;', ']')])[1]/following::h2[1]</value>
+      <webElementGuid>8f4d32e8-7983-44e2-81fd-be3a4bde5973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h2[1]</value>
+      <webElementGuid>5fb3a8e0-0a21-478b-b226-d719e8ea0726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ha excedido el tiempo de inactividad en la plataforma.']/parent::*</value>
+      <webElementGuid>3b8f214b-1b19-445f-8394-4e56f99e6a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>c90b9915-0be8-4af4-8337-317731c8d8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'transition-modal-title' and (text() = 'Ha excedido el tiempo de inactividad en la plataforma.' or . = 'Ha excedido el tiempo de inactividad en la plataforma.')]</value>
+      <webElementGuid>74678891-5490-4270-907e-35e4f5454c89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

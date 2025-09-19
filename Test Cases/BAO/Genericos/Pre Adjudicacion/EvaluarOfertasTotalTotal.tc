@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EvaluarOfertasTotalTotal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2a7d7fe-893f-4a2a-8d1a-81ad0450b6cb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b80c807-6a51-48f5-82f9-b73de0555c60</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c95b9bf-e18f-41d6-8fe8-66654bbb6f12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'6'</defaultValue>
+      <description></description>
+      <id>0b80c807-6a51-48f5-82f9-b73de0555c60</id>
+      <masked>false</masked>
+      <name>cantPrimerOferta</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>5c95b9bf-e18f-41d6-8fe8-66654bbb6f12</id>
+      <masked>false</masked>
+      <name>cantSegundaOferta</name>
+   </variable>
+</TestCaseEntity>

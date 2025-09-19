@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerificarDBEvaluadorCAP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcb2faeb-192b-4d2d-9284-c4235b392ec7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3592c68c-2f15-48fa-953a-43f533a97d32</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'68742'</defaultValue>
+      <description></description>
+      <id>3592c68c-2f15-48fa-953a-43f533a97d32</id>
+      <masked>false</masked>
+      <name>nroTramite</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Volver Atrs</name>
+   <tag></tag>
+   <elementGuidId>fbf72af3-e051-4517-a2ad-5b813a21d1bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.q-btn.inline.relative-position.q-btn-item.non-selectable.q-btn-rectangle.q-btn-outline.q-focusable.q-hoverable.text-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3dd54e3b-5058-41df-8e51-553a3eb8f409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bc3bdd33-2533-4f03-b2de-be24ade8a86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa75dad6-f916-42fd-bb99-92a39ba8ab5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-btn-outline q-focusable q-hoverable text-primary</value>
+      <webElementGuid>1595121a-9aa3-4d6a-90a5-33f859db3d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Volver Atrás</value>
+      <webElementGuid>06ba7172-93ce-4bd0-9299-a8085ce45fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;actions-container&quot;]/button[@class=&quot;q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-btn-outline q-focusable q-hoverable text-primary&quot;]</value>
+      <webElementGuid>267f31ae-b13b-429e-8f03-722cd9088a45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>ec1d4730-b81d-4731-849b-df4f581219a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div[2]/button[6]</value>
+      <webElementGuid>c83b328e-f0bf-4db4-8aa5-880e50d40520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historico'])[1]/following::button[1]</value>
+      <webElementGuid>c007a819-6707-4e4b-8768-495bcd9fabfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rectificar'])[1]/following::button[2]</value>
+      <webElementGuid>c52cd7c4-e8b1-4ec6-911a-1548ad2b8052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nro. Orden Compra BAC'])[1]/preceding::button[1]</value>
+      <webElementGuid>c13d6d45-95ad-4d8b-b451-9f85e7606a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]</value>
+      <webElementGuid>18800243-0916-4a48-9053-c03ed7b41cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Volver Atrás' or . = 'Volver Atrás')]</value>
+      <webElementGuid>298da30f-7496-4f76-8ba2-52775fb4fb34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnAccionesTramite</name>
+   <tag></tag>
+   <elementGuidId>1c4362ab-4b83-4d63-ba2e-4ae5ea510f19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(), '${tramite}')]/ancestor::tr//button[@data-toggle='dropdown']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>a61814d8-a8cd-4053-9f84-9088267827bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1693507097045</value>
+      <webElementGuid>2efeb3ca-ecb9-489b-a8a7-b8a104f16c4e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

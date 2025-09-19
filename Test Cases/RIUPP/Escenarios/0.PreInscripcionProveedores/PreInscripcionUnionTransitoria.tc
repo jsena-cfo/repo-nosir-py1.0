@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionUnionTransitoria</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0831db54-9f81-45da-8a3b-d4799517f054</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92cc0148-1e79-418e-b2a7-893cd45c37ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'UnionTransitoria'</defaultValue>
+      <description></description>
+      <id>92cc0148-1e79-418e-b2a7-893cd45c37ea</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

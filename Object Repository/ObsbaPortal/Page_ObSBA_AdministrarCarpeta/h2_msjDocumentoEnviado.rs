@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_msjDocumentoEnviado</name>
+   <tag></tag>
+   <elementGuidId>637c831c-620a-482f-bd26-3a9554be68ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'transition-modal-title' and (text() = 'La documentación se ha enviado exitosamente' or . = 'La documentación se ha enviado exitosamente')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='transition-modal-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a32dc280-e723-4264-be73-edbc4cfceba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6</value>
+      <webElementGuid>0debeda5-d4e6-4157-979f-a3c71c31e873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-title</value>
+      <webElementGuid>4b9fa164-9756-4d16-9127-0bd47321251f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>La documentación se ha enviado exitosamente</value>
+      <webElementGuid>8796f346-4418-49ab-8238-df6aa02f723d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-title&quot;)</value>
+      <webElementGuid>904a754f-7417-4cb9-bd3c-d66cd51a024c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='transition-modal-title']</value>
+      <webElementGuid>23a644fe-5839-4850-b524-8d51975253b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-title', '&quot;', ')')])[1]/following::h2[1]</value>
+      <webElementGuid>c3a552ac-5db2-413f-a93b-2780e9a1a5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h2[1]</value>
+      <webElementGuid>fcba009e-c658-4449-ac47-9669e295f26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='La documentación se ha enviado exitosamente']/parent::*</value>
+      <webElementGuid>73b6d02f-7270-4a7f-8487-52ad3e826404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>20ad463e-a5eb-4f8a-bd93-acb4d829c55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'transition-modal-title' and (text() = 'La documentación se ha enviado exitosamente' or . = 'La documentación se ha enviado exitosamente')]</value>
+      <webElementGuid>a190643f-8fbc-4579-b134-f240804ff71c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

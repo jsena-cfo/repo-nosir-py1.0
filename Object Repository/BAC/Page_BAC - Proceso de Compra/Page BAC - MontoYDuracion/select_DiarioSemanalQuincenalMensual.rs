@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_DiarioSemanalQuincenalMensual</name>
+   <tag></tag>
+   <elementGuidId>b2533c33-4ee8-45f7-9e0b-dcf910750947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_UCDatosInformacionContrato_ddlPeriodicidad</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_UCDatosInformacionContrato_ddlPeriodicidad']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4d70f4b9-1b31-4b99-bff4-e44e58013912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$UCDatosInformacionContrato$ddlPeriodicidad</value>
+      <webElementGuid>3ef476c2-1d8b-4d46-ae84-8228c34f56ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_UCDatosInformacionContrato_ddlPeriodicidad</value>
+      <webElementGuid>2cb858af-d319-4849-b54a-0255fe6a0d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajas</value>
+      <webElementGuid>bba197c8-f34b-4ae1-be08-11fc7470cf78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Seleccionar
+	Diario
+	Semanal
+	Quincenal
+	Mensual
+
+</value>
+      <webElementGuid>fb6a089b-8cfe-43f7-8a20-8b2cda670c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UCDatosInformacionContrato_ddlPeriodicidad&quot;)</value>
+      <webElementGuid>954c5d0f-ed32-4ce9-8e16-83e3937f2877</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_UCDatosInformacionContrato_ddlPeriodicidad']</value>
+      <webElementGuid>028c4c13-6500-487c-8fb6-2845f8d59016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas']/div[8]/table/tbody/tr[4]/td[2]/select</value>
+      <webElementGuid>cc6e00ea-d942-4611-94f8-8ae2a80a4ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Periodicidad de recepción'])[1]/following::select[1]</value>
+      <webElementGuid>2b2b2b18-abdb-4091-bbab-28940c438073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>320b0130-7874-432c-8c80-b24e99180f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifique que el campo Periodicidad de recepción haya sido ingresado.'])[1]/preceding::select[1]</value>
+      <webElementGuid>905c207d-128b-495a-b1a9-55957ed290dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha estimada del inicio del contrato'])[1]/preceding::select[1]</value>
+      <webElementGuid>7a857d88-a6c7-4c91-bc47-1ed6560b125e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>8dc806f1-87a8-4848-b8c7-8ee10802316b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$UCDatosInformacionContrato$ddlPeriodicidad' and @id = 'ctl00_CPH1_UCDatosInformacionContrato_ddlPeriodicidad' and (text() = '
+	Seleccionar
+	Diario
+	Semanal
+	Quincenal
+	Mensual
+
+' or . = '
+	Seleccionar
+	Diario
+	Semanal
+	Quincenal
+	Mensual
+
+')]</value>
+      <webElementGuid>ba34e026-71b6-4438-b88f-162a46648de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

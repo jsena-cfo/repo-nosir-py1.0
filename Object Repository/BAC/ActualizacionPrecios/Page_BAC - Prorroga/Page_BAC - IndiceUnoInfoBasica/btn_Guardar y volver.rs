@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Guardar y volver</name>
+   <tag></tag>
+   <elementGuidId>84f96852-4469-417c-b946-bffdb8d97c3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_UCInfoBasicaProrroga_btnGuardarYVolver</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_UCInfoBasicaProrroga_btnGuardarYVolver']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1c0bfc5-c7f1-43ef-b55d-9d1290ea30f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:return ValidaGuardar();</value>
+      <webElementGuid>dbb9a1d1-baf5-4117-a0d4-6ee4d0d7e627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_UCInfoBasicaProrroga_btnGuardarYVolver</value>
+      <webElementGuid>556ea1d4-ac87-4104-a000-31cc12a51a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right</value>
+      <webElementGuid>18c852c0-2fc1-475a-8086-52555ca98ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$UCInfoBasicaProrroga$btnGuardarYVolver','')</value>
+      <webElementGuid>a66a322e-b5cb-492e-83b0-fda13e608d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guardar y volver</value>
+      <webElementGuid>05642437-9c2f-493a-8652-0d522838d48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UCInfoBasicaProrroga_btnGuardarYVolver&quot;)</value>
+      <webElementGuid>a1dfac9d-2f4c-4d42-bc8e-7661852346f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_UCInfoBasicaProrroga_btnGuardarYVolver']</value>
+      <webElementGuid>3a89ed36-b1c3-4259-a931-cacb53b4b62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_UCInfoBasicaProrroga_upInfoBasicaProrroga']/div[10]/div[4]/a</value>
+      <webElementGuid>b1ae15a1-7347-4933-a54f-a2b711220414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Guardar y volver')]</value>
+      <webElementGuid>49f30e87-c393-4be5-ab39-70b77df7b7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/following::a[1]</value>
+      <webElementGuid>796c6555-1724-4886-9a1e-d821e5c22903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máximo 8000 caracteres'])[1]/following::a[2]</value>
+      <webElementGuid>48b70268-dfb8-415d-9586-7ccfa1e75a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmar acción'])[1]/preceding::a[1]</value>
+      <webElementGuid>371cd40c-e18e-40f1-bf9a-b5b7401a8d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmar'])[1]/preceding::a[1]</value>
+      <webElementGuid>d9c8ca12-177a-4973-a9b1-4d1fd6f5e48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guardar y volver']/parent::*</value>
+      <webElementGuid>5e70b3d0-e0c9-4704-a81f-f6a086f263ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$UCInfoBasicaProrroga$btnGuardarYVolver','')&quot;)]</value>
+      <webElementGuid>41d0d3af-17f2-4428-8ddc-d68428775a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>17b73848-8834-4748-b542-c8defb0f8a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_UCInfoBasicaProrroga_btnGuardarYVolver' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$UCInfoBasicaProrroga$btnGuardarYVolver&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Guardar y volver' or . = 'Guardar y volver')]</value>
+      <webElementGuid>311e427e-5111-4aa2-a715-f80cd66d1071</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

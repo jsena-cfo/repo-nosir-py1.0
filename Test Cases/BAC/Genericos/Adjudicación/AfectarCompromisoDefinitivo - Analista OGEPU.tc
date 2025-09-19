@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Analista OGEPU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02dc9c85-e6b0-4895-a42c-abd45ec9460c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>211e4f21-9185-400c-8a9c-9867a4e81744</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>211e4f21-9185-400c-8a9c-9867a4e81744</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

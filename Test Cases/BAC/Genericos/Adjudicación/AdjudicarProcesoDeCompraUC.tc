@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdjudicarProcesoDeCompraUC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e74bd0a2-a6cb-4013-8eef-3ba7b1af3555</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7d1c4da-7d43-4e0d-9328-f35484c24b31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>e7d1c4da-7d43-4e0d-9328-f35484c24b31</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

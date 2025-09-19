@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarIngresoDeMP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccbaf610-0928-4343-8d69-c47df61ba7a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e623533a-28db-484e-a976-5d72fc27339f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce5ad33f-42ad-48f1-831f-c01d9d517d03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userSIGAF</defaultValue>
+      <description></description>
+      <id>e623533a-28db-484e-a976-5d72fc27339f</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passSIGAF</defaultValue>
+      <description></description>
+      <id>ce5ad33f-42ad-48f1-831f-c01d9d517d03</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

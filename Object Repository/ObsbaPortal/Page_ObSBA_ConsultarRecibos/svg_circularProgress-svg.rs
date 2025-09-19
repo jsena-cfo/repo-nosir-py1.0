@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_circularProgress-svg</name>
+   <tag></tag>
+   <elementGuidId>58e0a26d-8879-4ed1-84b1-4a1f825eb7aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4e935785-0403-4f63-b3fc-9d0566c9f866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCircularProgress-svg</value>
+      <webElementGuid>e07ede84-cc44-4add-ac34-483282938f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>22 22 44 44</value>
+      <webElementGuid>20c9a926-a69d-4d34-968b-c0a869b386c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/span[1]/div[@class=&quot;MuiBox-root jss70&quot;]/div[@class=&quot;MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate&quot;]/svg[@class=&quot;MuiCircularProgress-svg&quot;]</value>
+      <webElementGuid>46e1ba59-8a69-41c9-a6da-a3f400ddf559</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

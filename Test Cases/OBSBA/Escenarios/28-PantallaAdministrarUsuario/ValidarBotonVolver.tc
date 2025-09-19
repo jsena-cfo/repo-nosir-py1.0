@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarBotonVolver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3ec6f72-f96a-4a74-8520-92d5323e6143</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>380bf0b6-7cec-47df-81fc-6c26f97cece6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c19622f-3758-4fb0-8890-c366144918e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d411d830-068e-4ae1-bdac-e278010bf7d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>380bf0b6-7cec-47df-81fc-6c26f97cece6</id>
+      <masked>false</masked>
+      <name>usuarioAdm</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>5c19622f-3758-4fb0-8890-c366144918e4</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>d411d830-068e-4ae1-bdac-e278010bf7d8</id>
+      <masked>false</masked>
+      <name>usuarioInt</name>
+   </variable>
+</TestCaseEntity>

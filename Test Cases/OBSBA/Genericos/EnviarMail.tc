@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnviarMail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28617a88-8b53-44c4-aa32-014534b2a1f9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abe3dbe8-d44e-4941-9f00-386a4056da04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6af0335a-394b-4100-b02b-7cf910cd3bf2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bcba4798-7e69-44ee-9983-c39aea16a4f9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'smtp-mail.outlook.com'</defaultValue>
+      <description></description>
+      <id>abe3dbe8-d44e-4941-9f00-386a4056da04</id>
+      <masked>false</masked>
+      <name>varHost</name>
+   </variable>
+   <variable>
+      <defaultValue>'587'</defaultValue>
+      <description></description>
+      <id>6af0335a-394b-4100-b02b-7cf910cd3bf2</id>
+      <masked>false</masked>
+      <name>varPort</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>bcba4798-7e69-44ee-9983-c39aea16a4f9</id>
+      <masked>false</masked>
+      <name>varTimeout</name>
+   </variable>
+</TestCaseEntity>

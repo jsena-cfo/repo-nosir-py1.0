@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FiltrarIngresarAdministrarPrevisualizar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5edbc560-2a4b-422a-8936-a8fc86917664</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29c248fb-3de4-4a23-bdd7-4b7fe632811d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8d01288-2b77-4f3e-9e07-1041e841f619</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>29c248fb-3de4-4a23-bdd7-4b7fe632811d</id>
+      <masked>false</masked>
+      <name>userVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>f8d01288-2b77-4f3e-9e07-1041e841f619</id>
+      <masked>false</masked>
+      <name>passVar</name>
+   </variable>
+</TestCaseEntity>

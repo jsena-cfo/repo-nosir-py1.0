@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_chevron_left</name>
+   <tag></tag>
+   <elementGuidId>4e7b7dac-273f-4a5c-9419-c53293c0b3ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and (text() = 'chevron_left' or . = 'chevron_left')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.q-btn.inline.relative-position.q-btn-item.non-selectable.q-datetime-arrow.q-btn-round.q-btn-flat.q-focusable.q-hoverable.q-btn-dense</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div[2]/div/div[2]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db0bb062-8daf-4eb4-9676-58ef14cc2062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>6cac87ee-99cf-4cbe-a1a3-94673acd4b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7045f54-db9a-4255-8b08-af345cdb7351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn inline relative-position q-btn-item non-selectable q-datetime-arrow q-btn-round q-btn-flat q-focusable q-hoverable q-btn-dense</value>
+      <webElementGuid>8bbdfde5-55bc-4fb1-a112-bab3dc14668c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>chevron_left</value>
+      <webElementGuid>a2718f4e-0a85-4692-b459-a603eb41b914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat desktop no-touch platform-mat&quot;]/div[@class=&quot;q-popover scroll animate-popup-down&quot;]/div[@class=&quot;q-datetime row no-border text-secondary&quot;]/div[@class=&quot;q-datetime-content scroll&quot;]/div[@class=&quot;q-datetime-selector row items-center&quot;]/div[@class=&quot;q-datetime-view-day&quot;]/div[@class=&quot;row items-center content-center&quot;]/button[@class=&quot;q-btn inline relative-position q-btn-item non-selectable q-datetime-arrow q-btn-round q-btn-flat q-focusable q-hoverable q-btn-dense&quot;]</value>
+      <webElementGuid>b5d645b4-dfe8-4063-9934-47517523089a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[37]</value>
+      <webElementGuid>23a239bd-1010-471c-83c0-452b19e6b160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ene'])[1]/following::button[1]</value>
+      <webElementGuid>a9c65901-3ded-46af-b021-593d22641522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jueves'])[1]/following::button[1]</value>
+      <webElementGuid>cfbe1f2f-cb2f-4e27-8754-6baf1f4ce33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diciembre 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>3719f6c5-f362-4414-a3fe-91ff45d4ba34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lun'])[1]/preceding::button[2]</value>
+      <webElementGuid>30561367-4eea-40c7-8a8f-adc2861cd789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>52fea181-828c-4ad3-82f5-49a7158f84ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'chevron_left' or . = 'chevron_left')]</value>
+      <webElementGuid>cabd42e5-85e2-41d4-a66f-141ef1b70dfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

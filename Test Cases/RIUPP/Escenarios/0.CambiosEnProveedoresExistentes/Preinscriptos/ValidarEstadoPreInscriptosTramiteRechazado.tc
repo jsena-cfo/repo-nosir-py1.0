@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarEstadoPreInscriptosTramiteRechazado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b162887-89d7-4a78-a393-57b123fd8003</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Convenio Marco</description>
+   <name>GenerarAdjudicacionCVM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>175a5b03-bf3c-4a62-ba64-3855a61990c3</testCaseGuid>
+</TestCaseEntity>

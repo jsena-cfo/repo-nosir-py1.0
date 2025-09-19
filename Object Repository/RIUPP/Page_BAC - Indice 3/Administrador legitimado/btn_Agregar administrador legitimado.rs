@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Agregar administrador legitimado</name>
+   <tag></tag>
+   <elementGuidId>e84989c0-c1d4-428b-bac5-37bbdb03016b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_datosAdministradorLegitimado_lnkAgregar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_datosAdministradorLegitimado_lnkAgregar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f6c704be-225f-4f74-83dc-2eb00eb6cc3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:openModalPersonasLegales('ctl00_CPH1_datosAdministradorLegitimado_myModalPersonasLegales');return false;</value>
+      <webElementGuid>6da9c82f-a014-4f3b-8dff-24903e6b1918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_datosAdministradorLegitimado_lnkAgregar</value>
+      <webElementGuid>238f4d3d-9996-4533-a52d-3046932e2590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-block</value>
+      <webElementGuid>3e237072-b114-421f-bac6-30312a463640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$datosAdministradorLegitimado$lnkAgregar','')</value>
+      <webElementGuid>7d0f2e5a-1c7c-4672-9d96-a396c155a757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agregar administrador legitimado</value>
+      <webElementGuid>9a8a11b4-5588-48d9-a27c-4514e65a8c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_datosAdministradorLegitimado_lnkAgregar&quot;)</value>
+      <webElementGuid>a47cb85b-620c-4b51-be5b-99bcc546995b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_datosAdministradorLegitimado_lnkAgregar']</value>
+      <webElementGuid>5a973849-b4cf-4278-9fe9-f6a9a23aa829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_datosAdministradorLegitimado_divPersonasleg']/div/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>f885e6f5-cf6d-4251-8f03-0ca6cedd3ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Agregar administrador legitimado')]</value>
+      <webElementGuid>646c0753-2df8-4e3d-b103-680f40690e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::a[1]</value>
+      <webElementGuid>d339a112-7d57-453f-8fc5-cc1aed034de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monto límite por oferta'])[1]/following::a[1]</value>
+      <webElementGuid>2c0c0c62-16a6-4121-9d0a-3eb0a3aa8386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Composición Societaria y/o Autoridades/Miembros'])[1]/preceding::a[1]</value>
+      <webElementGuid>f9c121fa-2513-45c8-a1e5-66d9e813f603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agregar administrador legitimado']/parent::*</value>
+      <webElementGuid>731afa9a-449d-4109-bc0c-b791ec797e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$datosAdministradorLegitimado$lnkAgregar','')&quot;)]</value>
+      <webElementGuid>0e843f0f-f9bd-45f1-8fb6-148aad130081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a</value>
+      <webElementGuid>9188fc6e-7e29-4c46-a5cd-1982477e6b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_datosAdministradorLegitimado_lnkAgregar' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$datosAdministradorLegitimado$lnkAgregar&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Agregar administrador legitimado' or . = 'Agregar administrador legitimado')]</value>
+      <webElementGuid>0a8aed58-14ab-4cd8-b5ca-4bbd30383af4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

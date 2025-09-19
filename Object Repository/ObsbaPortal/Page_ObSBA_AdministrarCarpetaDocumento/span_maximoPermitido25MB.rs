@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_maximoPermitido25MB</name>
+   <tag></tag>
+   <elementGuidId>7f4db77c-6a58-408c-a18e-00c36af7fd76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/form[2]/div/div[6]/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'El máximo permitido son 10 archivos o 25 MB combinados' or . = 'El máximo permitido son 10 archivos o 25 MB combinados')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>28926aaa-327a-489d-adc7-80dbb3741b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El máximo permitido son 10 archivos o 25 MB combinados</value>
+      <webElementGuid>0626ca52-0113-421e-98b5-1b5c88914951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/form[@class=&quot;jss37&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/label[1]/span[2]</value>
+      <webElementGuid>504a6201-8897-4b9e-9606-d531e8e52894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/form[2]/div/div[6]/label/span[2]</value>
+      <webElementGuid>e88f9e63-b329-4ef8-8a96-b7d628daf4dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::span[4]</value>
+      <webElementGuid>46265849-a98c-43f9-be2e-0f79cd87c253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar'])[1]/preceding::span[1]</value>
+      <webElementGuid>b2718faf-c1db-492e-b4fa-85de02d50112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir'])[1]/preceding::span[3]</value>
+      <webElementGuid>05d9481c-4cfe-4399-9524-5f5f5636cbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El máximo permitido son 10 archivos o 25 MB combinados']/parent::*</value>
+      <webElementGuid>e77d8aec-923d-4e94-b6fe-3c4aa7edd84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label/span[2]</value>
+      <webElementGuid>1f1bfa49-2fb3-48a2-a173-5b7b397dea01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'El máximo permitido son 10 archivos o 25 MB combinados' or . = 'El máximo permitido son 10 archivos o 25 MB combinados')]</value>
+      <webElementGuid>1f7660a1-5fd2-4f45-ad8d-9d73521cc33f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

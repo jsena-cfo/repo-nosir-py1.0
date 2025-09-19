@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Evaluador verifica que puede aprobar/rechazar todos los campos despues de que el prov modifica el ind 2</description>
+   <name>SRLModificacionIndice2y5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>822ba352-317a-4947-9adb-86d4280059dd</testCaseGuid>
+</TestCaseEntity>

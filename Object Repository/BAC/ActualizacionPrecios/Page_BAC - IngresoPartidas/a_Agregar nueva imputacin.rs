@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Agregar nueva imputacin</name>
+   <tag></tag>
+   <elementGuidId>9ba8a648-cd68-4fd7-9caa-194e8bdf033a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_btnAgregarNuevaImputacion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_btnAgregarNuevaImputacion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0087fab6-9ca7-4633-83b8-0e1ab55a2a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_btnAgregarNuevaImputacion</value>
+      <webElementGuid>65a69231-aedf-4c30-8a47-ababcd6dfa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$btnAgregarNuevaImputacion','')</value>
+      <webElementGuid>ced46969-4c91-4264-b253-2799a5eb3e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Agregar nueva imputación</value>
+      <webElementGuid>00c7e79f-14c1-4a71-8b85-64fb853b6e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_btnAgregarNuevaImputacion&quot;)</value>
+      <webElementGuid>cf6a101f-26b7-4400-b4d1-59441d4ea294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BAC/ActualizacionPrecios/Page_BAC - IngresoPartidas/iframe_Ingresar imputacin presupuestaria</value>
+      <webElementGuid>fd3a6892-36b3-4942-af3f-12c21e545488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_btnAgregarNuevaImputacion']</value>
+      <webElementGuid>6a3d45da-9ae2-43da-93ba-dfaa6cc39525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas_pop']/div[2]/div[4]/a</value>
+      <webElementGuid>517bf229-6bd8-4a46-9ab4-532733a63d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'+ Agregar nueva imputación')]</value>
+      <webElementGuid>7094a666-2108-4f37-aa7e-881dfe87a22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver detalle consolidado'])[1]/following::a[1]</value>
+      <webElementGuid>aa030578-d51b-4f06-9eb3-12280c9b75c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[1]/following::a[1]</value>
+      <webElementGuid>7a330069-c648-4560-8ad8-2b3184036684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::a[1]</value>
+      <webElementGuid>5594d5ba-f6c9-4fe4-94dd-6ac59a2fa826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff4fb0da-dba3-44da-9863-2c76ea4a5d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Agregar nueva imputación']/parent::*</value>
+      <webElementGuid>8b50ff55-7f56-4889-9bb6-1c2fa709ada3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$btnAgregarNuevaImputacion','')&quot;)]</value>
+      <webElementGuid>1b2bae80-373a-48d3-bf46-1e189633450d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>7991f978-a203-42c6-a9b1-d1b5d56755a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_btnAgregarNuevaImputacion' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$btnAgregarNuevaImputacion&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = '+ Agregar nueva imputación' or . = '+ Agregar nueva imputación')]</value>
+      <webElementGuid>59958b18-6c2f-4f81-8e87-fc6425ad3585</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

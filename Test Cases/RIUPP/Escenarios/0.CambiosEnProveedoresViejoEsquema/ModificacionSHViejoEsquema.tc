@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionSHViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07d632f6-b840-486d-88a8-daa6c54a83f2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f308f0e-d954-4891-b32b-af988dd3e06f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sociedades de Hecho'</defaultValue>
+      <description></description>
+      <id>3f308f0e-d954-4891-b32b-af988dd3e06f</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ActivarUsuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be5719f8-0597-4b43-b520-0c6e6d45636f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d37b8078-d190-4c12-ade6-623f2c96d0ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>d37b8078-d190-4c12-ade6-623f2c96d0ba</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

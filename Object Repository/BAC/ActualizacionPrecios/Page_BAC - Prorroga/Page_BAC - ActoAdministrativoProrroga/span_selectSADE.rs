@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_selectSADE</name>
+   <tag></tag>
+   <elementGuidId>3d775a50-5ec2-4397-8fff-f46a9a3147e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_CPH1_gvActosAdministrativos']/tbody/tr[2]/td[5]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-option-vertical</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe1cc4fe-24b6-476d-9750-433b5c7c4a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-option-vertical</value>
+      <webElementGuid>c08834e4-a5c6-48ff-9d3b-06f1902d7128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_gvActosAdministrativos&quot;)/tbody[1]/tr[2]/td[5]/div[@class=&quot;dropdown open&quot;]/button[@class=&quot;btn btn-primary btn-sm dropdown-toggle&quot;]/span[@class=&quot;glyphicon glyphicon-option-vertical&quot;]</value>
+      <webElementGuid>3ae4745b-175a-4d43-b6e4-546363eddd29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_CPH1_gvActosAdministrativos']/tbody/tr[2]/td[5]/div/button/span</value>
+      <webElementGuid>0e18cdb4-01d4-4704-a291-ffaf1a54c337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/button/span</value>
+      <webElementGuid>a6a1d1f1-d848-4af1-85b8-0d31f32cc099</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

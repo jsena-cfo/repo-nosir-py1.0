@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_carpetaConsulta</name>
+   <tag></tag>
+   <elementGuidId>cfc6a0a6-2927-44b0-b07f-0b578aee6fa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/div[@class=&quot;MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body jss44 MuiTableCell-alignCenter&quot;]/a[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiButtonBase-root.MuiIconButton-root > span.MuiIconButton-label > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>86727565-17e7-4842-ab58-0ad280a8398d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>af516336-575e-4ba2-91e8-8444158ec452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>50d37d77-8548-4c33-8a5b-387992ba8245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>70eb3bd8-270d-4a9e-a2fe-c92ef821607a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 16 16</value>
+      <webElementGuid>fdbc3466-a8ce-40f5-a70a-927dd1c26698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>023851e4-48e7-49c8-8d0d-257b814c4ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>f8849f60-9965-4b3a-bcfd-a221159bef29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0ca19e78-fe0b-4047-a43a-d5e18778761b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/div[@class=&quot;MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body jss44 MuiTableCell-alignCenter&quot;]/a[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]</value>
+      <webElementGuid>9c728560-8b0a-4822-af46-9d1b48ad85e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>532ea45b-36e8-4e65-bca5-83ffc8536928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observaciones'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2ee57701-0497-49de-ac16-c380ae7617c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a0883dfd-0514-4bfe-8e29-9e41c30ea080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bien Salud'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>fcb422c5-a138-44c1-bde5-9e52b0e3ba1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

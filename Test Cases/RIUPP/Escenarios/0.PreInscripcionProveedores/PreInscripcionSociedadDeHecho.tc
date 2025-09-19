@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionSociedadDeHecho</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfb428c6-45ec-4536-90dd-608ddec5c951</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e708d0df-5f2c-4fd9-a8e9-13f05681a578</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SociedadHecho'</defaultValue>
+      <description></description>
+      <id>e708d0df-5f2c-4fd9-a8e9-13f05681a578</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

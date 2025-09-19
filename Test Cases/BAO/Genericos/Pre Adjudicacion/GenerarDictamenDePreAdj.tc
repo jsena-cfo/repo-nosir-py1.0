@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarDictamenDePreAdj</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59d486bd-2191-4c97-9b44-34cdf0af1841</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bceaef7-e042-4385-948a-b9d0563cd7f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>8bceaef7-e042-4385-948a-b9d0563cd7f8</id>
+      <masked>false</masked>
+      <name>pliego</name>
+   </variable>
+</TestCaseEntity>

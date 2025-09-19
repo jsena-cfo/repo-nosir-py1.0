@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MESA DE ENTRADAS CENTRAL</name>
+   <tag></tag>
+   <elementGuidId>4f8f9777-df90-4905-a082-9e2fdfa4815e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/main/div/div[1]/div[1]/div[2]/div/div/div/div[12]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '/dashboard/preview/45654 2024']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3087c377-56b5-44f2-b2a8-2abb995ec4f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiIconButton-root</value>
+      <webElementGuid>433e62ac-0ef3-4392-b213-bb23c19c43c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>fff94bea-15a1-412e-9d20-4677176e50e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f029539-9e9c-4b41-a5c0-5e4fe7ee3351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>29227bae-edc3-4dfe-862d-fc2021df3829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/preview/45654 2024</value>
+      <webElementGuid>93ddb945-6be3-4d05-9407-55814b2d961f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>mui-67010</value>
+      <webElementGuid>cad884a5-d68c-42e6-a065-b8196fa41d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss56&quot;]/main[@class=&quot;MuiGrid-root jss55 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss54 MuiGrid-item&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-aop0yh&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-1pzb349&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row MuiDataGrid-row--lastVisible MuiDataGrid-row--dynamicHeight Mui-hovered&quot;]/div[@class=&quot;MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textCenter MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiGrid-root&quot;]/a[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]</value>
+      <webElementGuid>3e7fa334-4a56-4809-af02-d6f13bc1bbce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div[2]/div/div/div/div[11]/div/a[2]</value>
+      <webElementGuid>0b6339f3-6c9a-4a15-acd2-3d346a644253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MESA DE ENTRADAS CENTRAL'])[1]/following::a[2]</value>
+      <webElementGuid>b2403b97-5617-49ee-bf76-12894a242142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESADA'])[1]/following::a[2]</value>
+      <webElementGuid>611d350a-a56a-471d-bd90-3742ed41c497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPORTAR RESULTADO'])[1]/preceding::a[1]</value>
+      <webElementGuid>de02b56a-988c-4f4b-bfae-4a0d9b902cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>c89a97ee-e351-4df0-9318-97366b346e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dashboard/preview/45654 2024')]</value>
+      <webElementGuid>7e354c56-c6f9-4eeb-ba88-f6efb2728724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/a[2]</value>
+      <webElementGuid>677957ae-67de-4573-8324-91b2e4303f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dashboard/preview/45654 2024']</value>
+      <webElementGuid>5c24336e-5899-4ddd-aed0-04fbe3a2047c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

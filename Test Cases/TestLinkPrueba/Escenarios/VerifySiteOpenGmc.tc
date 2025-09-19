@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenGmc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ea8818b-7d22-433d-9b11-894f462a7315</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23783493-1f92-4c2e-8ff2-26896895a3ca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0422871b-4b13-43b0-ba54-72e203eb3880</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8f9fd83-91d8-4264-9f85-cc22958753f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open GMC'</defaultValue>
+      <description></description>
+      <id>23783493-1f92-4c2e-8ff2-26896895a3ca</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio GMC se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>0422871b-4b13-43b0-ba54-72e203eb3880</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio GMC correctamente'</defaultValue>
+      <description></description>
+      <id>b8f9fd83-91d8-4264-9f85-cc22958753f4</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CambiarUnidadEjecutora</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c619b5e-1a19-4cdb-b5e4-da43ab880e4f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d153f55-2a6f-4fb3-987c-86839b1d859e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'401 - MINISTERIO DE SALUD'</defaultValue>
+      <description></description>
+      <id>6d153f55-2a6f-4fb3-987c-86839b1d859e</id>
+      <masked>false</masked>
+      <name>nombreUE</name>
+   </variable>
+</TestCaseEntity>

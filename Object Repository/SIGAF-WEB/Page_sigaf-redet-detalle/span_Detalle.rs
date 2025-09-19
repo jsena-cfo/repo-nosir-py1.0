@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Detalle</name>
+   <tag></tag>
+   <elementGuidId>4cbfea58-4b1f-4a0f-b642-48baaaa5ae93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/div/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.text-faded.q-breadcrumbs-last > span.q-link.q-breadcrumbs-el.flex.inline.items-center.relative-position</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Detalle' or . = 'Detalle')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a21b016d-7bd3-426f-b6d9-e8b855539a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-link q-breadcrumbs-el flex inline items-center relative-position</value>
+      <webElementGuid>3a1e628e-a22c-46cd-b28b-68d4db43c689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detalle</value>
+      <webElementGuid>caa4c12f-130a-4d36-93e5-2009fb36d677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/div[@class=&quot;q-breadcrumbs flex gutter-xs items-center overflow-hidden text-faded justify-start&quot;]/div[@class=&quot;flex items-center text-faded q-breadcrumbs-last&quot;]/span[@class=&quot;q-link q-breadcrumbs-el flex inline items-center relative-position&quot;]</value>
+      <webElementGuid>657a8687-02c5-4560-84ab-c5c8995affdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/div/div[3]/span</value>
+      <webElementGuid>755a85de-6483-4ea1-82fc-65a3168d9f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::span[1]</value>
+      <webElementGuid>59a89e0a-7bcd-483f-9c83-3aa04af745a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redeterminación Definitiva de Precios'])[1]/following::span[1]</value>
+      <webElementGuid>afa0d02e-41e0-4333-ae8f-61fddd728ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proveedor:'])[1]/preceding::span[1]</value>
+      <webElementGuid>ef8ea35a-56d1-4142-9af5-2b31dd6bdf47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detalle']/parent::*</value>
+      <webElementGuid>72a6b2fb-9387-48f5-ae56-17f85c509505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>cc7a63fc-6b3c-43ff-9e2d-d179e0ba5977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Detalle' or . = 'Detalle')]</value>
+      <webElementGuid>8b75d42a-2659-44b0-aab6-41cda977076a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

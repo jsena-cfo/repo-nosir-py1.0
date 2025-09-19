@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Confirmar ingreso de oferta</name>
+   <tag></tag>
+   <elementGuidId>a551bdda-8bc9-4e41-ae4c-2490e6cfa974</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkConfirmar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@id, 'Confirmar') and contains(text(),'ingreso de oferta')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d11c4a16-7dad-47db-8c98-f3f12188c1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: return ValidarConfirmacionOferta();</value>
+      <webElementGuid>236574c4-8fe2-4c59-ba3e-e939c026dd73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_lnkConfirmar</value>
+      <webElementGuid>706c4124-1e18-49d8-bd13-61106221ec27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>7b48ef77-5cd5-42d7-add1-87af91db7da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkConfirmar&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>ef3f826c-003f-4bd1-81bc-054227c26c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirmar ingreso de oferta</value>
+      <webElementGuid>cceecbf3-79a7-48c4-9b7a-ee47bdda8246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkConfirmar&quot;)</value>
+      <webElementGuid>617e2de4-1535-461c-9600-7ea0cfb41488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkConfirmar']</value>
+      <webElementGuid>f77a76a8-3aa2-4ade-8739-8804fbca46de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divBotones']/div/div/div/a[2]</value>
+      <webElementGuid>7179f768-b733-4cca-be64-8e8fd8dfd8e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Confirmar ingreso de oferta')]</value>
+      <webElementGuid>befa892e-db21-4205-99b0-aca0a2a4a0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/following::a[1]</value>
+      <webElementGuid>01b873de-ff2b-4e8f-980b-42d4dba9e8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La confirmación de la oferta debe ser realizada por un Administrador Legitimado.'])[1]/following::a[4]</value>
+      <webElementGuid>ef6dfedd-5fb3-49e6-920c-760261f14bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paso anterior'])[1]/preceding::a[1]</value>
+      <webElementGuid>a330801b-2e74-409f-a8fa-c3f22c6a8bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir al escritorio'])[1]/preceding::a[2]</value>
+      <webElementGuid>f6864133-1e13-4205-b9b6-c760760fe305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirmar ingreso de oferta']/parent::*</value>
+      <webElementGuid>17a6fbe2-6867-41cc-ac6d-54f1c4041cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkConfirmar&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>bf19b981-e365-4516-a512-a90e217c19bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div/div/a[2]</value>
+      <webElementGuid>59f58612-cb90-4c90-99ab-8f7b4601b5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkConfirmar' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkConfirmar&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))' and (text() = 'Confirmar ingreso de oferta' or . = 'Confirmar ingreso de oferta')]</value>
+      <webElementGuid>a9369c2f-6632-4aea-9562-f37017bf2e9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

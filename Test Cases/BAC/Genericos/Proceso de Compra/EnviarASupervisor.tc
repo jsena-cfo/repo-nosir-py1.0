@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnviarASupervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b03e098c-073e-4bdd-ba7c-83910b566f75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>888661ec-5b42-4707-882f-a158f56d4a79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Emilse Carmen Filippo'</defaultValue>
+      <description></description>
+      <id>888661ec-5b42-4707-882f-a158f56d4a79</id>
+      <masked>false</masked>
+      <name>nombreSupervisor</name>
+   </variable>
+</TestCaseEntity>

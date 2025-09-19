@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Analista OGESE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53168b18-e74a-4b0d-a325-91b936f1c82e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ea70b38-a698-4fc3-b491-70946b6995f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>6ea70b38-a698-4fc3-b491-70946b6995f8</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

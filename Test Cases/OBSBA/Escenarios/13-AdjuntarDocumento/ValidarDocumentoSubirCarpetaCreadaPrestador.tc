@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarDocumentoSubirCarpetaCreadaPrestador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c1b74de-6548-41f7-83a0-7a8eca547912</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2a43af4-421e-4c3b-adab-c87c09cb624e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>828f3871-33a8-4ede-a365-340f71737004</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f226f17-1ea6-4d4e-a92d-32ba6f7f88be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitPrestador</defaultValue>
+      <description></description>
+      <id>c2a43af4-421e-4c3b-adab-c87c09cb624e</id>
+      <masked>false</masked>
+      <name>varUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>828f3871-33a8-4ede-a365-340f71737004</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>2f226f17-1ea6-4d4e-a92d-32ba6f7f88be</id>
+      <masked>false</masked>
+      <name>varUser2</name>
+   </variable>
+</TestCaseEntity>

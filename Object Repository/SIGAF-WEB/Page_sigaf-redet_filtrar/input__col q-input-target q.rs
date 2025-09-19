@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__col q-input-target q</name>
+   <tag></tag>
+   <elementGuidId>24a7c120-e085-4c2b-ab3a-cc47e2553e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.q-if.row.no-wrap.relative-position.q-input.q-search.q-if-focused.q-if-standard.q-if-has-content.text-primary > div.q-if-inner.col.column.q-popup--skip > div.row.no-wrap.relative-position > input.col.q-input-target.q-no-input-spinner.ellipsis.text-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;q-app&quot;]/div/div/div[1]/div[2]/div/div[1]/div/div/div/div/div/div[2]/div[5]/div/div[2]/div[1]/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'search' and @placeholder = 'Buscar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e7f7b340-c557-4ec6-b03a-165a47f3bf71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>859d8962-bddc-4f39-9805-b74f59305c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Buscar</value>
+      <webElementGuid>1a73d0e8-7d66-44a1-b567-8f2f9a7b87a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>any</value>
+      <webElementGuid>3980daae-f317-4699-8782-758512419857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col q-input-target q-no-input-spinner ellipsis text-left</value>
+      <webElementGuid>5b91ef61-2374-4168-b685-1acaa94ca416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;controls-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-11&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;select-delux&quot;]/div[@class=&quot;q-card select-delux-body&quot;]/div[@class=&quot;q-if row no-wrap relative-position q-input q-search q-if-focused q-if-standard q-if-has-content text-primary&quot;]/div[@class=&quot;q-if-inner col column q-popup--skip&quot;]/div[@class=&quot;row no-wrap relative-position&quot;]/input[@class=&quot;col q-input-target q-no-input-spinner ellipsis text-left&quot;]</value>
+      <webElementGuid>dcfe15d0-7178-408b-8eb4-667ac77cc6ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='search'])[2]</value>
+      <webElementGuid>95916aec-618e-478f-9faa-364951ce0af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div/div/div[5]/div/div[2]/div/div[2]/div/input</value>
+      <webElementGuid>6b35ca1c-805a-4d6e-be7b-d5eb798d6332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/input</value>
+      <webElementGuid>a3dda412-3be4-4946-bba5-de16c61d730d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Buscar']</value>
+      <webElementGuid>96449b4e-9811-4622-bcb9-7900f0b77010</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

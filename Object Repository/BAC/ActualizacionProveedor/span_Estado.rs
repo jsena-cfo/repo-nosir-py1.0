@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Estado</name>
+   <tag></tag>
+   <elementGuidId>2be241a6-a2dc-4d4c-8058-434b6561de88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ctl00_CPH1_DatosProveedor_lblEstado' and (text() = 'Desactualizado por documentos vencidos' or . = 'Desactualizado por documentos vencidos')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_DatosProveedor_lblEstado</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_CPH1_DatosProveedor_lblEstado']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39182edd-ac05-4070-9bd8-4c903563650f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_DatosProveedor_lblEstado</value>
+      <webElementGuid>5f2984d1-e40a-4367-8c4e-9060e75ea67f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Desactualizado por documentos vencidos</value>
+      <webElementGuid>f47f8c21-4d33-49b5-8ae9-c3dd7711a48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_DatosProveedor_lblEstado&quot;)</value>
+      <webElementGuid>a4223216-b73d-47b4-833d-e61d1facc5f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_CPH1_DatosProveedor_lblEstado']</value>
+      <webElementGuid>fcee505d-953c-44f9-8505-e3b5bd5f5e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_upPanel']/div[2]/div/div/div[2]/div/div/div[2]/div[3]/p/span</value>
+      <webElementGuid>d99874c7-d394-4b6a-ba35-cb491289ac54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[1]/following::span[1]</value>
+      <webElementGuid>2d1618dc-5a02-4770-865d-e6acad246e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número telefónico alternativo'])[1]/following::span[2]</value>
+      <webElementGuid>12230d95-0eca-4e35-9355-2325b6e6bbc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constitución'])[1]/preceding::span[1]</value>
+      <webElementGuid>77a77248-ccce-45dc-b920-1899e74e7387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='En BUENOS AIRES con fecha 03/12/2012'])[1]/preceding::span[1]</value>
+      <webElementGuid>0bc60d93-30d3-403d-b4b4-29152203dc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Desactualizado por documentos vencidos']/parent::*</value>
+      <webElementGuid>0312f902-4478-4b76-af82-aba365776ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/p/span</value>
+      <webElementGuid>e0ef6d4f-c9fc-4835-898b-788cec481dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_CPH1_DatosProveedor_lblEstado' and (text() = 'Desactualizado por documentos vencidos' or . = 'Desactualizado por documentos vencidos')]</value>
+      <webElementGuid>12daf7a6-88bc-490d-bc99-451639718d6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

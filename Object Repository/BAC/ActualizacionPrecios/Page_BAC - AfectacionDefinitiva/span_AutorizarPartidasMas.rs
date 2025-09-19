@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AutorizarPartidasMas</name>
+   <tag></tag>
+   <elementGuidId>996c961f-ae9d-4c13-833a-1381ff1b545a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ui-accordion-oca-header-0&quot;)/span[@class=&quot;ui-accordion-header-icon ui-icon ui-icon-circle-plus&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-accordion-header-icon.ui-icon.ui-icon-circle-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-accordion-oca-header-0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17fd7562-8d91-4422-86b7-d83dc7ae7a28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-accordion-header-icon ui-icon ui-icon-circle-plus</value>
+      <webElementGuid>31e01a17-a6ba-4105-8852-8391efd0f68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-accordion-oca-header-0&quot;)/span[@class=&quot;ui-accordion-header-icon ui-icon ui-icon-circle-plus&quot;]</value>
+      <webElementGuid>943b89d6-57ea-4d01-b1ae-db77daea6839</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-accordion-oca-header-0']/span</value>
+      <webElementGuid>3b11af87-fb28-42c1-bd99-5a45c2b27d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/span</value>
+      <webElementGuid>afc9dd4f-495a-4d9f-bc70-892dd50df1d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

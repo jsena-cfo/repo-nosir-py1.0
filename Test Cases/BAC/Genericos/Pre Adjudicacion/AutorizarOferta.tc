@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AutorizarOferta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b78f0d8f-f64c-4a6b-bd49-7d84014d8f98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13bd13e5-8b7f-4cb4-bc38-b9e385bb536e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd44d5f6-1a99-4c78-9b87-fd421c3e1ea7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ec24aee-5311-41c0-9dac-3c201c098f01</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>13bd13e5-8b7f-4cb4-bc38-b9e385bb536e</id>
+      <masked>false</masked>
+      <name>justificacion</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.userEvaluador1</defaultValue>
+      <description></description>
+      <id>fd44d5f6-1a99-4c78-9b87-fd421c3e1ea7</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passEvaluador</defaultValue>
+      <description></description>
+      <id>9ec24aee-5311-41c0-9dac-3c201c098f01</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionTalleresViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d328b47f-9227-4e67-b99a-f62c78f0ea0c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e717ae16-e71e-4ffa-ab27-a2b3211516af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Talleres Protegidos'</defaultValue>
+      <description></description>
+      <id>e717ae16-e71e-4ffa-ab27-a2b3211516af</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adjuntar</name>
+   <tag></tag>
+   <elementGuidId>a711f15e-a554-48f8-af52-755ee81d8918</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Adjuntar' or . = 'Adjuntar')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Adjuntar' or . = 'Adjuntar' or . = 'ADJUNTAR')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4696b3f-f38f-4e79-a2ce-67cc5f85d3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6</value>
+      <webElementGuid>ac20fdf7-03a6-4a52-bed2-0930a2e7f986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adjuntar</value>
+      <webElementGuid>4f6c0264-1211-41ad-ae71-f6b03850ff38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss138&quot;]/main[@class=&quot;MuiGrid-root jss137 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss136 MuiGrid-item&quot;]/form[@class=&quot;jss151&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6&quot;]</value>
+      <webElementGuid>b5fde71b-5b51-4125-89c1-c4286080bd4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/form[2]/div/div[8]</value>
+      <webElementGuid>64adda53-e093-42ab-9922-b98fe7ba01a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar'])[1]/following::div[1]</value>
+      <webElementGuid>311fe477-828c-4663-914a-23cf332b3dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir Archivo'])[1]/following::div[2]</value>
+      <webElementGuid>84f8133c-82f9-48a9-9880-c41b4ca18736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo'])[1]/preceding::div[8]</value>
+      <webElementGuid>5a90df4d-889b-4409-8c76-1ae07a9473c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div/div[8]</value>
+      <webElementGuid>a15a8d50-9d23-495a-a314-f252eaff0818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Adjuntar' or . = 'Adjuntar')]</value>
+      <webElementGuid>d68e5178-9a73-4a98-b818-e83356f799fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

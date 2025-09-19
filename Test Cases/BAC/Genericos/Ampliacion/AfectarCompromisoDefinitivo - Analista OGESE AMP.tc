@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Analista OGESE AMP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f03cbf3a-4a4f-4691-8f75-a1dff820422d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bedfbbf1-f1d5-44d1-bf8a-723d7ceed302</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bedfbbf1-f1d5-44d1-bf8a-723d7ceed302</id>
+      <masked>false</masked>
+      <name>nroAmpliacion</name>
+   </variable>
+</TestCaseEntity>

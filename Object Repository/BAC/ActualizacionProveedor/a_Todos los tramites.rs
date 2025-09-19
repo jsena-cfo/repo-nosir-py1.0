@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Todos los tramites</name>
+   <tag></tag>
+   <elementGuidId>b632706f-87f6-4f94-b38b-e065ff95e450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_tabDos</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_tabDos']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d0ad1930-5912-4bb2-a262-8ec2a6c2fc2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#ctl00_CPH1_tabTodosLosTramites</value>
+      <webElementGuid>5995a803-39a6-441b-96ba-cb9d5b2e88f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_tabDos</value>
+      <webElementGuid>9e896164-db81-4044-9a01-d1c3d5606604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>811eb445-b07f-4621-8c50-8c8e8972fc79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>61fc8647-8e72-4775-9c3c-4e578357d456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Todos los tramites
+                    </value>
+      <webElementGuid>4f739560-d8a7-4a29-92b6-b4a92fb56d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_tabDos&quot;)</value>
+      <webElementGuid>ca8cc70a-65e8-4f59-9c88-dd69a636ddac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_tabDos']</value>
+      <webElementGuid>3d197feb-76a2-447f-a549-55fb8b20e279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_CPH1_liTodosLosTramites']/a</value>
+      <webElementGuid>397660a3-462a-4c05-afa4-131259985267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis Trámites'])[1]/following::a[1]</value>
+      <webElementGuid>bbaafa65-b643-4a2f-8035-282eb88d0620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proveedores desactualizados por formulario'])[1]/following::a[2]</value>
+      <webElementGuid>8f338723-9322-4699-bfd9-3d522b88b5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtrar por estado:'])[1]/preceding::a[3]</value>
+      <webElementGuid>e108f246-6f69-4d9e-bca9-a4c3e67c7a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#ctl00_CPH1_tabTodosLosTramites')]</value>
+      <webElementGuid>04ea89ea-39f2-466d-8a36-611ba2216532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]/a</value>
+      <webElementGuid>4e163c50-6b53-4c0e-a20c-bd0e3fc3479b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#ctl00_CPH1_tabTodosLosTramites' and @id = 'ctl00_CPH1_tabDos' and (text() = '
+                        Todos los tramites
+                    ' or . = '
+                        Todos los tramites
+                    ')]</value>
+      <webElementGuid>b1273c8c-013b-43e2-8359-3b28ba3941ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

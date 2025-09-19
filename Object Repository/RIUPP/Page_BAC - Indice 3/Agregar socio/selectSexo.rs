@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectSexo</name>
+   <tag></tag>
+   <elementGuidId>8320f25b-f138-455f-82e8-74b5ef36493c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_datosSocio_ddlSexo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_datosSocio_ddlSexo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4f27ea90-bbff-4619-bb7b-c11310306bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$datosSocio$ddlSexo</value>
+      <webElementGuid>5709fa8f-989f-481d-b0ce-ad73afe8b6ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_datosSocio_ddlSexo</value>
+      <webElementGuid>235cefde-18ea-4bee-8c7d-6f15d2b8c34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6e79f31e-3074-42b0-9802-27fa7fb1edf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Seleccionar
+	Femenino
+	Masculino
+
+</value>
+      <webElementGuid>92d4038b-cb31-4bcc-9c26-472973dc3a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_datosSocio_ddlSexo&quot;)</value>
+      <webElementGuid>305aa813-8783-4c5c-982d-57bfbf8274ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_datosSocio_ddlSexo']</value>
+      <webElementGuid>c8c7f447-b9be-4850-a6f6-5b4acde3938d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_datosSocio_DivSexo']/select</value>
+      <webElementGuid>fe7fba14-f3b6-4670-a858-8d4f04f3eda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexo:'])[2]/following::select[1]</value>
+      <webElementGuid>b8134b92-36d2-4b6b-badc-632b85fa035f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completar'])[17]/preceding::select[1]</value>
+      <webElementGuid>daa833b1-cc3c-4170-8535-8721f05b99a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/select</value>
+      <webElementGuid>b4dd2a12-579d-4536-bdf6-1ff14229d3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$datosSocio$ddlSexo' and @id = 'ctl00_CPH1_datosSocio_ddlSexo' and (text() = '
+	Seleccionar
+	Femenino
+	Masculino
+
+' or . = '
+	Seleccionar
+	Femenino
+	Masculino
+
+')]</value>
+      <webElementGuid>fc52a563-ad26-45e0-af78-287dc546d4b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

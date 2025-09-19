@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProveedorNacionalPorMantencionError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e282d30-4bf7-4867-8e3f-83844e69337d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b54d2f3-5e50-4daa-b20b-bc03cc496706</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>3b54d2f3-5e50-4daa-b20b-bc03cc496706</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

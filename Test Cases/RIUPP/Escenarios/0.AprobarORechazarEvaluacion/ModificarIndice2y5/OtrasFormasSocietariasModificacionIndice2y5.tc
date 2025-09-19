@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Evaluador verifica que puede aprobar/rechazar todos los campos despues de que el prov modifica el ind 2</description>
+   <name>OtrasFormasSocietariasModificacionIndice2y5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3b14bec-6d7b-4182-a761-848c96c5d741</testCaseGuid>
+</TestCaseEntity>

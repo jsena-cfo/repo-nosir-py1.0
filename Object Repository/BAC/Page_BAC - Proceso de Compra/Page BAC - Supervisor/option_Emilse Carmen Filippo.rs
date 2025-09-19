@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Emilse Carmen Filippo</name>
+   <tag></tag>
+   <elementGuidId>e3293568-2ce1-44fc-a95f-5a366431718e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;1583&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='1583']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>45fc0c0b-9dab-4f97-b7f6-c63b8210a4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1583</value>
+      <webElementGuid>2b468985-105a-4f18-a3b7-2ff098db402c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Emilse Carmen Filippo</value>
+      <webElementGuid>76913b29-22f8-4aa6-9659-14e1744ee94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ucSupervisor_lsbUsuarios&quot;)/option[3]</value>
+      <webElementGuid>61ada1e6-be39-4e91-b0b2-aef6544631ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='1583']</value>
+      <webElementGuid>e7088272-84f5-4133-9a1d-d546aff74531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ucSupervisor_lsbUsuarios']/option[3]</value>
+      <webElementGuid>9519699f-e1ae-415e-afc5-f239d6b69bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario supervisor'])[1]/following::option[3]</value>
+      <webElementGuid>d5d0bbc6-1b79-4c52-a227-37195013cebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios con el rol supervisor'])[1]/following::option[3]</value>
+      <webElementGuid>17186b67-2faf-441c-9e94-7fb0aa5d4fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::option[30]</value>
+      <webElementGuid>5253ceab-58f2-404c-8eac-ef1b8de7a2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor seleccionado'])[1]/preceding::option[30]</value>
+      <webElementGuid>1f873d4c-bf35-4e14-98f0-fa3ab9c5b4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Emilse Carmen Filippo']/parent::*</value>
+      <webElementGuid>9d952126-965c-4413-80c7-1345cecfe0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//option[3]</value>
+      <webElementGuid>911fda03-cf79-4148-ad2f-03069720a124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'Emilse Carmen Filippo' or . = 'Emilse Carmen Filippo')]</value>
+      <webElementGuid>409f75a9-2c5e-4451-8645-8fec9b2c7dd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

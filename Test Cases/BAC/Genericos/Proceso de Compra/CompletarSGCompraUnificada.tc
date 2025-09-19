@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarSGCompraUnificada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8c9c612-034a-4fca-81ef-20b5718d2b7d</testCaseGuid>
+</TestCaseEntity>

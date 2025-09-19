@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>liAcciones</name>
+   <tag></tag>
+   <elementGuidId>b752d7db-7f36-4ff4-a4df-fdda7fc1d59c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(), '${tramite}')]/ancestor::tr//a[normalize-space(text()) and normalize-space(.)='${accion}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>9f3cc4e2-a6c0-41b2-a56e-938fbf15a291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1693507308850</value>
+      <webElementGuid>26b6f8df-81bb-4600-8440-1be96d190871</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

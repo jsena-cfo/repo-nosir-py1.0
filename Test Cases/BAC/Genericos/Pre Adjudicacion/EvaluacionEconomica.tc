@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EvaluacionEconomica</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e2688cc-d359-4dc2-8490-f698a29c2c81</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a6ad70f-d8bc-4b49-9096-fdfb5c4be8af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a6ad70f-d8bc-4b49-9096-fdfb5c4be8af</id>
+      <masked>false</masked>
+      <name>procedimiento</name>
+   </variable>
+</TestCaseEntity>

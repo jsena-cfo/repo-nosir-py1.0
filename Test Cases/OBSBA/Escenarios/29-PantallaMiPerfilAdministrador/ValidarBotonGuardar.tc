@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarBotonGuardar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79cb4444-3285-4552-a628-6eb33cca4255</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4524ba96-7b36-4b28-8d74-3180c0b7ce57</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fdf0981-d03f-4c3f-b0b3-54c1f55f4166</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>4524ba96-7b36-4b28-8d74-3180c0b7ce57</id>
+      <masked>false</masked>
+      <name>usuarioAdm</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>5fdf0981-d03f-4c3f-b0b3-54c1f55f4166</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

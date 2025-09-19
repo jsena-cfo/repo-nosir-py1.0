@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarIndice6ProyectoDeActoAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>548f7667-361e-44c3-9697-b2c11d62ee33</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96f3efcd-0320-4e68-9284-e3ec99dfa5da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>96f3efcd-0320-4e68-9284-e3ec99dfa5da</id>
+      <masked>false</masked>
+      <name>nroAmpliacion</name>
+   </variable>
+</TestCaseEntity>

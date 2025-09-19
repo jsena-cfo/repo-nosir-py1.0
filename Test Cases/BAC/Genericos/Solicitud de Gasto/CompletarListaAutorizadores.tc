@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarListaAutorizadores</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6e0ec51-d19e-44fc-9415-71b0f1dc793d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b89c7fef-d55e-44fb-b712-a93dcc555229</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Emilse Carmen Filippo'</defaultValue>
+      <description></description>
+      <id>b89c7fef-d55e-44fb-b712-a93dcc555229</id>
+      <masked>false</masked>
+      <name>nombreAutorizador</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__col q-input-target ellipsis justify-start-fecha1</name>
+   <tag></tag>
+   <elementGuidId>8f51455d-2baf-4019-84e2-d73ccabbe35a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.q-input-target.ellipsis.justify-start</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div[4]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcb5affc-4dac-46cb-9929-bb2fdc5e7b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col q-input-target ellipsis justify-start</value>
+      <webElementGuid>3a799746-814e-49cc-919f-c3495c473b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;controls-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-11&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;q-if row no-wrap relative-position q-datetime-input q-if-focused q-if-focusable q-if-standard text-secondary&quot;]/div[@class=&quot;q-if-inner col column q-popup--skip&quot;]/div[@class=&quot;row no-wrap relative-position&quot;]/div[@class=&quot;col q-input-target ellipsis justify-start&quot;]</value>
+      <webElementGuid>a266862b-cccf-44fb-b291-0fc2fa5a6ecb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div[4]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>2c960c44-1cf3-4d1f-bc05-b9cb0ddf0495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>47374377-1b55-480e-886e-7a41361f393d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

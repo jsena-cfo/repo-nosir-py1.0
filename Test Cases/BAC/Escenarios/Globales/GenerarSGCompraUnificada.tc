@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarSGCompraUnificada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f296371-7629-4d27-90e9-5b00ab7b0cb2</testCaseGuid>
+</TestCaseEntity>

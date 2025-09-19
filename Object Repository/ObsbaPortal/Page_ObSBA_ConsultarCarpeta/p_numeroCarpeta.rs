@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_numeroCarpeta</name>
+   <tag></tag>
+   <elementGuidId>296f7eeb-606a-40d1-9352-e2e8c1b2639c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/form/div/div[3]/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '2023-10650' or . = '2023-10650')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9ac0c814-d053-489b-8103-a1eedc3458f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiTypography-alignCenter</value>
+      <webElementGuid>1319d966-6795-4bbb-bffb-693859caf6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023-10650</value>
+      <webElementGuid>6d2a3224-6c79-4c61-853f-6cd3bb2456cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss38 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss39 MuiGrid-item&quot;]/form[@class=&quot;jss40&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-6&quot;]/div[@class=&quot;MuiBox-root jss76&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-content-xs-center MuiGrid-justify-content-xs-center MuiGrid-grid-xs-12&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 MuiTypography-alignCenter&quot;]</value>
+      <webElementGuid>6ef6b54c-6d55-485e-adb7-a426934df5b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/form/div/div[3]/div/div/p[2]</value>
+      <webElementGuid>67d7f5b0-673a-4119-8c07-6944a661814c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de carpeta'])[2]/following::p[2]</value>
+      <webElementGuid>e515e4ef-65b4-4983-b84a-b2b99f4ade56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de carpeta'])[1]/following::p[2]</value>
+      <webElementGuid>36a3e5d6-a2f1-430c-bb7e-0cf370b73193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[1]/preceding::p[1]</value>
+      <webElementGuid>0921d1cc-ac93-41fb-8d2e-b5f90db0fd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[2]/preceding::p[1]</value>
+      <webElementGuid>55df5bb6-a138-4dc8-b303-618d617e0b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023-10650']/parent::*</value>
+      <webElementGuid>f690c1ba-77c3-4a63-8028-bfc3446f174a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p[2]</value>
+      <webElementGuid>d1374db8-0be1-4cb0-855c-7533f8a77bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2023-10650' or . = '2023-10650')]</value>
+      <webElementGuid>9dc15df9-d9f5-4804-abfa-5a6a668dccd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

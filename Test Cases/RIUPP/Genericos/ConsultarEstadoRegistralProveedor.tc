@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ConsultarEstadoRegistralProveedor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6470eef3-8ab6-4d3e-9880-bf09c2d4561b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bdae1c71-666e-45a4-9d4f-0e2e862ebf93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userProveedor</defaultValue>
+      <description></description>
+      <id>bdae1c71-666e-45a4-9d4f-0e2e862ebf93</id>
+      <masked>false</masked>
+      <name>proveedor</name>
+   </variable>
+</TestCaseEntity>

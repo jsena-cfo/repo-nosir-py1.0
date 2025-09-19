@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionOtrasFormasSocietarias</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d142529-ef0b-451b-8f3a-be18e1e4e3b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e0687ff0-8af2-4dcb-ab7b-32c08f3bbd5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'OtrasFormasSocietarias'</defaultValue>
+      <description></description>
+      <id>e0687ff0-8af2-4dcb-ab7b-32c08f3bbd5e</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PruebaSeleccionarTipoPerfil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efce2be7-8571-41e7-805c-e1f4b752ef76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23b1771a-8b3d-427e-9bd8-5b29b229cecc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>23b1771a-8b3d-427e-9bd8-5b29b229cecc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

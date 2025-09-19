@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarUsuarioCreado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee0959cc-703e-4b10-949f-522f05f44c7d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e305e5f3-4b4f-4470-973b-fb1bbcc3b496</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2031230809'</defaultValue>
+      <description>Admite cuit con y sin guiones</description>
+      <id>e305e5f3-4b4f-4470-973b-fb1bbcc3b496</id>
+      <masked>false</masked>
+      <name>cuit</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckVisiblePrestador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2eece478-535d-4f54-8efa-110ab00acf88</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f2fc688-bf35-433c-abe7-688a377cbbcd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a485885e-a7ce-48f8-a4ab-6bb4c2ed4ba2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58562517-c0a4-4cd9-b7d4-a435046821f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>2f2fc688-bf35-433c-abe7-688a377cbbcd</id>
+      <masked>false</masked>
+      <name>userInterno</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitPrestador</defaultValue>
+      <description></description>
+      <id>a485885e-a7ce-48f8-a4ab-6bb4c2ed4ba2</id>
+      <masked>false</masked>
+      <name>userPrestador</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>58562517-c0a4-4cd9-b7d4-a435046821f4</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

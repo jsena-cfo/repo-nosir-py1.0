@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenBbc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbbda8ea-4923-47b8-ad59-cc8fd4816e7a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09d479da-9ad0-476e-85de-9fd3ca44cbc6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>515713f2-9fdd-4191-8f2b-4aedc4c3a0d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83f9cabf-afae-4455-9323-2db3db3289b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open BBC'</defaultValue>
+      <description></description>
+      <id>09d479da-9ad0-476e-85de-9fd3ca44cbc6</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio BBC se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>515713f2-9fdd-4191-8f2b-4aedc4c3a0d3</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio BBC correctamente'</defaultValue>
+      <description></description>
+      <id>83f9cabf-afae-4455-9323-2db3db3289b6</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

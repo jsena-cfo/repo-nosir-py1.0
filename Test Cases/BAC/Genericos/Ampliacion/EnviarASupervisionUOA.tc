@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnviarASupervisionUOA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>712e9459-4f69-4031-b20e-087dbd1b8560</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0603c5ff-733a-415e-b8d6-556c3be72e64</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0603c5ff-733a-415e-b8d6-556c3be72e64</id>
+      <masked>false</masked>
+      <name>nroAmpliacion</name>
+   </variable>
+</TestCaseEntity>

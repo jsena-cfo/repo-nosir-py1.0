@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionOtrasFormasSocietariasViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80c8b0b1-dc81-49ec-abe9-7c2b8822adaa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e3dff0f-09a3-417f-ad3a-d0d595562fb1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Otras Formas Societarias'</defaultValue>
+      <description></description>
+      <id>2e3dff0f-09a3-417f-ad3a-d0d595562fb1</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

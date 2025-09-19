@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_darDeAltaAtencin</name>
+   <tag></tag>
+   <elementGuidId>3581da3f-84d5-4658-b70d-c82ce47f5df8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alert-dialog-title']/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0983ce98-062a-4b07-8279-a4c3c26dd2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6</value>
+      <webElementGuid>7fa15b55-8adb-47ac-8561-7829539be1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¡Atención!</value>
+      <webElementGuid>1817d13d-5300-43ca-adf6-c96f5daf5093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-dialog-title&quot;)/h2[@class=&quot;MuiTypography-root MuiTypography-h6&quot;]</value>
+      <webElementGuid>acd0e014-5108-48ae-b3e7-c3d0c36c125b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alert-dialog-title']/h2</value>
+      <webElementGuid>4cd1b28d-e4b0-4d07-ba79-718e8a82611d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h2[1]</value>
+      <webElementGuid>b6ceae86-9182-4c08-9f87-67dbc593f55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::h2[1]</value>
+      <webElementGuid>ae401919-33e0-46e4-b9c4-5af28a9eaf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCELAR'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9e8c51cb-7887-4401-85e0-2eb62af3ff33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONFIRMAR'])[1]/preceding::h2[1]</value>
+      <webElementGuid>be713512-4216-448e-b509-a8d5da7c1ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¡Atención!']/parent::*</value>
+      <webElementGuid>2dbf232d-240c-4e01-b9f4-65fd4d467499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>c3b80556-a547-466f-a45e-6c16be0392cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '¡Atención!' or . = '¡Atención!')]</value>
+      <webElementGuid>0c1c6c06-0d7e-449e-9746-9e6114d2e5eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

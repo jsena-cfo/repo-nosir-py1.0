@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_precioActual1</name>
+   <tag></tag>
+   <elementGuidId>0bb5a3c6-8978-45a3-bd2a-7a12ff560493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual' and (text() = 'ARS 2,00' or . = 'ARS 2,00')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1e288c0-55cc-448c-9928-e611a7d5efcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual</value>
+      <webElementGuid>049fd359-4845-499d-913e-7f3019f9f984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Precio actual</value>
+      <webElementGuid>8a51ed04-40d5-469a-bd8d-a66cd99447ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARS 2,00</value>
+      <webElementGuid>7a3a5a66-0ac4-4c05-a015-9ff9ad0078bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual&quot;)</value>
+      <webElementGuid>c0322659-a579-4708-8a71-cf7c9911e682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual']</value>
+      <webElementGuid>f22f2424-28e9-47ae-ad08-cb08bb348e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_rptRenglonesCabecera_ctl00_aAcordion']/div/div[2]/div/table/tbody/tr/td[6]/span</value>
+      <webElementGuid>7daa9369-58e5-4d05-b548-603f17c99461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[2]/following::span[1]</value>
+      <webElementGuid>ad9ce9b9-b221-45a6-a607-ff410dfafc5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Especificaciones de Prueba'])[1]/following::span[1]</value>
+      <webElementGuid>fc2eb101-c506-4f88-9cc3-7306e4174c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha'])[1]/preceding::span[2]</value>
+      <webElementGuid>27dd8e17-a919-4854-8d8c-a9716c094cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precio'])[1]/preceding::span[2]</value>
+      <webElementGuid>2cd780d9-bd4c-4d52-9e5c-8ffe7a577657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARS 2,00']/parent::*</value>
+      <webElementGuid>cdaf7fa2-f6d7-4bc5-90a7-0348f26a7516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/span</value>
+      <webElementGuid>79f0c271-3248-44d9-895d-33da85bbb2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_CPH1_rptRenglonesCabecera_ctl00_lblPrecioActual' and (text() = 'ARS 2,00' or . = 'ARS 2,00')]</value>
+      <webElementGuid>002f9e29-aff2-49b2-b7c4-d6b6cd99c0fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

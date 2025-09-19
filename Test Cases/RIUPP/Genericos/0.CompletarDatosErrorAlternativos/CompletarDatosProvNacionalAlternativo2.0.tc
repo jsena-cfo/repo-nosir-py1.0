@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDatosProvNacionalAlternativo2.0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc51da7e-6bfb-4dea-9c37-6c1c79466b3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e61dc968-66de-4caa-87cd-60a80004cf41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e61dc968-66de-4caa-87cd-60a80004cf41</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Administrar Usuarios</name>
+   <tag></tag>
+   <elementGuidId>549e1cc0-5147-4678-913a-0d7913c3c00b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu > ul.dropdown-menu > li:nth-of-type(4) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c879d75-1864-4d80-aea1-09c454d278bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/RIUPP/AdministrarUsuario.aspx</value>
+      <webElementGuid>fb647e59-ed7e-4b82-9c4b-abaa78573e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administrar Usuarios</value>
+      <webElementGuid>fb58bd5c-1e18-4e5f-9fed-b21255252b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[4]/a[1]</value>
+      <webElementGuid>019ce678-e70c-4411-9869-edf9cbf5edfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[4]/a</value>
+      <webElementGuid>d32426ef-48d3-414b-a8ed-99d3d598f72e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Administrar Usuarios')]</value>
+      <webElementGuid>b0bb0132-da50-4488-b043-2c9ec6c3fdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitar Baja del Proveedor'])[1]/following::a[1]</value>
+      <webElementGuid>1678be71-fb04-45ee-9b9d-15061b15b050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificar Datos del Proveedor'])[1]/following::a[2]</value>
+      <webElementGuid>68c154e6-2b2b-41ae-9278-a2b3f5b5ba51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar Estado Registral'])[1]/preceding::a[1]</value>
+      <webElementGuid>966df91d-0142-4a4d-98e2-7592eae8cf62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis trámites'])[1]/preceding::a[2]</value>
+      <webElementGuid>cf425fa6-fb92-4f87-be13-a16460940a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Administrar Usuarios']/parent::*</value>
+      <webElementGuid>55f4edeb-f644-4b72-b78c-8b2ebfd97028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/RIUPP/AdministrarUsuario.aspx')]</value>
+      <webElementGuid>9057bb88-4b86-4ed9-a4d8-7190d98557e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[4]/a</value>
+      <webElementGuid>1ec968e1-1d3d-406f-bea1-11e414eb56ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/RIUPP/AdministrarUsuario.aspx' and (text() = 'Administrar Usuarios' or . = 'Administrar Usuarios')]</value>
+      <webElementGuid>442239eb-336c-485e-bc2b-b9f8126dbda3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

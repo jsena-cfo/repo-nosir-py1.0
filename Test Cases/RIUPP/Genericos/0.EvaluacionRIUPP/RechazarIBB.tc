@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RechazarIBB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72b73dc5-747b-4744-b21e-98383db9f69d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82b31135-6347-4feb-8731-e1d52a802c12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82b31135-6347-4feb-8731-e1d52a802c12</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

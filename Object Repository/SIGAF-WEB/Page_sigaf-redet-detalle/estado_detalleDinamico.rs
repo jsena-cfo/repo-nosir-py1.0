@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>estado_detalleDinamico</name>
+   <tag></tag>
+   <elementGuidId>465d01a8-f3fe-483b-a7f7-ddb3af8e0481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;q-app&quot;]/div/div/div[1]/main/div[1]/form/div[1]/div[1]/div/div/div[3]/div/div[2]/input[count(. | //*[(text() = 'ANULADO' or . = 'ANULADO')]) = count(//*[(text() = 'ANULADO' or . = 'ANULADO')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;q-app&quot;]/div/div/div[1]/main/div[1]/form/div[1]/div[1]/div/div/div[3]/div/div[2]/input</value>
+      <webElementGuid>3251515e-55b9-4866-889e-4f461dfb89b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANULADO</value>
+      <webElementGuid>a9cf05b8-f66f-4313-8a16-6d6f929c9265</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnviarCarpetaInterno</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f763994a-2f68-4661-b99e-be11a27fae23</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df31424f-004d-4703-acd5-843b8f1c83c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1508ef9b-82a0-4b6c-91bb-1cbb24abe4ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>df31424f-004d-4703-acd5-843b8f1c83c8</id>
+      <masked>false</masked>
+      <name>varUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>1508ef9b-82a0-4b6c-91bb-1cbb24abe4ba</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>

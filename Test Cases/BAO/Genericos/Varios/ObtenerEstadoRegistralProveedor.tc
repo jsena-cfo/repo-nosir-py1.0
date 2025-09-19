@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ObtenerEstadoRegistralProveedor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d11dcc3f-57a0-46bf-9b79-59d42a065de2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0d81447-db27-41a8-9bc0-70e7553becad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eeb8b73a-0628-4e48-990b-c580455c350d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userProveedor</defaultValue>
+      <description></description>
+      <id>a0d81447-db27-41a8-9bc0-70e7553becad</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.pass</defaultValue>
+      <description></description>
+      <id>eeb8b73a-0628-4e48-990b-c580455c350d</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.VerificarDocEnEstadoRegistralOtrasFormasSocietarias</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75115d47-0a7c-4691-b206-770d5ec15a25</testCaseGuid>
+</TestCaseEntity>

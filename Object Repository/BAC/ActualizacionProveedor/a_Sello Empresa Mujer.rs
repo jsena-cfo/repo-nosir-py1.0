@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sello Empresa Mujer</name>
+   <tag></tag>
+   <elementGuidId>91575466-2e04-4e94-8782-76e7409ae9ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu > ul.dropdown-menu > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba161c37-fcf3-4367-a41c-a55f2fc5ad12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/RIUPP/AdministrarCertificadoSelloMujerProveedor.aspx</value>
+      <webElementGuid>678a2ce8-77d7-48e9-8abc-3d9d28fc9e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sello Empresa Mujer</value>
+      <webElementGuid>89f6b0ca-72a0-4a98-85ff-fe6bfe28b323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>40b9fee1-a546-4722-b150-9a0937974193</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li/a</value>
+      <webElementGuid>007c3b44-1753-41bb-b48c-aa226588fec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sello Empresa Mujer')]</value>
+      <webElementGuid>a533cd21-db72-4703-8ecc-d4f2e749b953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar'])[1]/following::a[1]</value>
+      <webElementGuid>a49d6371-41ea-481f-b753-728061cf2594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Garantías'])[1]/following::a[2]</value>
+      <webElementGuid>3727f5d1-8fce-46ab-9f66-a2ca94a4722f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificar Datos del Proveedor'])[1]/preceding::a[1]</value>
+      <webElementGuid>89560033-5d8a-440b-ada9-4e3cb15d05c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitar Baja del Proveedor'])[1]/preceding::a[2]</value>
+      <webElementGuid>140c4a66-dab3-4833-8a1e-ab8592250cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sello Empresa Mujer']/parent::*</value>
+      <webElementGuid>ad778535-a05a-4a51-8922-bc85115aaa49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/RIUPP/AdministrarCertificadoSelloMujerProveedor.aspx')]</value>
+      <webElementGuid>b78afaa0-cf47-4287-8ae8-9cfa90a9c813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>3e49aad0-3c8c-4bff-8706-138c444518f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/RIUPP/AdministrarCertificadoSelloMujerProveedor.aspx' and (text() = 'Sello Empresa Mujer' or . = 'Sello Empresa Mujer')]</value>
+      <webElementGuid>c7ec99f2-42b2-4c41-b392-0ffb832842a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

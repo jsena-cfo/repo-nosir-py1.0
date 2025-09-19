@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__col q-input-target q-no-input-spinner ellipsis</name>
+   <tag></tag>
+   <elementGuidId>ecafa864-f624-43a2-b80f-2a94284d2055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.q-if.row.no-wrap.relative-position.q-input.q-if-focused.q-if-standard.q-if-has-content.text-primary > div.q-if-inner.col.column.q-popup--skip > div.row.no-wrap.relative-position > input.col.q-input-target.q-no-input-spinner.ellipsis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[16]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>098aed00-18a2-4aef-99da-a7e772051fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bdac9f22-4f48-44d8-85df-d9d499237f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>any</value>
+      <webElementGuid>f5fd88b6-d13e-45e1-a4a2-ee0cfad6cd9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col q-input-target q-no-input-spinner ellipsis</value>
+      <webElementGuid>29ec96ce-049a-429b-8b4a-d35bc716e130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat desktop no-touch platform-mat q-responsive-modal&quot;]/div[@class=&quot;modal fullscreen row flex-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;q-ma-md&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;q-if row no-wrap relative-position q-input q-if-focused q-if-standard q-if-has-content text-primary&quot;]/div[@class=&quot;q-if-inner col column q-popup--skip&quot;]/div[@class=&quot;row no-wrap relative-position&quot;]/input[@class=&quot;col q-input-target q-no-input-spinner ellipsis&quot;]</value>
+      <webElementGuid>a8758dc4-f8e4-423f-9264-d998e183b2ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[16]</value>
+      <webElementGuid>0e1b8602-e042-47a7-abe6-e44091330b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]/div/div[2]/div/input</value>
+      <webElementGuid>a6be59c7-8317-400f-b0d7-1f4568748115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>51db7e76-9881-4dd8-9af3-6825e25cca3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

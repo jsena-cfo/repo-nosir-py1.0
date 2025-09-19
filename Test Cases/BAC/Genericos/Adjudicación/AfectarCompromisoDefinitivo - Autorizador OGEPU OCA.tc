@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Autorizador OGEPU OCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d60874bc-1ed0-4e69-9c39-f5e5607ad0ab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daaa1dda-234c-4214-98a3-7083220c5de4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>daaa1dda-234c-4214-98a3-7083220c5de4</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

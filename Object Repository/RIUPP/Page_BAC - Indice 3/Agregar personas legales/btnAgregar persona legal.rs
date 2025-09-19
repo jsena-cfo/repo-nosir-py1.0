@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnAgregar persona legal</name>
+   <tag></tag>
+   <elementGuidId>f7fc9488-593a-482b-8f64-389143a07212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_datosPersonasLegales_lnkAgregar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_datosPersonasLegales_lnkAgregar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5dc23f2-e62e-4a5f-82de-9ab981e63ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:openModalPersonasLegales('ctl00_CPH1_datosPersonasLegales_myModalPersonasLegales');return false;</value>
+      <webElementGuid>d735bf0f-6589-4b56-8834-056d4e726e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_datosPersonasLegales_lnkAgregar</value>
+      <webElementGuid>a5da19a2-70fd-4b7d-9fc0-89ad93867425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-block</value>
+      <webElementGuid>8a224e8c-45f4-4d97-87c2-7d60a667e9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$datosPersonasLegales$lnkAgregar','')</value>
+      <webElementGuid>89ffb2b5-df51-48b2-854a-0e635deac1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agregar persona legal</value>
+      <webElementGuid>f4eee878-3239-48a0-a832-f6c8de7d09b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_datosPersonasLegales_lnkAgregar&quot;)</value>
+      <webElementGuid>620ba796-bbac-423d-b371-1d720ce7d4c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_datosPersonasLegales_lnkAgregar']</value>
+      <webElementGuid>bed7b5f6-6dc8-4a00-80be-c0db115fe713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_datosPersonasLegales_divPersonasleg']/div/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>05d47d3f-8854-4d15-b0ac-38eaafb77540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Agregar persona legal')]</value>
+      <webElementGuid>41cbb5ed-6595-4ef4-bb7c-40645c5602fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[4]/following::a[1]</value>
+      <webElementGuid>dcb8e8f3-da7f-4bda-940f-9c88bd1fdf0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo persona legal'])[2]/following::a[1]</value>
+      <webElementGuid>4ac03176-11cb-4ea2-814a-354596477786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anterior'])[1]/preceding::a[1]</value>
+      <webElementGuid>c18f6f1e-b32c-4db4-b58b-565470f42fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siguiente'])[1]/preceding::a[2]</value>
+      <webElementGuid>1c066977-7a87-4c03-a008-84ac495ffb52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agregar persona legal']/parent::*</value>
+      <webElementGuid>1d3dee21-187f-47da-8821-5b646f4374a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$datosPersonasLegales$lnkAgregar','')&quot;)]</value>
+      <webElementGuid>33ac7a3b-097f-43d6-9f05-42976d1baa01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>3a288ecd-a3df-4149-a5fd-1e04c6b87f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_datosPersonasLegales_lnkAgregar' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$datosPersonasLegales$lnkAgregar&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Agregar persona legal' or . = 'Agregar persona legal')]</value>
+      <webElementGuid>c2dc4a8b-fd63-4beb-b494-bca4e87c8456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

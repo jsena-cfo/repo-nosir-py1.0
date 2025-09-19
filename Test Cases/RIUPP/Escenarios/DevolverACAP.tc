@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DevolverACAP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1852197-b8af-478a-a574-124b3803478f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29af5818-c4cc-46ab-a076-b33e62a67f30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>29af5818-c4cc-46ab-a076-b33e62a67f30</id>
+      <masked>false</masked>
+      <name>asunto</name>
+   </variable>
+</TestCaseEntity>

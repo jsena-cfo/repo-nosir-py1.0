@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mi escritorio</name>
+   <tag></tag>
+   <elementGuidId>f3607a3c-eca5-4a93-8b98-0a5174a7196c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_NavBar_CtrlmenubaseBastrap_lblHome']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_NavBar_CtrlmenubaseBastrap_lblHome</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>904acf74-9dcb-40c4-9192-1db97e1cbc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_NavBar_CtrlmenubaseBastrap_lblHome</value>
+      <webElementGuid>aeb1ae94-bbd7-4e58-bfd9-4149e8e8a30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mi escritorio</value>
+      <webElementGuid>43f3866c-edcc-42a4-b360-f7e747716ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_lblHome&quot;)</value>
+      <webElementGuid>107fbf50-8686-4b4f-9084-b472007589b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_NavBar_CtrlmenubaseBastrap_lblHome']</value>
+      <webElementGuid>369dfe06-b888-434d-866c-08bec11e047f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_NavBar_CtrlmenubaseBastrap_lnkEscritorio']/strong/span</value>
+      <webElementGuid>2e895c2f-2c09-413c-855d-4e034115f901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::span[5]</value>
+      <webElementGuid>ff2d41a1-df87-421a-8953-ecc08cf92dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buenos Aires Ciudad'])[1]/following::span[6]</value>
+      <webElementGuid>1b6ce2ed-8012-4e9a-95be-de7502bc5f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel Convenio Marco'])[1]/preceding::span[2]</value>
+      <webElementGuid>10a9b908-4525-442b-975a-fcea4afc32fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::span[3]</value>
+      <webElementGuid>9f22e62c-d473-4da0-86f8-b49e304ef49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mi escritorio']/parent::*</value>
+      <webElementGuid>c363177b-18a5-42b1-8802-2f18ad34fc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/span</value>
+      <webElementGuid>6bc89387-f48d-47ee-b42b-c6e96362a3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_NavBar_CtrlmenubaseBastrap_lblHome' and (text() = ' Mi escritorio' or . = ' Mi escritorio')]</value>
+      <webElementGuid>50249fa1-200e-441a-b7e5-47cfc2a7db8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

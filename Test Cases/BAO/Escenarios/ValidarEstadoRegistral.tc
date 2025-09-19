@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarEstadoRegistral</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75a678a7-414c-43e9-92ab-1add4f1998df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b22148d-7e3a-422f-9a7a-a0a25c83a4ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Inscripto'</defaultValue>
+      <description></description>
+      <id>0b22148d-7e3a-422f-9a7a-a0a25c83a4ff</id>
+      <masked>false</masked>
+      <name>estadoEsperado</name>
+   </variable>
+</TestCaseEntity>

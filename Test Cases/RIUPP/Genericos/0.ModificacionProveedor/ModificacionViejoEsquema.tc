@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf8cb2ff-60e7-4f4d-bb18-4e49858f99c2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4cd4d074-ffc7-4333-aba5-aaf931f68f5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cd4d074-ffc7-4333-aba5-aaf931f68f5c</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Autorizador OGEPU AMP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d5641ec-a96e-462c-bd1e-fa4dcd5d09c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c91bc147-6040-42f8-ba3b-02891bb397be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c91bc147-6040-42f8-ba3b-02891bb397be</id>
+      <masked>false</masked>
+      <name>nroAmpliacion</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_msjDocumentoEnviado</name>
+   <tag></tag>
+   <elementGuidId>437d6056-f468-4fce-9a9b-a069ee7ec456</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'transition-modal-description' and (text() = 'Lleva el siguiente número de expediente: 45720-2024. ¡Saludos y buena semana!' or . = 'Lleva el siguiente número de expediente: 45720-2024. ¡Saludos y buena semana!')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='transition-modal-description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e669eef9-dda3-4199-aeea-659e4eade0ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1</value>
+      <webElementGuid>323bf2d7-c2ab-437d-8fb2-761a9679029a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-description</value>
+      <webElementGuid>8ccce714-3ce0-4ba1-b3ba-c4beef1b922a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sx</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>7702e8b4-a8ab-4ccf-918e-3e8f2d5b2df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lleva el siguiente número de expediente: 45720-2024. ¡Saludos y buena semana!</value>
+      <webElementGuid>6649a4b9-7ea3-409e-99ae-4b605a27c31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-description&quot;)</value>
+      <webElementGuid>19ad528d-c08a-4d2a-bd1f-979bb868cd82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='transition-modal-description']</value>
+      <webElementGuid>2790adb6-01fd-40f2-aea1-e7cbcf2c7d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La documentación se ha enviado exitosamente'])[1]/following::p[1]</value>
+      <webElementGuid>c8ea372b-af5b-4ba4-a5da-428a34b08775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/div[3]/div[@class=', '&quot;', 'MuiBackdrop-root', '&quot;', ']')])[1]/following::p[1]</value>
+      <webElementGuid>df6df7d8-adf9-4c50-ad63-632f5076a78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lleva el siguiente número de expediente: 45720-2024. ¡Saludos y buena semana!']/parent::*</value>
+      <webElementGuid>a77dc667-3d4b-4c76-9741-a2669aacb014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>bccff237-2dc1-48e5-b26b-5fe9a664480f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'transition-modal-description' and (text() = 'Lleva el siguiente número de expediente: 45720-2024. ¡Saludos y buena semana!' or . = 'Lleva el siguiente número de expediente: 45720-2024. ¡Saludos y buena semana!')]</value>
+      <webElementGuid>f31cd3df-9406-4372-a0e1-856f385ed82c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

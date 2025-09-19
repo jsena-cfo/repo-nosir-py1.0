@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_usuarioDadoAltaExito</name>
+   <tag></tag>
+   <elementGuidId>ef6d1886-833c-407d-87e2-3374c5fc2913</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'transition-modal-title' and (text() = 'Operación realizada exitosamente' or . = 'Operación realizada exitosamente')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='transition-modal-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f358f52f-87fa-4ea8-827a-1b8ac701350e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6</value>
+      <webElementGuid>4320f523-25cc-49c5-b9a8-38993cb8e5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-title</value>
+      <webElementGuid>81b46127-5e85-49bb-9e03-85ed07204d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operación realizada exitosamente</value>
+      <webElementGuid>8839d7ae-cdd5-4ca3-9b13-54f1a2a8c90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-title&quot;)</value>
+      <webElementGuid>47792d7d-46b2-4259-8f00-17e0a34763d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='transition-modal-title']</value>
+      <webElementGuid>93dce521-3f13-44dc-becb-4dba85f7ff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-title', '&quot;', ')')])[1]/following::h2[1]</value>
+      <webElementGuid>62b090c0-9e19-42ca-a3ec-9d2bbc625839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::h2[1]</value>
+      <webElementGuid>a22e7c3f-d6a6-4471-ab17-dcea97a04bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operación realizada exitosamente']/parent::*</value>
+      <webElementGuid>71ac7f07-32c0-4bc8-bda6-63c47a54ecf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>13012422-7c01-4997-86ec-ce8230c96a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'transition-modal-title' and (text() = 'Operación realizada exitosamente' or . = 'Operación realizada exitosamente')]</value>
+      <webElementGuid>f3d5f387-6788-4bac-84db-048d27f09a12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarPantallaAdministrarUsuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66b97b33-6051-418b-b15a-c2c6f34451be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6076e94a-cc08-466b-a69f-13480077aba4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16abcfc0-c3c1-409f-936d-2d93503016dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d9f8155-3ce1-4a4e-a79a-75a3436929ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>6076e94a-cc08-466b-a69f-13480077aba4</id>
+      <masked>false</masked>
+      <name>usuarioAdm</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>16abcfc0-c3c1-409f-936d-2d93503016dd</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>2d9f8155-3ce1-4a4e-a79a-75a3436929ec</id>
+      <masked>false</masked>
+      <name>usuarioInt</name>
+   </variable>
+</TestCaseEntity>

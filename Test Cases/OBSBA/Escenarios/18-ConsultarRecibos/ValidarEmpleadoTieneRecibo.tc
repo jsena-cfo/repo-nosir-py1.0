@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarEmpleadoTieneRecibo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7420e33d-4e02-42f9-8c2e-92ed77497789</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ecdd6273-c895-44cc-af16-176c81f9c3ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c20b798-b7f6-4624-aca2-7cc9d32810a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitEmpleado</defaultValue>
+      <description></description>
+      <id>ecdd6273-c895-44cc-af16-176c81f9c3ea</id>
+      <masked>false</masked>
+      <name>varUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>1c20b798-b7f6-4624-aca2-7cc9d32810a2</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>

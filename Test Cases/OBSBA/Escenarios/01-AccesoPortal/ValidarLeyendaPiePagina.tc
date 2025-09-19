@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarLeyendaPiePagina</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a6c3d05-af43-4af7-be5b-eec26687d206</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67214a49-1337-4a71-a225-35a72bbb26ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>67214a49-1337-4a71-a225-35a72bbb26ad</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

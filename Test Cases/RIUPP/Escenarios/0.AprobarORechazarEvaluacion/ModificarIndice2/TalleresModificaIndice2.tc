@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>se verifica que en la evaluación de modificaciones se traigan las fechas y permita aprobar o rechazar items que ya habian sido aprobado o rechazado</description>
+   <name>TalleresModificaIndice2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49bf55a9-175f-4e57-b94a-7787ff47639c</testCaseGuid>
+</TestCaseEntity>

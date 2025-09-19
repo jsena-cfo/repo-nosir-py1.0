@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BusquedaAvanzadaProveedor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e8516a6-7b62-4fc3-8b65-afa25d55daf2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a1dacc1-d2f9-47df-8be0-170e1014a004</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.razonSocial</defaultValue>
+      <description></description>
+      <id>0a1dacc1-d2f9-47df-8be0-170e1014a004</id>
+      <masked>false</masked>
+      <name>razonSocial</name>
+   </variable>
+</TestCaseEntity>

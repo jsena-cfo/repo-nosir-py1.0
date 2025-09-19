@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarIndice1Justificacion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac4665dd-adf2-4d7f-9b8a-9bf7cc78507a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07bc6cca-414d-44fc-890f-6a5a3a0d7c9b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07bc6cca-414d-44fc-890f-6a5a3a0d7c9b</id>
+      <masked>false</masked>
+      <name>accion</name>
+   </variable>
+</TestCaseEntity>

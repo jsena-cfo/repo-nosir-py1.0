@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarAdjParcialParcial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a04ca5ff-3ccd-4785-ad69-db7a54afb849</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ef551be-c83d-40f3-9191-f4a475ea9e0b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>6ef551be-c83d-40f3-9191-f4a475ea9e0b</id>
+      <masked>false</masked>
+      <name>renglones</name>
+   </variable>
+</TestCaseEntity>

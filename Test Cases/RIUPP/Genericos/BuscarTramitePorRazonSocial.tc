@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuscarTramitePorRazonSocial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57c39431-716d-4973-b7e7-7c87cf0b6c45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8944daa9-15f7-4285-93ed-a5dac800c7e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8f4c261-b1e9-4078-986f-4731e80402f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d87778b-3783-45b4-a5f0-05a4e39e363d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8944daa9-15f7-4285-93ed-a5dac800c7e6</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8f4c261-b1e9-4078-986f-4731e80402f3</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.razonSocial</defaultValue>
+      <description></description>
+      <id>4d87778b-3783-45b4-a5f0-05a4e39e363d</id>
+      <masked>false</masked>
+      <name>razonSocial</name>
+   </variable>
+</TestCaseEntity>

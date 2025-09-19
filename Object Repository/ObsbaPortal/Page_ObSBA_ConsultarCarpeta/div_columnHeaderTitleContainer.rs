@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_columnHeaderTitleContainer</name>
+   <tag></tag>
+   <elementGuidId>25a5d0ba-b0cc-4c48-ba7c-0a10e12fcf6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDataGrid-columnHeaderTitleContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bc7d671-5b47-4536-8179-6ec4f1147493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-columnHeaderTitleContainer</value>
+      <webElementGuid>847f15a4-d8d3-49d9-bc8c-5fbace5eb1af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss38 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss39 MuiGrid-item&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-f75cnp&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-columnHeaders MuiDataGrid-withBorderColor css-y599qu&quot;]/div[@class=&quot;MuiDataGrid-columnHeadersInner MuiDataGrid-columnHeadersInner--scrollable css-vcjdx3&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;MuiDataGrid-columnHeader MuiDataGrid-columnHeader--alignCenter MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-columnHeaderDraggableContainer&quot;]/div[@class=&quot;MuiDataGrid-columnHeaderTitleContainer&quot;]</value>
+      <webElementGuid>3a7e34c9-9809-4dfb-87a9-174465a9c2dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>f530de01-2242-485d-9bbd-35b38f7ca551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva Carpeta'])[1]/following::div[9]</value>
+      <webElementGuid>3a4b7ac4-5d3f-427e-846e-7db3e180779c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/following::div[10]</value>
+      <webElementGuid>a74bb317-9f5e-4f33-ade1-f12707a72f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carpeta'])[1]/preceding::div[4]</value>
+      <webElementGuid>1140ef7b-84ae-4946-950d-6e74fdcca8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fac'])[1]/preceding::div[12]</value>
+      <webElementGuid>0330b4f9-38a2-4d10-9e1b-1c877a5b60d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>af6a8e9b-28f0-40ce-9203-ba28c19d0185</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

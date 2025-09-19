@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarItemRubroYGrupo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa8283c8-ec10-4f4b-842b-58b2e675aba1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>031d7c56-5620-4319-9beb-cdb6da4a4e3d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a85064f8-33ee-46b4-bb5c-14ea27b0d253</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df657e62-a6c7-4acf-9364-14f63052f476</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Informática '</defaultValue>
+      <description></description>
+      <id>031d7c56-5620-4319-9beb-cdb6da4a4e3d</id>
+      <masked>false</masked>
+      <name>rubro</name>
+   </variable>
+   <variable>
+      <defaultValue>'Programas, Aplicaciones y Conectividad para Informática'</defaultValue>
+      <description></description>
+      <id>a85064f8-33ee-46b4-bb5c-14ea27b0d253</id>
+      <masked>false</masked>
+      <name>grupo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df657e62-a6c7-4acf-9364-14f63052f476</id>
+      <masked>false</masked>
+      <name>clase</name>
+   </variable>
+</TestCaseEntity>

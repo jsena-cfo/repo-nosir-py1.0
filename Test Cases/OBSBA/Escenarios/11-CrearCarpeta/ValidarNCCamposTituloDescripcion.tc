@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarNCCamposTituloDescripcion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f284202-00b6-47bc-b2b4-17a1c31063b9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed07df5f-4287-43f8-9fab-4253282f39a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ceb500d7-a5a7-4346-b9c0-b7f6f7c9c93f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>ed07df5f-4287-43f8-9fab-4253282f39a5</id>
+      <masked>false</masked>
+      <name>intUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>ceb500d7-a5a7-4346-b9c0-b7f6f7c9c93f</id>
+      <masked>false</masked>
+      <name>intPassword</name>
+   </variable>
+</TestCaseEntity>

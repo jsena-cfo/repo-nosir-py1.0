@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecepcionarConProveedorOCA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b05f85e-245c-4fe3-8701-365a26afef96</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23cb7fd9-b7ef-496e-8653-1e253c7d0105</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23cb7fd9-b7ef-496e-8653-1e253c7d0105</id>
+      <masked>false</masked>
+      <name>nroOCA</name>
+   </variable>
+</TestCaseEntity>

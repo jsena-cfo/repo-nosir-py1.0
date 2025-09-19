@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuscarConvenioMarco</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b969d3f-b2a1-4cca-9acf-77b6c95cff66</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2ccbba0-e5af-4cd6-bf44-ed9aa45cfac8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3a34864-e954-462f-a6e4-613c8f7bfd5f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eabaf8fe-73cc-41ff-8681-5aa887e79b82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>b2ccbba0-e5af-4cd6-bf44-ed9aa45cfac8</id>
+      <masked>false</masked>
+      <name>nroPliego</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.userAutorizador</defaultValue>
+      <description></description>
+      <id>b3a34864-e954-462f-a6e4-613c8f7bfd5f</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passAutorizador</defaultValue>
+      <description></description>
+      <id>eabaf8fe-73cc-41ff-8681-5aa887e79b82</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

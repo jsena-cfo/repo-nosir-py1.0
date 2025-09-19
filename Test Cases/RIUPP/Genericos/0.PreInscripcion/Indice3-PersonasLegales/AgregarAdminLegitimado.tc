@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AgregarAdminLegitimado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebfaa8ff-18ba-4ca6-8e82-46ea22a9fe9d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b19743e0-e239-4eb7-96b3-df132cebdb57</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>591e3707-b9d5-4035-b1c5-74a77fc961d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Apoderado'</defaultValue>
+      <description></description>
+      <id>b19743e0-e239-4eb7-96b3-df132cebdb57</id>
+      <masked>false</masked>
+      <name>tipoAdministrador</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>591e3707-b9d5-4035-b1c5-74a77fc961d0</id>
+      <masked>false</masked>
+      <name>esExtranjero</name>
+   </variable>
+</TestCaseEntity>

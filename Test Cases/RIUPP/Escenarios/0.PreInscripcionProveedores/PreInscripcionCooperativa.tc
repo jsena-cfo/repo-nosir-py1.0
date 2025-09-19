@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionCooperativa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>566808fe-4591-46ff-8c05-caea7cebdea0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c749109a-206b-49d0-adcd-a56cfdd37490</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>c749109a-206b-49d0-adcd-a56cfdd37490</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

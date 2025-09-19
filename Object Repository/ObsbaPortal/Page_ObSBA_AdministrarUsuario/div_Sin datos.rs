@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sin datos</name>
+   <tag></tag>
+   <elementGuidId>d8b9581b-d8ad-46f4-b406-365e56c4088a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'presentation' and (text() = 'Sin datos' or . = 'Sin datos')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDataGrid-virtualScroller.css-1pzb349</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c940b4db-06f6-4a39-bfb5-d4ce0531aa32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-virtualScroller css-1pzb349</value>
+      <webElementGuid>1806e89b-36fc-4e82-a4ac-40ac6cca78b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>14b6fdc8-6de9-4ed5-aec5-2867c769cd78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sin datos</value>
+      <webElementGuid>a6216d74-0877-468e-819c-4cf65b0284a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss43&quot;]/main[@class=&quot;MuiGrid-root jss42 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss41 MuiGrid-item&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-g1du22&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-1pzb349&quot;]</value>
+      <webElementGuid>2db65283-c957-4373-9619-d54a51682e5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div/div[2]</value>
+      <webElementGuid>fda1e389-4f80-4d82-9465-c9221fde98da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::div[2]</value>
+      <webElementGuid>9dde1280-3232-499d-a476-eb457c095f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Motivo Baja'])[1]/following::div[8]</value>
+      <webElementGuid>1f1410c0-14a6-48f4-90d6-f019effeff34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[14]</value>
+      <webElementGuid>e21325c4-1e9e-4fb8-9b6a-26254d537754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div[2]</value>
+      <webElementGuid>2e11502f-ccf5-4b30-896a-22c934b6f086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sin datos' or . = 'Sin datos')]</value>
+      <webElementGuid>865385b0-d841-4161-8d02-d8d1ef024504</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

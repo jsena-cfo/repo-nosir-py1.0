@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Subir_SeparadorLista</name>
+   <tag></tag>
+   <elementGuidId>f7acb0f8-15a2-415a-a6c8-ade6ad3aeb0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiDataGrid-iconSeparator.css-vubbuv</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-12dkb5y&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-columnHeaders MuiDataGrid-withBorderColor css-y599qu&quot;]/div[@class=&quot;MuiDataGrid-columnHeadersInner MuiDataGrid-columnHeadersInner--scrollable css-vcjdx3&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;MuiDataGrid-columnHeader MuiDataGrid-columnHeader--alignCenter MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-columnSeparator MuiDataGrid-columnSeparator--sideRight&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiDataGrid-iconSeparator css-vubbuv&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>214e3f96-af01-45e4-9fb1-a26a474e73ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiDataGrid-iconSeparator css-vubbuv</value>
+      <webElementGuid>266ff39b-a14b-4908-a74b-d39a91b95440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7a1188c7-487b-426e-95b2-d363c8a1b7e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d362f6de-db45-48ba-b231-6ae431431534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>508b82f7-75e7-4649-883f-c742a2c73599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>SeparatorIcon</value>
+      <webElementGuid>4313fdf1-63e7-4c4c-9f72-8ef63e6e341d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-12dkb5y&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-columnHeaders MuiDataGrid-withBorderColor css-y599qu&quot;]/div[@class=&quot;MuiDataGrid-columnHeadersInner MuiDataGrid-columnHeadersInner--scrollable css-vcjdx3&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;MuiDataGrid-columnHeader MuiDataGrid-columnHeader--alignCenter MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-columnSeparator MuiDataGrid-columnSeparator--sideRight&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiDataGrid-iconSeparator css-vubbuv&quot;]</value>
+      <webElementGuid>9fb4f7a7-a6a8-4e6c-a5a9-80d9c13bb0a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>220649cc-17e2-4ab8-a034-43ecd0b4c3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b2030bb5-fda1-409a-8c88-cee34f62b0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>87def780-08c4-425e-b064-2745ee50cbb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Título'])[3]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>0567745b-f5f8-4662-bac9-f5629309b552</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

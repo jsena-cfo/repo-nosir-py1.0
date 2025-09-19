@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EvaluarIndice2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd26a771-f24d-4c5d-ac6a-1ad74c28321d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>585043e4-9035-46e0-9e47-0c9fa5bdfc57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>585043e4-9035-46e0-9e47-0c9fa5bdfc57</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

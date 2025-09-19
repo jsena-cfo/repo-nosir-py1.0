@@ -1,0 +1,39 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.click(findTestObject('BAC/Home/btn_CompletarDatosAutorizadores'))
+
+WebUI.selectOptionByLabel(findTestObject('BAC/Solicitud de Gasto/Page_BAC - Completar autorizadores/select_Autorizadores'), nombreAutorizador, 
+    false)
+
+WebUI.click(findTestObject('BAC/Solicitud de Gasto/Page_BAC - Completar autorizadores/btn_Seleccionar'))
+
+WebUI.click(findTestObject('BAC/Solicitud de Gasto/Page_BAC - Completar autorizadores/btn_Guardar y Volver'))
+
+WebUI.click(findTestObject('BAC/Home/btn_Siguiente Paso'))
+
+WebUI.click(findTestObject('BAC/Solicitud de Gasto/Page_BAC - Completar autorizadores/btn_EnviarAutorizacion'))
+
+WebUI.click(findTestObject('BAC/Solicitud de Gasto/Page_BAC - Completar autorizadores/btn_Confirmar'))
+
+if(WebUI.verifyTextPresent('Autorización Enviada. La solicitud de gasto fue enviada a autorización. El autorizador será notificado.', 
+    false)) {
+	WebUI.takeScreenshot()
+}
+

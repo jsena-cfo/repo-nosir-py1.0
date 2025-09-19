@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ObtenerProveedorInscriptoViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15461ae9-149b-45df-905f-709d9d787cb7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b5d3bbb-2e09-483c-a348-3e63723a3d3c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sociedad Responsabilidad Limitada'</defaultValue>
+      <description></description>
+      <id>4b5d3bbb-2e09-483c-a348-3e63723a3d3c</id>
+      <masked>false</masked>
+      <name>TipoProveedor</name>
+   </variable>
+</TestCaseEntity>

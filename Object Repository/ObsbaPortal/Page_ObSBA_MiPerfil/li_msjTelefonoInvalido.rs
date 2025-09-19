@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_msjTelefonoInvalido</name>
+   <tag></tag>
+   <elementGuidId>08c7b7d9-ecb8-4e72-bded-fc0e117d841e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='transition-modal-description']/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[(text() = 'Ingresa solo números en el campo de teléfono, sin espacios ni caracteres especiales.' or . = 'Ingresa solo números en el campo de teléfono, sin espacios ni caracteres especiales.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bc3664d1-454a-45c5-8fa3-a07c0b5946b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingresa solo números en el campo de teléfono, sin espacios ni caracteres especiales.</value>
+      <webElementGuid>8a135100-af55-48d2-a550-271ce050f727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-description&quot;)/div[1]/ul[1]/li[1]</value>
+      <webElementGuid>3effe089-3442-4925-b3aa-b186329def95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='transition-modal-description']/div/ul/li</value>
+      <webElementGuid>f76c2784-8a7d-4d00-9ca2-d75e771514cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::li[1]</value>
+      <webElementGuid>341c13fc-783d-49e5-9266-ac2d94c73f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-description', '&quot;', ')/div[1]/ul[1]/li[1]')])[1]/following::li[1]</value>
+      <webElementGuid>80a83c19-30c5-4d06-a05f-2164b2c38aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingresa solo números en el campo de teléfono, sin espacios ni caracteres especiales.']/parent::*</value>
+      <webElementGuid>1366c5e8-0845-4838-95b7-e9187553cb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>830287ec-8ec0-4735-8012-02234d22672f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ingresa solo números en el campo de teléfono, sin espacios ni caracteres especiales.' or . = 'Ingresa solo números en el campo de teléfono, sin espacios ni caracteres especiales.')]</value>
+      <webElementGuid>d6399562-ef82-46a0-8c06-6dd33888e4c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

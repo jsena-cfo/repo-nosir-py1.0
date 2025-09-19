@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnviarMailJakarta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9db34de7-0de8-4b8c-ba94-500f0f092cfc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a903647-a328-4130-8eac-6bfd0d1e55b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18a13693-7e7e-4c5f-b770-5134fa4c838c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cdfd51c-17fc-4dec-b6b6-c8acc2becf43</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'smtp.office365.com'</defaultValue>
+      <description></description>
+      <id>0a903647-a328-4130-8eac-6bfd0d1e55b3</id>
+      <masked>false</masked>
+      <name>varHost</name>
+   </variable>
+   <variable>
+      <defaultValue>'587'</defaultValue>
+      <description></description>
+      <id>18a13693-7e7e-4c5f-b770-5134fa4c838c</id>
+      <masked>false</masked>
+      <name>varPort</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>8cdfd51c-17fc-4dec-b6b6-c8acc2becf43</id>
+      <masked>false</masked>
+      <name>varTimeout</name>
+   </variable>
+</TestCaseEntity>

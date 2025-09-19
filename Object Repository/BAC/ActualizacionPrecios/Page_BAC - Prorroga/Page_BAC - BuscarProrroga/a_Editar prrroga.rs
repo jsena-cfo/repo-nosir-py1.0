@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Editar prrroga</name>
+   <tag></tag>
+   <elementGuidId>dc259e7a-b3cb-4d85-90b3-33f9aeb702a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_tabs']/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_tabs > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd7e606d-6458-49e1-bc53-4a49e47499c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/OC/IndicesOcaProrroga.aspx?qs=neh2VlJzO0DVd95CYzek2ql4NmQVBfVRdoo|v9jiZWdjQw8n2ZTqi50X7HCugC8FkPMyxxpnHINckpty9FVMuMFo/ODmMnjvibN4HlBcX|sMNkcNIFAPb7UHU9YifUC8G2AANxDwMVLbTkeoJmVNGAIItIty6Q9ZuA6EwtksSwLK6U4OgND7mNGMfm|sUfAwAjoCjC04bMP6Ax/Os5UwrFG35sUJL46soRnTYQs4kebLbqbqOtx7bcR5nhKtYPZDhajnJlOXX7Unwiz3gwJ8gsK/8tulyYLlXdYoqCr/vjbO9ehzCvcKCoA9xKkZ/jldcq2GBqEpjQ1j11oHbEslIs22vTpGMFfXvbpGxHXmrn08DORKzitEQGoylNTZclUoS7L6INYp7w/kBwiC81eqFtG9z8V/OG0lS9G|uSdCY/bJY3Fsa|j03ne7f/v6hzM1fkbiy1BheYwCFn6ZrKNunmpOaQZB8egK4NCmusKfToj97eeWGNmGhAdUxokcA3FTjwISg|tWVASzioLkz1dZdR4/FfJqFI6A6mfh3jms4pJRToUWA0NQj1QuGcHhiGfMCaZiwK9ROOgWDl9ANIIBFCpR2QDrtK93</value>
+      <webElementGuid>9afb619a-008e-49c4-877b-97db0f3a7300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Editar prórroga</value>
+      <webElementGuid>aa873209-ed88-4e2d-a81a-9c30f0cc2068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_tabs&quot;)/li[3]/a[1]</value>
+      <webElementGuid>4f0553e2-ea74-4263-ab7b-5a5d69620453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ctl00_CPH1_gvResultados_ctl02_ucAccionesAmpliacion_tabs']/li[3]/a</value>
+      <webElementGuid>1e358a04-79da-4352-a979-8a666838c970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Editar prórroga')]</value>
+      <webElementGuid>7909e045-0163-44b3-8b4a-11f9172c57d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar solicitud'])[1]/following::a[1]</value>
+      <webElementGuid>a229968f-886d-4f6a-99be-02c67b283dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendiente supervisión UOA'])[1]/following::a[3]</value>
+      <webElementGuid>3c8942e9-c4a2-4706-a01f-6138a47d419f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exportar a Excel'])[1]/preceding::a[1]</value>
+      <webElementGuid>fe1fcf96-f66c-4fa8-915c-44109ae23b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir al escritorio'])[1]/preceding::a[2]</value>
+      <webElementGuid>75b203f6-04de-4949-8f67-8520f69cef83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Editar prórroga']/parent::*</value>
+      <webElementGuid>db8f6381-7b3e-4e03-ae2d-07b5a03d1460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/OC/IndicesOcaProrroga.aspx?qs=neh2VlJzO0DVd95CYzek2ql4NmQVBfVRdoo|v9jiZWdjQw8n2ZTqi50X7HCugC8FkPMyxxpnHINckpty9FVMuMFo/ODmMnjvibN4HlBcX|sMNkcNIFAPb7UHU9YifUC8G2AANxDwMVLbTkeoJmVNGAIItIty6Q9ZuA6EwtksSwLK6U4OgND7mNGMfm|sUfAwAjoCjC04bMP6Ax/Os5UwrFG35sUJL46soRnTYQs4kebLbqbqOtx7bcR5nhKtYPZDhajnJlOXX7Unwiz3gwJ8gsK/8tulyYLlXdYoqCr/vjbO9ehzCvcKCoA9xKkZ/jldcq2GBqEpjQ1j11oHbEslIs22vTpGMFfXvbpGxHXmrn08DORKzitEQGoylNTZclUoS7L6INYp7w/kBwiC81eqFtG9z8V/OG0lS9G|uSdCY/bJY3Fsa|j03ne7f/v6hzM1fkbiy1BheYwCFn6ZrKNunmpOaQZB8egK4NCmusKfToj97eeWGNmGhAdUxokcA3FTjwISg|tWVASzioLkz1dZdR4/FfJqFI6A6mfh3jms4pJRToUWA0NQj1QuGcHhiGfMCaZiwK9ROOgWDl9ANIIBFCpR2QDrtK93')]</value>
+      <webElementGuid>0d3bec1a-51d9-4199-a341-e78c75641628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/ul/li[3]/a</value>
+      <webElementGuid>7678f2a0-c9eb-495b-a37a-bff192d34101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/OC/IndicesOcaProrroga.aspx?qs=neh2VlJzO0DVd95CYzek2ql4NmQVBfVRdoo|v9jiZWdjQw8n2ZTqi50X7HCugC8FkPMyxxpnHINckpty9FVMuMFo/ODmMnjvibN4HlBcX|sMNkcNIFAPb7UHU9YifUC8G2AANxDwMVLbTkeoJmVNGAIItIty6Q9ZuA6EwtksSwLK6U4OgND7mNGMfm|sUfAwAjoCjC04bMP6Ax/Os5UwrFG35sUJL46soRnTYQs4kebLbqbqOtx7bcR5nhKtYPZDhajnJlOXX7Unwiz3gwJ8gsK/8tulyYLlXdYoqCr/vjbO9ehzCvcKCoA9xKkZ/jldcq2GBqEpjQ1j11oHbEslIs22vTpGMFfXvbpGxHXmrn08DORKzitEQGoylNTZclUoS7L6INYp7w/kBwiC81eqFtG9z8V/OG0lS9G|uSdCY/bJY3Fsa|j03ne7f/v6hzM1fkbiy1BheYwCFn6ZrKNunmpOaQZB8egK4NCmusKfToj97eeWGNmGhAdUxokcA3FTjwISg|tWVASzioLkz1dZdR4/FfJqFI6A6mfh3jms4pJRToUWA0NQj1QuGcHhiGfMCaZiwK9ROOgWDl9ANIIBFCpR2QDrtK93' and (text() = 'Editar prórroga' or . = 'Editar prórroga')]</value>
+      <webElementGuid>e880f7c3-cd07-4474-87a8-a7f20a7c0957</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

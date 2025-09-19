@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.VerificarDocEnEstadoRegistralSRL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b2621b7-f726-4e71-9a7c-883983b42167</testCaseGuid>
+</TestCaseEntity>

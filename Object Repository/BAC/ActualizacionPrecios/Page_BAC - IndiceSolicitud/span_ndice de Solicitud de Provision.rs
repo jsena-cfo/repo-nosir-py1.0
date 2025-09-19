@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ndice de Solicitud de Provision</name>
+   <tag></tag>
+   <elementGuidId>7e8da16f-f5ca-4db6-b6a8-3f5e55fe5acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contenido_tablas']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.titulo_principal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>259f2435-826a-45f2-8800-1a243ff84c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>titulo_principal</value>
+      <webElementGuid>fad0c626-49f7-4fcf-ac0c-cf511129a1c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Índice de Solicitud de Provisión</value>
+      <webElementGuid>5ac110d2-62f1-464c-ae12-581f8f80bc71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contenido_tablas&quot;)/div[1]/span[@class=&quot;titulo_principal&quot;]</value>
+      <webElementGuid>fe3ac877-0e59-49a9-ba13-b2e442a5ad5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas']/div/span</value>
+      <webElementGuid>578b3ecc-1a1e-43d4-8156-ca337aad6b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienvenido/a Emilse Carmen Filippo'])[1]/following::span[2]</value>
+      <webElementGuid>409bd14b-5383-46dc-8f27-0b17028b8ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repositorio de Pliegos'])[1]/following::span[3]</value>
+      <webElementGuid>5d8e73ef-905c-46a3-9f8f-91a2de71cc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de solicitud de provisión:'])[1]/preceding::span[2]</value>
+      <webElementGuid>e96e18aa-d094-464d-a352-d93f46626f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Índice de Solicitud de Provisión']/parent::*</value>
+      <webElementGuid>ebb116ab-2f6b-4a6f-9296-5fbc60a292ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/span</value>
+      <webElementGuid>80870154-dd15-466a-a219-315a9e12e0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Índice de Solicitud de Provisión' or . = 'Índice de Solicitud de Provisión')]</value>
+      <webElementGuid>2f1d440e-0c64-43a0-81fe-390280801c89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

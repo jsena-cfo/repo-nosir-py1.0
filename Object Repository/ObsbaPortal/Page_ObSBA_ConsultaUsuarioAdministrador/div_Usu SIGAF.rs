@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Usu SIGAF</name>
+   <tag></tag>
+   <elementGuidId>f61a4192-92e6-453f-9870-e20cd7b4a0a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'presentation' and (text() = 'Usu SIGAF' or . = 'Usu SIGAF')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/div/div[5]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4fcc0e99-3894-43e8-a819-9578173ff69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-columnHeaderTitleContainer</value>
+      <webElementGuid>f6e828bf-2575-4eb2-8ae1-44e8d93ca6a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>39fe4498-d610-41d0-a465-3fd86aef10ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Usu SIGAF</value>
+      <webElementGuid>d12be938-bca5-4916-8115-4509e9ed611b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-aop0yh&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-columnHeaders MuiDataGrid-withBorderColor css-y599qu&quot;]/div[@class=&quot;MuiDataGrid-columnHeadersInner css-vcjdx3&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;MuiDataGrid-columnHeader MuiDataGrid-columnHeader--sortable MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-columnHeaderDraggableContainer&quot;]/div[@class=&quot;MuiDataGrid-columnHeaderTitleContainer&quot;]</value>
+      <webElementGuid>b74a7690-1ede-4c5b-a41a-f65e00af6a91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div/div[5]/div/div</value>
+      <webElementGuid>7981c37a-3d45-455e-9d47-9b977a95b911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT/CUIL'])[3]/following::div[6]</value>
+      <webElementGuid>c9c21cb0-302d-4e89-b85d-24d59ec422f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil'])[1]/following::div[14]</value>
+      <webElementGuid>e1604c3d-8bcd-42d1-9468-27aeb492bd22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefono'])[1]/preceding::div[6]</value>
+      <webElementGuid>11fcea5b-0195-4a20-b395-e042544f0da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div/div</value>
+      <webElementGuid>b92308d2-8ed9-4c88-93fe-a1d8376dfcc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Usu SIGAF' or . = 'Usu SIGAF')]</value>
+      <webElementGuid>4c7b051c-cf75-4fe6-a1ad-d692aed0f9e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

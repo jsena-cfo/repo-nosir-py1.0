@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarOrdenDeCompraOCA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72332e6d-a1b3-4750-b9d8-32da96cb2a9b</testCaseGuid>
+</TestCaseEntity>

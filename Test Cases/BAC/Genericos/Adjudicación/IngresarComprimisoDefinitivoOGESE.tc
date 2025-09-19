@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarComprimisoDefinitivoOGESE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78db6fae-8ea3-434a-8828-bade25e1c98c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5b875b3-0edf-45c1-b8c2-fefb1742e64f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>d5b875b3-0edf-45c1-b8c2-fefb1742e64f</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ReviseBandeja</name>
+   <tag></tag>
+   <elementGuidId>34f9a077-72ee-4f5c-9306-3a305af90768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = 'Revise su bandeja de correo electrónico para confirmar el registro' or . = 'Revise su bandeja de correo electrónico para confirmar el registro')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss28.MuiTypography-body1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/form/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0d29adc8-338c-44f1-8217-d0c182fc06ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss28 MuiTypography-body1</value>
+      <webElementGuid>dcb3f1fd-d905-4cf3-bfee-7fccb978cbe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Revise su bandeja de correo electrónico para confirmar el registro</value>
+      <webElementGuid>3b9b2042-a5f4-4c0f-b325-f665fe3a4fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss1 MuiGrid-container&quot;]/div[@class=&quot;MuiPaper-root MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8 MuiGrid-grid-md-7 MuiPaper-elevation6&quot;]/div[@class=&quot;jss6&quot;]/form[@class=&quot;jss7&quot;]/p[@class=&quot;MuiTypography-root jss28 MuiTypography-body1&quot;]</value>
+      <webElementGuid>f9dfeef7-6d64-4b73-8a4f-d3aeca692440</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/form/p[3]</value>
+      <webElementGuid>d7192439-f5dd-4bb5-aea9-7fae55cf8046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registro'])[1]/following::p[1]</value>
+      <webElementGuid>ea1ed4dd-66d2-4ee8-8d6a-130d6c8030dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/preceding::p[2]</value>
+      <webElementGuid>7cd55efe-4298-4bb3-bb0f-3fba1381b30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[1]/preceding::p[3]</value>
+      <webElementGuid>af7b33f5-b516-4d8e-a630-eb99a669e24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Revise su bandeja de correo electrónico para confirmar el registro']/parent::*</value>
+      <webElementGuid>b18ffe1c-2605-4d96-9b30-a42f9fa17e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>c7d933bb-d670-4120-be85-7d34600a1631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Revise su bandeja de correo electrónico para confirmar el registro' or . = 'Revise su bandeja de correo electrónico para confirmar el registro')]</value>
+      <webElementGuid>3d257cc6-92a3-4590-8143-f60ebcacfb03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

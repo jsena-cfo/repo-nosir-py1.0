@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenCnn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c76f3a8-9fc2-4db6-b1af-d6bff7175b20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f7387fc-aa8d-497e-bcc7-4b7bcf47e0b1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90f2823a-5c5b-4aaa-924e-018379cfc4eb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b57159ab-21d2-447d-8387-a022177dd479</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open CNN'</defaultValue>
+      <description></description>
+      <id>0f7387fc-aa8d-497e-bcc7-4b7bcf47e0b1</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio CNN se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>90f2823a-5c5b-4aaa-924e-018379cfc4eb</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio CNN correctamente'</defaultValue>
+      <description></description>
+      <id>b57159ab-21d2-447d-8387-a022177dd479</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

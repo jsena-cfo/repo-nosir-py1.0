@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AsignarTramite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b24a0344-2ada-4ca2-95fb-efef7fc57f42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfbcd121-0e8d-45e6-aefe-e17347365bc4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Francisco Ciorciari'</defaultValue>
+      <description></description>
+      <id>dfbcd121-0e8d-45e6-aefe-e17347365bc4</id>
+      <masked>false</masked>
+      <name>userEvaluador</name>
+   </variable>
+</TestCaseEntity>

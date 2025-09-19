@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionUTViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab4c95e6-9571-4c87-b471-3bc339f229c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23c88a9f-295c-43c8-98b4-5722ea452983</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Union Transitoria de Empresas'</defaultValue>
+      <description></description>
+      <id>23c88a9f-295c-43c8-98b4-5722ea452983</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

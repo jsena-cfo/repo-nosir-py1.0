@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionJuridicoExtranjero</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e6c4bc2-bd74-4b35-bf87-bfbe29d02efe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d33f47b-004d-45c4-8811-401bef07d928</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'JuridicoExtranjero'</defaultValue>
+      <description></description>
+      <id>8d33f47b-004d-45c4-8811-401bef07d928</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

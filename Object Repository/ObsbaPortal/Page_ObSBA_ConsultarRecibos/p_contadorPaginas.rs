@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_contadorPaginas</name>
+   <tag></tag>
+   <elementGuidId>3d548dfa-f76e-4b36-a920-88bf350cb285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/div[2]/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTablePagination-displayedRows.css-1chpzqh</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = '0–0 of 0' or . = '0–0 of 0')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>85d3f72a-7396-49ab-8f1a-0be8786e25cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTablePagination-displayedRows css-1chpzqh</value>
+      <webElementGuid>ce8d2d44-5fc9-4e67-8640-93098a2e73f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0–0 of 0</value>
+      <webElementGuid>bc6d12e2-582e-41a6-a900-3847e63b2a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss56&quot;]/main[@class=&quot;MuiGrid-root jss55 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss54 MuiGrid-item&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-g1du22&quot;]/div[@class=&quot;MuiDataGrid-footerContainer MuiDataGrid-withBorderColor css-9ffb5l&quot;]/div[@class=&quot;MuiTablePagination-root css-whi0l6&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular MuiTablePagination-toolbar css-8nphli&quot;]/p[@class=&quot;MuiTablePagination-displayedRows css-1chpzqh&quot;]</value>
+      <webElementGuid>6a969843-7e46-4928-8c5b-dc97b833ebff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div[2]/div/div/p[2]</value>
+      <webElementGuid>77fbd3fd-d2bd-4976-8262-59e767ca0f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sin resultados'])[1]/following::p[2]</value>
+      <webElementGuid>720adfc8-5af8-4271-b83a-b1759370834d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver'])[1]/following::p[2]</value>
+      <webElementGuid>7a847aa7-3033-4565-8889-541f37474077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[3]</value>
+      <webElementGuid>f3c4156b-35fe-4a3c-9257-3023fca26432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::p[3]</value>
+      <webElementGuid>ef49efaa-190e-4b5e-bf41-50ca8a4a2068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0–0 of 0']/parent::*</value>
+      <webElementGuid>7d4ee461-3a51-4b1a-ac47-e642d5fc97a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>dc37684e-aa6f-493c-b9db-4a0e6a04f22d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '0–0 of 0' or . = '0–0 of 0')]</value>
+      <webElementGuid>3683de43-7e4a-404f-bd30-ffb338d8f56a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

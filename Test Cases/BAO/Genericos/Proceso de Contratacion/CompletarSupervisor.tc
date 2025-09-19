@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarSupervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba84a774-e362-47cc-8f75-649a5ab9d740</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2baaa00-d45e-414a-95f1-f6558905fde6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'JULIETA LANDIN'</defaultValue>
+      <description></description>
+      <id>a2baaa00-d45e-414a-95f1-f6558905fde6</id>
+      <masked>false</masked>
+      <name>supervisor</name>
+   </variable>
+</TestCaseEntity>

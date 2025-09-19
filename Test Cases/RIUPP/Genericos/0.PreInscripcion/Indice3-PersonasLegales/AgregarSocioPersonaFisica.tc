@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AgregarSocioPersonaFisica</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5747e1e7-062e-4372-a3dc-be0c3da73f32</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bef6be56-9ebc-4440-954b-74f4d5fef23b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>bef6be56-9ebc-4440-954b-74f4d5fef23b</id>
+      <masked>false</masked>
+      <name>esExtranjero</name>
+   </variable>
+</TestCaseEntity>

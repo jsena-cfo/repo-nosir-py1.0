@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_Buscador de productos</name>
+   <tag></tag>
+   <elementGuidId>d0728701-a19c-44ce-b47e-4f078bc5555a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_tabDos']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_tabDos</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59fd26de-da67-4a60-b39c-e80a730984a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#ctl00_CPH1_tabBuscadorProductos</value>
+      <webElementGuid>8ff43247-6526-4fdb-b696-40e572932f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_tabDos</value>
+      <webElementGuid>4b6645f7-75ef-42ca-b7fd-fba3dcac6439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>81f0a0b8-ccdf-4037-912c-d6521ec8b2fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Buscador de productos
+                            </value>
+      <webElementGuid>9817b066-be0e-4c41-833a-25e95d66c029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_tabDos&quot;)</value>
+      <webElementGuid>3294c93f-6b7c-4895-a253-19000159916d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_tabDos']</value>
+      <webElementGuid>2a7c0742-1bc6-4558-be90-fcf5d4755545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_upBuscadores']/div/div/ul/li[2]/a</value>
+      <webElementGuid>af4ef871-1e30-4d32-a16a-c11032f1a705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscador por rubro y grupo'])[1]/following::a[1]</value>
+      <webElementGuid>12dd88ca-94dc-49b7-9e29-b5733cbf1b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT:'])[1]/following::a[2]</value>
+      <webElementGuid>4a5998eb-1d03-48d7-b1cf-177839ed7c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#ctl00_CPH1_tabBuscadorProductos')]</value>
+      <webElementGuid>fc5dacfc-c31f-4cc4-8ed8-44dd8a88a37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[2]/a</value>
+      <webElementGuid>e75c9112-d385-4a9d-b555-514a01d255a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#ctl00_CPH1_tabBuscadorProductos' and @id = 'ctl00_CPH1_tabDos' and (text() = '
+                                Buscador de productos
+                            ' or . = '
+                                Buscador de productos
+                            ')]</value>
+      <webElementGuid>8dc25a25-69a5-4e73-aad2-c43c05b09c52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

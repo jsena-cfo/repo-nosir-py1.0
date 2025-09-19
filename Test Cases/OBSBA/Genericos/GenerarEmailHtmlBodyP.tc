@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarEmailHtmlBodyP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffee056a-3e75-4a50-8500-571817037a1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba9034d9-46d3-441d-b4b1-f106405eff12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>ba9034d9-46d3-441d-b4b1-f106405eff12</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>

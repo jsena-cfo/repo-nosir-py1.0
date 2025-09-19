@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionPHumanaViejosEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91797204-f2bf-428f-af49-704b1e969095</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91658a6d-b57d-4aae-a253-ab3e0133852f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Persona Humana'</defaultValue>
+      <description></description>
+      <id>91658a6d-b57d-4aae-a253-ab3e0133852f</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

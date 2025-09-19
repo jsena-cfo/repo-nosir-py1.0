@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AgregarPersonasLegales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56d7aa38-1034-42ec-843d-4b8a8f0f269b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbdb459a-fb0c-426b-9603-8a81b15f836a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc935ed7-7a3e-46c6-9638-7ac58fa94243</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b341f97c-78be-4f42-a549-0a96f43331a7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Representante legal'</defaultValue>
+      <description></description>
+      <id>cbdb459a-fb0c-426b-9603-8a81b15f836a</id>
+      <masked>false</masked>
+      <name>tipoPersonaLegal</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>fc935ed7-7a3e-46c6-9638-7ac58fa94243</id>
+      <masked>false</masked>
+      <name>esExtranjero</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>b341f97c-78be-4f42-a549-0a96f43331a7</id>
+      <masked>false</masked>
+      <name>esHumano</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Guardar y Volver</name>
+   <tag></tag>
+   <elementGuidId>2aedc285-1503-4dce-a5e2-40104114e2f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkGuardarYVolver</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(@id, '_lnkGuardarYVolver')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@id, '_lnkGuardarYVolver')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c260bce4-34c8-4ae9-8031-e1d47af485c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:ValidarPagina();return false;</value>
+      <webElementGuid>624aebed-0c6c-4a02-8979-7412fab41542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_lnkGuardarYVolver</value>
+      <webElementGuid>3ceab081-ebf7-49db-8f86-feb1a6f6df41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b_verde_g_238</value>
+      <webElementGuid>4d581af1-be3a-4b59-bb88-58df2bf9a933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>borderheight</name>
+      <type>Main</type>
+      <value>0px</value>
+      <webElementGuid>e60d7760-1da4-4518-9f70-fd8770749e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkGuardarYVolver&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>40addb12-5b97-42c1-b45f-6efcec33fd49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guardar y Volver</value>
+      <webElementGuid>93318d4b-7a06-4a7f-b9ac-bdb7002cfa48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkGuardarYVolver&quot;)</value>
+      <webElementGuid>b4b7f4ff-538b-42be-89f1-20bbc4a1b4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[contains(@id, '_lnkGuardarVolver')]</value>
+      <webElementGuid>c2a0ec15-d4a4-403b-b15f-88ff086e1443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[2]/div[5]/a</value>
+      <webElementGuid>32431061-2fc6-4275-889c-0ee41a214edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Guardar y Volver')]</value>
+      <webElementGuid>abe2b15f-30d7-48f0-bd7e-1f32e5767e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha de Prestación'])[1]/following::a[1]</value>
+      <webElementGuid>0e8ebe60-7780-41a3-b88c-538c5bba8f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::a[1]</value>
+      <webElementGuid>8a88a901-2b47-40c8-9188-f5b77d98f621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/preceding::a[1]</value>
+      <webElementGuid>9176ff6f-f55f-4943-ae1a-6b8a25818253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guardar y Volver']/parent::*</value>
+      <webElementGuid>4acaf9df-21ac-4653-ab51-cc1a47aa254a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkGuardarYVolver&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>84e4782d-0f4a-453c-b6f3-3b1160bda310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>27692f4c-fcf3-4e77-832c-65dda6701a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkGuardarYVolver' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkGuardarYVolver&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))' and (text() = 'Guardar y Volver' or . = 'Guardar y Volver')]</value>
+      <webElementGuid>0af5a99c-0a6b-41f0-9c4d-3f967a0c66b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

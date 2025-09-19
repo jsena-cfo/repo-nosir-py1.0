@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Peso Argentino</name>
+   <tag></tag>
+   <elementGuidId>3c4653ff-6d7a-41ed-aedb-19a9cca4afb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;9&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='9']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8755ba6a-c48a-4f8d-9f1b-7c90ccdac8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>1200036f-bbcb-4026-a7d9-8cd2b1132777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Peso Argentino</value>
+      <webElementGuid>b68ad325-f9c1-48f2-ad75-6885cf8bb67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lstMonedas&quot;)/option[1]</value>
+      <webElementGuid>f6561bbd-bae1-46e5-ad64-bbb14a3f4337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='9']</value>
+      <webElementGuid>ec4da7ef-6220-483c-9aaa-0fa0ffd2c984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_lstMonedas']/option</value>
+      <webElementGuid>d220d18e-f51c-44f1-858e-684c7abf0fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monedas seleccionadas'])[1]/following::option[1]</value>
+      <webElementGuid>7b057e90-e06f-42c0-bfc6-6f6885c6c85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monedas'])[1]/following::option[1]</value>
+      <webElementGuid>54d11756-1cc3-49a5-9909-5af51c996486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar y Volver'])[1]/preceding::option[1]</value>
+      <webElementGuid>bfa361bd-b2fb-41ba-9674-d62f5a5003cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/preceding::option[1]</value>
+      <webElementGuid>5e7b1c27-6ea2-41db-afd0-b4f876637318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Peso Argentino']/parent::*</value>
+      <webElementGuid>717695a0-3dc4-4b29-9e6a-aea56a83dfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//option</value>
+      <webElementGuid>34ddf32f-74eb-4249-b15d-a0ba5878f8ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'Peso Argentino' or . = 'Peso Argentino')]</value>
+      <webElementGuid>7912f55f-b203-43c6-8b7d-d5d772cab920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

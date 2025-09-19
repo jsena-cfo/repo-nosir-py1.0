@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarPreAdjudicacionCVM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60abf78d-1608-4be5-9bb7-d26b2e807672</testCaseGuid>
+</TestCaseEntity>

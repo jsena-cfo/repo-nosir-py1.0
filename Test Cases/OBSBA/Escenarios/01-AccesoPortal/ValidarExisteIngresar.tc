@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarExisteIngresar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf0721bb-503a-4005-88b4-16c00891430a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d41bd1d-22fb-4af8-8dfd-449403278a33</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>1d41bd1d-22fb-4af8-8dfd-449403278a33</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

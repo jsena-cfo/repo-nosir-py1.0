@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenEbay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49b6feaf-e258-40b3-ae93-917c3c5b4c98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d72240e-0ea7-4ad2-93cc-ed58fb8661f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e44e8fc-0224-4177-a77c-d32f249d0948</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d2773a2-0044-4cc0-becb-8123e4ddaf7a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Ebay'</defaultValue>
+      <description></description>
+      <id>3d72240e-0ea7-4ad2-93cc-ed58fb8661f8</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Ebay se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>4e44e8fc-0224-4177-a77c-d32f249d0948</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Ebay correctamente'</defaultValue>
+      <description></description>
+      <id>8d2773a2-0044-4cc0-becb-8123e4ddaf7a</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

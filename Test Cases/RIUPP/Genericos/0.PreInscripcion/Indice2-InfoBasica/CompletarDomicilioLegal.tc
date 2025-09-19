@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDomicilioLegal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ce965a6-e4c8-4987-8f8f-48b2f74b4d15</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69df71bc-ca14-4ead-9a5b-0f32bcce264a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ac56123-5a50-4c0b-9be5-160af5a8b954</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9984a37a-198c-4526-8cf7-975d67df7d8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ciudad Autonoma de Bs.As.'</defaultValue>
+      <description></description>
+      <id>69df71bc-ca14-4ead-9a5b-0f32bcce264a</id>
+      <masked>false</masked>
+      <name>provincia</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ciudad Autónoma de BsAs'</defaultValue>
+      <description></description>
+      <id>6ac56123-5a50-4c0b-9be5-160af5a8b954</id>
+      <masked>false</masked>
+      <name>partido</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ciudad Autónoma de BsAs'</defaultValue>
+      <description></description>
+      <id>9984a37a-198c-4526-8cf7-975d67df7d8c</id>
+      <masked>false</masked>
+      <name>localidad</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarIndice3TablaVNR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b1cfbfc-c27b-4850-a776-f54a584930d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d35eb9d1-fc35-4fe0-b046-700899ccdbf2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tabla test automation'</defaultValue>
+      <description></description>
+      <id>d35eb9d1-fc35-4fe0-b046-700899ccdbf2</id>
+      <masked>false</masked>
+      <name>tabla</name>
+   </variable>
+</TestCaseEntity>

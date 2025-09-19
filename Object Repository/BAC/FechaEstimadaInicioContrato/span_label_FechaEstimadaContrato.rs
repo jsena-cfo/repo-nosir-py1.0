@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_label_FechaEstimadaContrato</name>
+   <tag></tag>
+   <elementGuidId>64ab0be4-dc29-49be-b922-5014f4ca73f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(10) > span.subtitulo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contenido_tablas']/div[10]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7cd22118-52d7-4ef5-b9b6-fa2fa817445a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitulo</value>
+      <webElementGuid>10ff6b68-d4f8-440d-8a5e-1e4eda95f23d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fecha estimada del inicio del contrato</value>
+      <webElementGuid>06916caf-8703-4f4e-94ea-09c61e210d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contenido_tablas&quot;)/div[10]/span[@class=&quot;subtitulo&quot;]</value>
+      <webElementGuid>a4130aa6-0e79-4cf1-96b8-31bc804ea255</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenido_tablas']/div[10]/span</value>
+      <webElementGuid>f2cd38ff-ca5b-4161-a1a5-7e9cdcd3e26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otra'])[1]/following::span[1]</value>
+      <webElementGuid>a4749c58-93a1-4e90-9027-8bf6f0aa9ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peso argentino'])[1]/following::span[2]</value>
+      <webElementGuid>fc0598cc-b9c4-4515-ad01-3c178a659759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifique que una opción haya sido ingresada.'])[1]/preceding::span[1]</value>
+      <webElementGuid>b62108f5-62f3-425b-b096-7d4bf12ad589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desde el perfeccionamiento del documento contractual'])[1]/preceding::span[2]</value>
+      <webElementGuid>fbd9ba4e-3c1d-4077-b174-f77a0e751eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fecha estimada del inicio del contrato']/parent::*</value>
+      <webElementGuid>b49a8d67-14da-4d1b-b6ca-dd19f9dbd83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/span</value>
+      <webElementGuid>3746e2ce-4f8c-4d8e-abaa-1cd9ae2c43b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fecha estimada del inicio del contrato' or . = 'Fecha estimada del inicio del contrato')]</value>
+      <webElementGuid>538a0c78-be3c-4a30-abe9-1db2aa6a931d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RealizarEvaluacionesCD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c579b701-a7ea-47a8-9e33-9189a7a7a208</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>219c82b1-c10e-4a97-aaac-671476d3db84</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb40c2bc-d794-49e2-a2d6-2be0cbcf7dd2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a8c907f-581e-4fe8-9d3c-d5613952fa5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>219c82b1-c10e-4a97-aaac-671476d3db84</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+   <variable>
+      <defaultValue>'Contratación Directa'</defaultValue>
+      <description></description>
+      <id>fb40c2bc-d794-49e2-a2d6-2be0cbcf7dd2</id>
+      <masked>false</masked>
+      <name>procedimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>'Evaluar Ofertas'</defaultValue>
+      <description></description>
+      <id>2a8c907f-581e-4fe8-9d3c-d5613952fa5e</id>
+      <masked>false</masked>
+      <name>accion</name>
+   </variable>
+</TestCaseEntity>

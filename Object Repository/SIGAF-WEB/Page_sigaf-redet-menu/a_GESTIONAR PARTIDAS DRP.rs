@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_GESTIONAR PARTIDAS DRP</name>
+   <tag></tag>
+   <elementGuidId>a4c442c5-bfb9-4717-ab66-60e12a193871</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;contenidoNuevo&quot;]/table[1]/tbody/tr[1]/td[1]/ul/li[3]/ul/li/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90a47704-9601-4cd7-a266-673733e4c906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sigaf-qa.dguiaf-gcba.gov.ar/rocClient/redeterminacionPartidas</value>
+      <webElementGuid>dc516d44-4bff-47ab-86cd-b7ea75062a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GESTIONAR PARTIDAS DRP</value>
+      <webElementGuid>c0e6de41-ef4a-4591-a593-ea28c8eba3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/header[@class=&quot;q-layout-header q-layout-marginal q-layout-transition no-shadow absolute-top&quot;]/div[@class=&quot;nav-main row no-wrap justify-between&quot;]/div[1]/ul[1]/li[3]/ul[1]/li[@class=&quot;subitem&quot;]/ul[1]/li[@class=&quot;subitem&quot;]/div[1]/a[1]</value>
+      <webElementGuid>ade66e99-35a1-47ea-bdb4-8ad8b66e7ad9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/header/div[2]/div/ul/li[3]/ul/li/ul/li[3]/div/a</value>
+      <webElementGuid>c97acfdb-1007-490c-803a-ab5fc499c9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'GESTIONAR PARTIDAS DRP')]</value>
+      <webElementGuid>f8c885dd-f8e9-40b4-bc9a-776d76df58be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEVENGADO'])[1]/following::a[1]</value>
+      <webElementGuid>40464dc1-059e-41aa-9480-cbcb64895bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMINISTRAR SOLICITUDES'])[1]/following::a[2]</value>
+      <webElementGuid>cd8479eb-d464-4b59-a34c-5d9871cd3e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROYECCIONES'])[1]/preceding::a[1]</value>
+      <webElementGuid>061123b9-f304-4ce8-8883-3391dab34043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROYECCIONES'])[2]/preceding::a[1]</value>
+      <webElementGuid>2685ea4f-0d79-49b6-9f60-ff067992b6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GESTIONAR PARTIDAS DRP']/parent::*</value>
+      <webElementGuid>42910f7b-9b97-450b-8c5c-d96b1e1273fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sigaf-qa.dguiaf-gcba.gov.ar/rocClient/redeterminacionPartidas')]</value>
+      <webElementGuid>93992abf-ebf4-4eef-ac95-53bde5defab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>5a7d7953-1770-4dd8-b61e-fbb2d54d0b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sigaf-qa.dguiaf-gcba.gov.ar/rocClient/redeterminacionPartidas' and (text() = 'GESTIONAR PARTIDAS DRP' or . = 'GESTIONAR PARTIDAS DRP')]</value>
+      <webElementGuid>44c5fdad-8438-4448-bfd4-836966f56ba5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

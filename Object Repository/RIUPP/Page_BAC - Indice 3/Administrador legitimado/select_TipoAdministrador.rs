@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TipoAdministrador</name>
+   <tag></tag>
+   <elementGuidId>f7571deb-f1eb-4789-a603-84995fc886b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_datosAdministradorLegitimado_ddlTipoAdministrador']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_datosAdministradorLegitimado_ddlTipoAdministrador</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dd218c41-a1fa-4d9e-8e56-926ba97f57c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$datosAdministradorLegitimado$ddlTipoAdministrador</value>
+      <webElementGuid>fb71f211-379f-4142-b47a-3abb8788d748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_datosAdministradorLegitimado_ddlTipoAdministrador</value>
+      <webElementGuid>a343d419-7067-4910-8f8b-e3d49edca638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8b293dca-1f7c-478e-b226-68f488ac7693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Seleccionar
+		Apoderado
+		Representante legal
+
+	</value>
+      <webElementGuid>06c72d69-d054-41f7-85b5-b1e519a6e11a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_datosAdministradorLegitimado_ddlTipoAdministrador&quot;)</value>
+      <webElementGuid>c796e21b-2cd9-4727-a4dd-1dc37636bdf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_datosAdministradorLegitimado_ddlTipoAdministrador']</value>
+      <webElementGuid>edbf8d32-6038-4cd3-b32d-169074e13530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_datosAdministradorLegitimado_DivTipoAdministrador']/select</value>
+      <webElementGuid>ae816fdf-5818-47c9-9dff-c2f5bc291946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo:'])[1]/following::select[1]</value>
+      <webElementGuid>2e68fe85-fc43-45eb-8bc7-a2363c0c6fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completar'])[1]/preceding::select[1]</value>
+      <webElementGuid>d372a029-02b7-4c4f-a4e1-b26f69941ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>212027f3-75cc-4386-8933-8f1e3ffc77b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$datosAdministradorLegitimado$ddlTipoAdministrador' and @id = 'ctl00_CPH1_datosAdministradorLegitimado_ddlTipoAdministrador' and (text() = '
+		Seleccionar
+		Apoderado
+		Representante legal
+
+	' or . = '
+		Seleccionar
+		Apoderado
+		Representante legal
+
+	')]</value>
+      <webElementGuid>bb43ea9b-e333-432d-bd2e-73ae0ced898b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

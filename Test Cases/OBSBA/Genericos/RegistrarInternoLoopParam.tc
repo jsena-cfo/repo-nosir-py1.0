@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RegistrarInternoLoopParam</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6af6974-8bc8-4c21-a060-324c1f1aa21a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93286c3b-d9fd-4e6f-bba5-fa6198979e9a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automation1234'</defaultValue>
+      <description></description>
+      <id>93286c3b-d9fd-4e6f-bba5-fa6198979e9a</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+</TestCaseEntity>

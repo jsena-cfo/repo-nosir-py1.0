@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Informacin bsica y domicilioEditar</name>
+   <tag></tag>
+   <elementGuidId>da066eb2-744b-46a1-b225-c03c7fec0ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_lnkModificarInfoBasica']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkModificarInfoBasica > span.glyphicon.glyphicon-pencil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75d20fa2-3d24-4ce8-8e78-4a69e5e692ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-pencil</value>
+      <webElementGuid>b89bf714-d6fc-49ee-a657-ad96f0f52b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e409f681-244c-4018-bead-45b82ee53e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkModificarInfoBasica&quot;)/span[@class=&quot;glyphicon glyphicon-pencil&quot;]</value>
+      <webElementGuid>e3496dfe-5995-49a5-a0bf-7097dabf9983</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkModificarInfoBasica']/span</value>
+      <webElementGuid>9d630911-5fd9-4466-bc35-ff380f3e811d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/a/span</value>
+      <webElementGuid>c89865e5-e61d-401c-b150-831fed2e06d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

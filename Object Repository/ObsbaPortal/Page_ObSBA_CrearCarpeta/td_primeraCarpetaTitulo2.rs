@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_primeraCarpetaTitulo2</name>
+   <tag></tag>
+   <elementGuidId>ff82547f-855e-4162-a634-16ffaf8e8540</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.MuiTableCell-root.MuiTableCell-body.jss44.MuiTableCell-alignLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c1653c87-1376-4d3c-a9a4-9f2ed959bceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body jss44 MuiTableCell-alignLeft</value>
+      <webElementGuid>96997002-a7d4-43be-a0a1-f1893c9f2d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023-10373 pruebaTitulo79796</value>
+      <webElementGuid>3031cf6f-62af-453a-8763-eae18691f0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss35 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss36 MuiGrid-item&quot;]/div[@class=&quot;MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body jss44 MuiTableCell-alignLeft&quot;]</value>
+      <webElementGuid>d2305e70-be25-4cad-b629-228846e32f84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>74bac173-ebed-43ea-bc88-6bca950b3bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::td[2]</value>
+      <webElementGuid>67567fac-ab74-49b5-b41b-6dff701ddfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observaciones'])[1]/following::td[2]</value>
+      <webElementGuid>a557c7c9-7a41-4e39-bb89-286638a67588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/preceding::td[1]</value>
+      <webElementGuid>548b94ab-56f6-41d8-96db-39c6b533117f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bien Salud'])[1]/preceding::td[2]</value>
+      <webElementGuid>8d2a0ac5-d1ed-4ad5-93be-72db8579c6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023-10373 pruebaTitulo79796']/parent::*</value>
+      <webElementGuid>3e2fe89b-7deb-4b9a-ae6e-e433880689ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>624d842f-a23f-41d4-9028-4fa979674a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2023-10373 pruebaTitulo79796' or . = '2023-10373 pruebaTitulo79796')]</value>
+      <webElementGuid>22c16fab-748a-45c5-9bc5-d91d2ebf4941</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

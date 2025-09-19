@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GuardarCarpetaModificarInterno</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ea0b142-25c7-46be-8938-5d80ca7df5fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ff78ad5-a96d-4e71-a658-336d7d9f8ef7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73195c9c-fa85-4602-926c-95ec4c5fd275</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>2ff78ad5-a96d-4e71-a658-336d7d9f8ef7</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>73195c9c-fa85-4602-926c-95ec4c5fd275</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

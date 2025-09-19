@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VisualTestingScreenObsba</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcdf2a46-7d1a-469e-a167-8fd77d0b4eb9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f2bd78d-9eb4-49dc-ab59-e6b6f7ee7b46</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>0f2bd78d-9eb4-49dc-ab59-e6b6f7ee7b46</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21da3837-42f5-4e61-a80a-08bf24ea8883</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dff1c099-2cdc-4917-9533-48864fdc4bdc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>665fd4b6-cf24-43b1-9a85-8899a0f05053</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2876719-0120-4b10-a264-ee5b07f3ffa1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userSIGAF</defaultValue>
+      <description></description>
+      <id>dff1c099-2cdc-4917-9533-48864fdc4bdc</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passSIGAF</defaultValue>
+      <description></description>
+      <id>665fd4b6-cf24-43b1-9a85-8899a0f05053</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.URL_SIGAF</defaultValue>
+      <description></description>
+      <id>e2876719-0120-4b10-a264-ee5b07f3ffa1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

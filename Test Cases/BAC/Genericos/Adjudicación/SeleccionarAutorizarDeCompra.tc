@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SeleccionarAutorizarDeCompra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86929de1-1c74-4ec4-8847-abeb9ec1ed0d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e44bc4e1-a220-44f7-91f5-f90048e6943d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1282e2c2-47a1-4c36-b7c1-fae1174839ba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4253ba9f-4bf4-4cf3-ace7-f8e7b6db304a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e44bc4e1-a220-44f7-91f5-f90048e6943d</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+   <variable>
+      <defaultValue>'efilippo'</defaultValue>
+      <description></description>
+      <id>1282e2c2-47a1-4c36-b7c1-fae1174839ba</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>4253ba9f-4bf4-4cf3-ace7-f8e7b6db304a</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

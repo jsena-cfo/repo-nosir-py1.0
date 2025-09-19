@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_HbilesCorridos</name>
+   <tag></tag>
+   <elementGuidId>e9046d74-c355-4c27-8b25-0a088be6065b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ba55a81f-473c-49e9-8d8f-83f1bec87450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA</value>
+      <webElementGuid>12eb29a0-57b8-415d-a734-c1a9071b5654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA</value>
+      <webElementGuid>c18c82b4-c8dd-430e-9970-cbca0e5a2072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajas</value>
+      <webElementGuid>13999c15-ac7e-4136-a4c3-505b3c884ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Hábiles
+	Corridos
+
+</value>
+      <webElementGuid>cb7b63f4-0cc0-4470-a87e-bdd7480cb617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA&quot;)</value>
+      <webElementGuid>f2840960-21ed-4def-bce6-4eed9d4cc8db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA']</value>
+      <webElementGuid>799500e3-0758-4ca2-ad03-0fcc1fc4e4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_upInformacionBasica']/div[3]/table/tbody/tr[19]/td[2]/div/select[2]</value>
+      <webElementGuid>d27a6d5c-6f9d-4ca8-8949-72e920badbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='días'])[1]/following::select[1]</value>
+      <webElementGuid>3bbd2e0c-50c1-4861-9c51-d1c9e07d29c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duración del período:'])[1]/following::select[1]</value>
+      <webElementGuid>c55f7213-67cf-4f09-9753-b5e6eabf054f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La duración del período debe ser menor o igual que la periodicidad.'])[1]/preceding::select[1]</value>
+      <webElementGuid>03113b24-7b67-43f5-a921-3684cd834ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Determine el plazo para que los proveedores incrementen o decrementen el precio de sus ofertas.'])[1]/preceding::select[1]</value>
+      <webElementGuid>8ac81546-dfb5-4940-bd09-81f53fc72f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[19]/td[2]/div/select[2]</value>
+      <webElementGuid>13c0cd15-ae63-4803-9adb-84277d181f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA' and @id = 'ctl00_CPH1_ddlHabilesCorridosPeriodoIncrementoActualizacionDePreciosOCA' and (text() = '
+	Hábiles
+	Corridos
+
+' or . = '
+	Hábiles
+	Corridos
+
+')]</value>
+      <webElementGuid>23b9b832-98be-4af8-afbe-67ba2a9e72f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

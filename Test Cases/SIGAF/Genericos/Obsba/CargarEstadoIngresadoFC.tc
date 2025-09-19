@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CargarEstadoIngresadoFC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10c2d5c5-22f9-430d-b2f5-265468f03e8f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b7bdaf6-e74e-49bc-b82c-0e35813f1e36</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>2b7bdaf6-e74e-49bc-b82c-0e35813f1e36</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+</TestCaseEntity>

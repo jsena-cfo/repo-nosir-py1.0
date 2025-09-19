@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Evaluacin de Actualizacin de Precios</name>
+   <tag></tag>
+   <elementGuidId>45593f05-2275-4876-9263-697fd9635608</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='aspnetForm']/section/div/div[3]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>92ee14c2-deac-413b-bead-241fcb97798b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Evaluación de Actualización de Precios</value>
+      <webElementGuid>71daee37-371a-4c23-9300-9241e83e2278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/section[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/h2[1]</value>
+      <webElementGuid>1ea9be61-ed8c-45a4-afb8-82b5af7d9e51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section/div/div[3]/div/h2</value>
+      <webElementGuid>a13a1fe2-e433-4754-92ac-f22038b99acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::h2[1]</value>
+      <webElementGuid>8a55130a-8c5c-4e65-b537-7ed9c43f991c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información del proceso de compra'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a88fc0fa-9046-4d86-8cf8-664d312cd24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de orden de compra abierta'])[1]/preceding::h2[1]</value>
+      <webElementGuid>35d54c08-8a4a-40a4-a5c6-786768a7ec9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Evaluación de Actualización de Precios']/parent::*</value>
+      <webElementGuid>5c4462ba-9cc6-4cec-8edc-88f82dcd990b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f7e0cf29-bd16-40ee-b274-441ed31ed2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Evaluación de Actualización de Precios' or . = 'Evaluación de Actualización de Precios')]</value>
+      <webElementGuid>7dde4baf-6340-4f89-a121-46d85d9aa3a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

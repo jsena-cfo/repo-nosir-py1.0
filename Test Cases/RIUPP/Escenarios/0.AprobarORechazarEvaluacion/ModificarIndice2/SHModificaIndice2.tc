@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>se verifica que en la evaluación de modificaciones se traigan las fechas y permita aprobar o rechazar items que ya habian sido aprobado o rechazado</description>
+   <name>SHModificaIndice2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3736847-e242-43f9-b45d-25a6b59224fd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectDescripcionRubro</name>
+   <tag></tag>
+   <elementGuidId>b696d7f4-0fbf-4646-a152-7b7241da260b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[contains(@id,'CrearTabla')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>09cd8dcd-f270-45a7-a00b-3ddad2eec0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1713886956233</value>
+      <webElementGuid>f5bb222b-1445-4c3e-92bb-c7efafe39640</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

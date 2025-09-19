@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionSRLViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a3491d2-4f67-4880-9075-6ddf2c0a4702</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df166686-c0d0-4488-b568-55fbe73b8ee6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sociedad Responsabilidad Limitada'</defaultValue>
+      <description></description>
+      <id>df166686-c0d0-4488-b568-55fbe73b8ee6</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

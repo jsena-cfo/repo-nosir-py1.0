@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user: admin capp</description>
+   <name>BuscarTramitePorCUIT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e12269d-097d-4d78-9d7b-34765ef085d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bec26888-1887-408b-bf79-fb35b7e707dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8ccc0c5-d282-4dd1-a3be-f375c39d7d24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ded59ecc-88e3-4816-9c38-b0b4e724af5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bec26888-1887-408b-bf79-fb35b7e707dc</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8ccc0c5-d282-4dd1-a3be-f375c39d7d24</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitProveedor</defaultValue>
+      <description></description>
+      <id>ded59ecc-88e3-4816-9c38-b0b4e724af5c</id>
+      <masked>false</masked>
+      <name>cuit</name>
+   </variable>
+</TestCaseEntity>

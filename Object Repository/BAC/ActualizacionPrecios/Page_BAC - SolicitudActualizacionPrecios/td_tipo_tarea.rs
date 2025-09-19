@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_tipo_tarea</name>
+   <tag></tag>
+   <elementGuidId>b9e2937d-1965-43db-895e-d721fea1d223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio > tbody > tr:nth-of-type(2) > td:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio']/tbody/tr[2]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2be620c1-6fd7-4f28-9e8d-d00c0d865fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solicitar Actualización de Precios</value>
+      <webElementGuid>ef318404-00d8-4201-b8f6-4e729da4ccbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio&quot;)/tbody[1]/tr[2]/td[4]</value>
+      <webElementGuid>a72019bf-7d86-4ea4-b1ec-5f4a279ab5b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio']/tbody/tr[2]/td[4]</value>
+      <webElementGuid>a9a3425c-7d0e-4fb1-9b3a-d088c19c6744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Test20250315'])[1]/following::td[1]</value>
+      <webElementGuid>212a5ce3-cba1-403f-bbda-84cdd1d34df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acción'])[5]/following::td[4]</value>
+      <webElementGuid>2671699a-6e2f-42ed-8e37-e980516d867d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejecutar'])[1]/preceding::td[3]</value>
+      <webElementGuid>80492fcb-1317-4806-91d5-8db37695d06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Test20250315'])[2]/preceding::td[6]</value>
+      <webElementGuid>e5743e76-2a05-4d6d-919a-28bebf9b38f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solicitar Actualización de Precios']/parent::*</value>
+      <webElementGuid>423831e6-10cb-4034-bace-6e4b5f8fb7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/table/tbody/tr[2]/td[4]</value>
+      <webElementGuid>9ac018b2-a9db-4465-bd8b-4e34600b6ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Solicitar Actualización de Precios' or . = 'Solicitar Actualización de Precios')]</value>
+      <webElementGuid>e60dd44e-7d7a-44ef-a8d7-892bd4375399</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

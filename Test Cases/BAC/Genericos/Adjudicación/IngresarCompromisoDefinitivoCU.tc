@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarCompromisoDefinitivoCU</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8824ea5-bc39-4522-8224-3117340f316a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36be55c4-d0a0-46fc-b744-9ad7b53b0073</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c6b4a49-c744-4cf3-a022-9c3a35d7bd3c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.passAutorizador</defaultValue>
+      <description></description>
+      <id>36be55c4-d0a0-46fc-b744-9ad7b53b0073</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>8c6b4a49-c744-4cf3-a022-9c3a35d7bd3c</id>
+      <masked>false</masked>
+      <name>monto</name>
+   </variable>
+</TestCaseEntity>

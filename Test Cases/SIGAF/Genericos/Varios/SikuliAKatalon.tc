@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SikuliAKatalon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9559bd31-e0e4-492e-acd0-e96c2d6d3829</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5ee3115-d324-43b3-b63c-de089dced96d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\Julian\\Documents\\testMoverDir'</defaultValue>
+      <description></description>
+      <id>d5ee3115-d324-43b3-b63c-de089dced96d</id>
+      <masked>false</masked>
+      <name>pathSikuli</name>
+   </variable>
+</TestCaseEntity>

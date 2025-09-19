@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_docDescripcionGrilla</name>
+   <tag></tag>
+   <elementGuidId>66a882ff-147b-4644-b11a-81a53fedec9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/div[2]/div/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@title = 'Descripcion Doc Adjunto Visible' and @role = 'presentation' and (text() = 'Descripcion Doc Adjunto Visible' or . = 'Descripcion Doc Adjunto Visible')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34e4714f-3cb7-471d-b3ac-60367431fc9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-cellContent</value>
+      <webElementGuid>83ace6eb-a453-41d2-85bb-8c9707478764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Descripcion Doc Adjunto Visible</value>
+      <webElementGuid>a1f422b6-0b73-49a3-b817-dd42949f028b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>fffeab26-5ba7-48d6-b0a5-853f7455f2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Descripcion Doc Adjunto Visible</value>
+      <webElementGuid>ef190153-b920-4157-8eec-311e8b58a46b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss56&quot;]/main[@class=&quot;MuiGrid-root jss55 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss54 MuiGrid-item&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-g1du22&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-1pzb349&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row MuiDataGrid-row--dynamicHeight Mui-hovered&quot;]/div[@class=&quot;MuiDataGrid-cell MuiDataGrid-cell--textLeft MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-cellContent&quot;]</value>
+      <webElementGuid>36ad4105-66fe-4b1a-8820-bde10f8450ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div[2]/div/div/div/div[4]/div</value>
+      <webElementGuid>186b78d2-ded0-4c49-94df-6fce92dab208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documento Visible'])[1]/following::div[2]</value>
+      <webElementGuid>e43d54c7-a07b-4888-9236-8db1a8a06222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RECETA'])[1]/following::div[4]</value>
+      <webElementGuid>5f10734e-d4dd-4cff-93da-baf1c15d429b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGRESION4000'])[1]/preceding::div[1]</value>
+      <webElementGuid>bb6554f9-32dc-4ef7-b6ef-55030526f2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='carta_onu.pdf'])[1]/preceding::div[4]</value>
+      <webElementGuid>412c8339-1b0e-4bde-adc4-78beb00c1214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Descripcion Doc Adjunto Visible']/parent::*</value>
+      <webElementGuid>25230d63-8f8e-408a-a0f2-7b71a95fd0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[4]/div</value>
+      <webElementGuid>fcef896a-5cb8-4a95-b2c2-b9b3041e610c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Descripcion Doc Adjunto Visible' and (text() = 'Descripcion Doc Adjunto Visible' or . = 'Descripcion Doc Adjunto Visible')]</value>
+      <webElementGuid>52d044f8-3364-4794-a6e6-90d3b9126d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

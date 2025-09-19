@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnvioMail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f0362a8-5140-44c7-9feb-f9dc94607f04</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>347b8aa8-9fcc-423e-b493-017cbeaa29a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59931346-dd20-4019-8fae-c4c125f669af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da96ab24-69ab-44c1-bf25-a28bb3852720</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>347b8aa8-9fcc-423e-b493-017cbeaa29a9</id>
+      <masked>false</masked>
+      <name>destinatario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59931346-dd20-4019-8fae-c4c125f669af</id>
+      <masked>false</masked>
+      <name>asunto</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da96ab24-69ab-44c1-bf25-a28bb3852720</id>
+      <masked>false</masked>
+      <name>cuerpoMail</name>
+   </variable>
+</TestCaseEntity>

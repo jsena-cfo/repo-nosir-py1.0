@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectEstadoCivil</name>
+   <tag></tag>
+   <elementGuidId>8f4a201f-9529-4dd6-aaa1-61f6f3c92d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_datosSocio_ddlEstadoCivil']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_datosSocio_ddlEstadoCivil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>28174d1a-32c7-49de-ad05-c69f911e5a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$datosSocio$ddlEstadoCivil</value>
+      <webElementGuid>33e69883-55ed-434b-968f-677a5167da90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_datosSocio_ddlEstadoCivil</value>
+      <webElementGuid>187bd1a6-e59c-410f-905c-72377a7cf2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>5cde0c55-f37c-4ad2-9543-5af2e7378f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript: MostrarDatosConyugue('ctl00_CPH1_datosSocio_ddlEstadoCivil');</value>
+      <webElementGuid>5b92fbb8-d66f-465e-82b1-fd35a2980dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Seleccionar
+	Soltero/a
+	Casado/a
+	Divorciado/a
+	Viudo/a
+
+</value>
+      <webElementGuid>0c11a13c-4530-4b86-94ba-428b0b8a4208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_datosSocio_ddlEstadoCivil&quot;)</value>
+      <webElementGuid>9968cb85-cbb2-4acb-ab95-badb0bc7c305</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_datosSocio_ddlEstadoCivil']</value>
+      <webElementGuid>45124263-fbe1-45da-852f-12f2c92c2721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_datosSocio_DivEstadoCivil']/select</value>
+      <webElementGuid>0c826c74-f509-46da-a4ff-1a0d602e9285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado civil:'])[1]/following::select[1]</value>
+      <webElementGuid>dc765428-d5c3-43d7-8741-69b597f8c56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completar'])[21]/preceding::select[1]</value>
+      <webElementGuid>486e6180-0138-42f6-b2e9-6b833caf16c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>5322b5f1-e12d-4e79-8201-9607ada41ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$datosSocio$ddlEstadoCivil' and @id = 'ctl00_CPH1_datosSocio_ddlEstadoCivil' and (text() = '
+	Seleccionar
+	Soltero/a
+	Casado/a
+	Divorciado/a
+	Viudo/a
+
+' or . = '
+	Seleccionar
+	Soltero/a
+	Casado/a
+	Divorciado/a
+	Viudo/a
+
+')]</value>
+      <webElementGuid>cf603896-d3e0-4ed1-bf40-5699337d948d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

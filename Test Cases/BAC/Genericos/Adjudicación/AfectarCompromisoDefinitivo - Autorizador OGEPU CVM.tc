@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AfectarCompromisoDefinitivo - Autorizador OGEPU CVM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77917601-38f9-4e8b-b7b9-1e55af7122d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de7bbab0-53de-44f9-8170-2c4750bfefe1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>de7bbab0-53de-44f9-8170-2c4750bfefe1</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

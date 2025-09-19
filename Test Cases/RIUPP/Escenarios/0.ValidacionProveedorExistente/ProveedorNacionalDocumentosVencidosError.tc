@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProveedorNacionalDocumentosVencidosError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6ea10b4-25cf-47cd-a27a-8ec8581182c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d45ce18-3c5e-4dbf-ac2e-fa16875eebbd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>0d45ce18-3c5e-4dbf-ac2e-fa16875eebbd</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

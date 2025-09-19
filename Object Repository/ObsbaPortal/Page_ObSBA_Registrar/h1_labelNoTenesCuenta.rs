@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_labelNoTenesCuenta</name>
+   <tag></tag>
+   <elementGuidId>a5b2e05f-940d-49d3-a705-d616ffdd1996</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h4.MuiTypography-alignCenter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/form/div[6]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>fe404c43-bebe-4bd5-879c-648ea4315d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter</value>
+      <webElementGuid>af0510f3-3f89-49fb-be7e-41cd1be0ff8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿No tenés cuenta?</value>
+      <webElementGuid>ac1dbe47-222a-4955-b2e5-b0b9f00caf5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiGrid-root jss1 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-content-xs-center MuiGrid-justify-content-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-6&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter&quot;]</value>
+      <webElementGuid>41f3031a-57e1-4569-a2d3-da23ae8d07e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/form/div[6]/h1</value>
+      <webElementGuid>d02bd5d8-830d-4df0-a5f6-a2611e936fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresar'])[1]/following::h1[1]</value>
+      <webElementGuid>a61b04f1-b434-4471-9183-6c58acb0ff14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRATE'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a231ad63-bf34-4e77-b615-6d68cb87ec35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿No tenés cuenta?']/parent::*</value>
+      <webElementGuid>43b0e7e3-b88f-42aa-a623-38df28a3ed7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/h1</value>
+      <webElementGuid>8e6031be-7c02-4e9e-ad4f-a5d8264366c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '¿No tenés cuenta?' or . = '¿No tenés cuenta?')]</value>
+      <webElementGuid>2fde044e-8abc-449f-bbd6-b0bc3b0bb87c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarDocumentoSubirAbrirModal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34fcd1ba-3f02-4fde-a2a0-d80bd9d4c7ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48e46da6-7cd2-414a-bdc7-08a68d0a7990</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8010819-a9c3-4811-b89a-0582de41ad16</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitPrestador</defaultValue>
+      <description></description>
+      <id>48e46da6-7cd2-414a-bdc7-08a68d0a7990</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>b8010819-a9c3-4811-b89a-0582de41ad16</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

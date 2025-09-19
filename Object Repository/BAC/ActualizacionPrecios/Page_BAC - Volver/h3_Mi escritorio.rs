@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Mi escritorio</name>
+   <tag></tag>
+   <elementGuidId>b55c4924-2d7b-4a3d-9dcc-08e942ba299b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='aspnetForm']/section/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[(text() = 'Mi escritorio' or . = 'Mi escritorio')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>3c1515da-b939-4e5e-bde8-aa8446a7d4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mi escritorio</value>
+      <webElementGuid>00b23c4c-f601-4dfb-b168-d29913eeba2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/section[1]/div[@class=&quot;container&quot;]/h3[1]</value>
+      <webElementGuid>8ce872d1-ee1c-4559-9faf-789e604c4df7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section/div/h3</value>
+      <webElementGuid>095a12b0-843f-4b69-9a21-569c5ab9e0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimado proveedor, su empresa posee facturas apócrifas y no puede operar en el sistema.'])[1]/following::h3[1]</value>
+      <webElementGuid>311d90c3-2199-4384-9e79-e58784369cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información:'])[1]/following::h3[1]</value>
+      <webElementGuid>cf083aea-af64-4064-817d-4c17b992c504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bandeja personal'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ee4f393c-9cdd-41ce-8086-c5d8775ecf24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notificaciones'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d684d068-4049-497f-8f1d-662a6481f61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>bda8ff9a-310e-4f55-a823-6c079bc1ed2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Mi escritorio' or . = 'Mi escritorio')]</value>
+      <webElementGuid>349b6701-69a6-4dd5-af2f-0a264388c47f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

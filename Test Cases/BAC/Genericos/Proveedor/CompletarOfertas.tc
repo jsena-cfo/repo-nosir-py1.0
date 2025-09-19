@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarOfertas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd7b89f8-93f7-43e1-81ff-b9956928f02d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b11e24f9-40ed-4366-b9cf-439bd83274b0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0b90663-1632-4fa7-91c9-7a89648807de</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27edc314-b746-4e3d-8897-397c60142d07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b11e24f9-40ed-4366-b9cf-439bd83274b0</id>
+      <masked>false</masked>
+      <name>cantidad</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0b90663-1632-4fa7-91c9-7a89648807de</id>
+      <masked>false</masked>
+      <name>precio</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>27edc314-b746-4e3d-8897-397c60142d07</id>
+      <masked>false</masked>
+      <name>renglon</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenAmazon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc273d21-7063-4ca7-8a4a-ae9314f34b87</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad20360b-9275-4d99-b7b8-da16910de494</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec392256-5e4e-41dd-9ea3-5c48b347257d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6db74f3e-ade2-4735-ada0-dcab3b5a1ce7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Amazon'</defaultValue>
+      <description></description>
+      <id>ad20360b-9275-4d99-b7b8-da16910de494</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Amazon se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>ec392256-5e4e-41dd-9ea3-5c48b347257d</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Amazon correctamente'</defaultValue>
+      <description></description>
+      <id>6db74f3e-ade2-4735-ada0-dcab3b5a1ce7</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

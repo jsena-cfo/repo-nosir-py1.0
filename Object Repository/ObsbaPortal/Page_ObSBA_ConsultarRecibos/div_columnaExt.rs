@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_columnaExt</name>
+   <tag></tag>
+   <elementGuidId>e0596a52-9104-4202-a75c-25a716c1e870</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--alignCenter.MuiDataGrid-withBorderColor > div.MuiDataGrid-columnHeaderDraggableContainer > div.MuiDataGrid-columnHeaderTitleContainer</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'presentation' and (text() = 'Ext' or . = 'Ext')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div/div/div/div/div/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0dca480-e959-4112-90cd-000c3dd24eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-columnHeaderTitleContainer</value>
+      <webElementGuid>d8ddb33b-65b5-468b-9723-33b3519bfa41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>e7277024-c673-40da-9bf1-993c8c96f34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ext</value>
+      <webElementGuid>18396ca8-155f-4378-ab51-919a93c5a6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss56&quot;]/main[@class=&quot;MuiGrid-root jss55 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss54 MuiGrid-item&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-g1du22&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-columnHeaders MuiDataGrid-withBorderColor css-y599qu&quot;]/div[@class=&quot;MuiDataGrid-columnHeadersInner css-vcjdx3&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;MuiDataGrid-columnHeader MuiDataGrid-columnHeader--alignCenter MuiDataGrid-withBorderColor&quot;]/div[@class=&quot;MuiDataGrid-columnHeaderDraggableContainer&quot;]/div[@class=&quot;MuiDataGrid-columnHeaderTitleContainer&quot;]</value>
+      <webElementGuid>cf36081a-3d87-4392-90bb-54dda41db51a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div/div/div/div/div/div[5]/div/div</value>
+      <webElementGuid>8a622623-9113-4992-821a-982c16911cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archivo'])[1]/following::div[6]</value>
+      <webElementGuid>b4804eef-660b-485f-9e66-debcb6680d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Año'])[1]/following::div[14]</value>
+      <webElementGuid>e535a7b4-8542-4eb9-9eae-8d0099d9acf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar'])[1]/preceding::div[4]</value>
+      <webElementGuid>18ff3092-f64f-482a-8752-e966e554f514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>09e18228-b3cf-4cfd-8bb1-d48b06b8026e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ext' or . = 'Ext')]</value>
+      <webElementGuid>09fff15d-8c58-4ef4-b0d3-848d1bc6adc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

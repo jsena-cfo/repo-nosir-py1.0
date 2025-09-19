@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarAccesoCampoContrasenia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6614fad6-8ab7-4f41-bb05-967db81c89ba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ce16541-0119-47c1-9145-847e120790b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3217282-74ff-4e2c-834b-4990c8b95bb9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'20120005368'</defaultValue>
+      <description></description>
+      <id>7ce16541-0119-47c1-9145-847e120790b2</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>d3217282-74ff-4e2c-834b-4990c8b95bb9</id>
+      <masked>false</masked>
+      <name>Contrasena</name>
+   </variable>
+</TestCaseEntity>

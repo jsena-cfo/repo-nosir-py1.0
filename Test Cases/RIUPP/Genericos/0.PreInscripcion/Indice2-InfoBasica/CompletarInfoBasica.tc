@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarInfoBasica</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b67aa990-01fa-4d8e-afd2-1b0f2343f80a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86fdede5-66db-4cfe-88a4-50be4538c094</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ff40fa9-6b18-4c24-b676-638ed9316e0a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bceedc22-18d2-4179-96d1-1dd8d025f323</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfb994fd-6ac3-40ae-80d3-00c8a2dc01fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86fdede5-66db-4cfe-88a4-50be4538c094</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ciudad Autonoma de Bs.As.'</defaultValue>
+      <description></description>
+      <id>2ff40fa9-6b18-4c24-b676-638ed9316e0a</id>
+      <masked>false</masked>
+      <name>provincia</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ciudad Autónoma de BsAs'</defaultValue>
+      <description></description>
+      <id>bceedc22-18d2-4179-96d1-1dd8d025f323</id>
+      <masked>false</masked>
+      <name>partido</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ciudad Autónoma de BsAs'</defaultValue>
+      <description></description>
+      <id>cfb994fd-6ac3-40ae-80d3-00c8a2dc01fa</id>
+      <masked>false</masked>
+      <name>localidad</name>
+   </variable>
+</TestCaseEntity>

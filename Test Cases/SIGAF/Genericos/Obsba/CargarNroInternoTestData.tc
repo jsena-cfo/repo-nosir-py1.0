@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CargarNroInternoTestData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c27d2360-18a0-44e4-9f1a-9e0184e03a33</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de5d6392-b559-4071-bc78-d24cc1fe89e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>de5d6392-b559-4071-bc78-d24cc1fe89e2</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+</TestCaseEntity>

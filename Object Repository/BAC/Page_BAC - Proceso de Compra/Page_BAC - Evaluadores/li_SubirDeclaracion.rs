@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_SubirDeclaracion</name>
+   <tag></tag>
+   <elementGuidId>392db488-f5dd-407b-8f66-b64f90e398c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_GridEvaluadores_ctl02_lnkIngresarActa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;btn-group open&quot;]//a[contains(text(),'Subir declaración jurada')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aaeeddde-51ff-472f-9c54-4c11f290c69d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_GridEvaluadores_ctl02_lnkIngresarActa</value>
+      <webElementGuid>abb2fdee-ba74-4f98-8b48-4cc509ee456f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Subir declaración jurada</value>
+      <webElementGuid>c886429a-f16d-4245-a370-bf509f41b7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$CPH1$GridEvaluadores$ctl02$lnkIngresarActa','')</value>
+      <webElementGuid>09d7c381-0145-4d2c-82a0-2583744b27ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        Subir declaración jurada
+                                                    </value>
+      <webElementGuid>fcba798f-cfc1-4dc7-9ff1-4c426c0f34f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_GridEvaluadores_ctl02_lnkIngresarActa&quot;)</value>
+      <webElementGuid>10d44011-d8c7-4e33-b6bb-fce392fa077c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_GridEvaluadores_ctl02_lnkIngresarActa']</value>
+      <webElementGuid>50e3cb31-c55d-481f-afa9-afe8f0275453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ctl00_CPH1_GridEvaluadores_ctl02_tabs']/li[2]/a</value>
+      <webElementGuid>aac7c7ab-a5ca-4438-a281-11f57e657bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Subir declaración jurada')]</value>
+      <webElementGuid>33a92933-d8d9-4a4e-a8ab-ebe18de02bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[1]/following::a[1]</value>
+      <webElementGuid>f2e4cb6f-128e-45c6-8996-32cb253f8d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::a[2]</value>
+      <webElementGuid>43bc9dd3-051e-4a19-a175-029aace424c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar'])[2]/preceding::a[1]</value>
+      <webElementGuid>6a3f515d-d700-4a92-9862-5c1097ae5fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subir declaración jurada'])[2]/preceding::a[2]</value>
+      <webElementGuid>b126a99d-57a9-4d0e-99a3-53ce6e1ae6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Subir declaración jurada']/parent::*</value>
+      <webElementGuid>764e9814-38b1-432f-a5ee-bc4228949c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$CPH1$GridEvaluadores$ctl02$lnkIngresarActa','')&quot;)]</value>
+      <webElementGuid>79ae1ca4-6406-44ad-a7d9-34999d98a773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/ul/li[2]/a</value>
+      <webElementGuid>97e8a441-4bbb-4697-b5cc-fa5954105e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_GridEvaluadores_ctl02_lnkIngresarActa' and @title = 'Subir declaración jurada' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$CPH1$GridEvaluadores$ctl02$lnkIngresarActa&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = '
+                                                        Subir declaración jurada
+                                                    ' or . = '
+                                                        Subir declaración jurada
+                                                    ')]</value>
+      <webElementGuid>86019739-e2bd-4d3b-805a-cf67a578be60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

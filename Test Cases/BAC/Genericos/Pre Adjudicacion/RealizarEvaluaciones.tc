@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RealizarEvaluaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea4693af-706c-43b6-a979-503516ca2321</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ef3553d-2678-4142-b23d-b5153460046b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7638f62-bdf1-4fbe-80cf-998ccbe53ce5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>892496fa-bce9-4768-9333-509c55c3bb38</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>6ef3553d-2678-4142-b23d-b5153460046b</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+   <variable>
+      <defaultValue>'Licitación Pública'</defaultValue>
+      <description></description>
+      <id>a7638f62-bdf1-4fbe-80cf-998ccbe53ce5</id>
+      <masked>false</masked>
+      <name>procedimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>'Apertura Oferta'</defaultValue>
+      <description></description>
+      <id>892496fa-bce9-4768-9333-509c55c3bb38</id>
+      <masked>false</masked>
+      <name>accion</name>
+   </variable>
+</TestCaseEntity>

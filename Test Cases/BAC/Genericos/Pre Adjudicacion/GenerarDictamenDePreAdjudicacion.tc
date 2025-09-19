@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarDictamenDePreAdjudicacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc080977-d6c5-4274-a511-2dee711ff4ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8191d6da-c26f-48e6-91ce-fc4c96e469ef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>8191d6da-c26f-48e6-91ce-fc4c96e469ef</id>
+      <masked>false</masked>
+      <name>pliego</name>
+   </variable>
+</TestCaseEntity>

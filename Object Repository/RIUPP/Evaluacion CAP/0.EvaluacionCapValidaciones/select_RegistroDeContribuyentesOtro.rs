@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RegistroDeContribuyentesOtro</name>
+   <tag></tag>
+   <elementGuidId>255b7452-c1d7-48f1-b848-d5e430973920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_DatosBasicosProveedor_ddlTipoIdentificadorTributario</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_DatosBasicosProveedor_ddlTipoIdentificadorTributario']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2def53ae-4838-48f3-9240-85cf001eb880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$DatosBasicosProveedor$ddlTipoIdentificadorTributario</value>
+      <webElementGuid>afce1756-18d0-4e19-ba71-c531c628b9ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_DatosBasicosProveedor_ddlTipoIdentificadorTributario</value>
+      <webElementGuid>d0f1f2f2-05bf-486d-a3b9-f96f55fa0ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>13a2f0cd-eb25-4cc8-8923-b6c91b6ec589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>e61e422a-648b-4ae6-bfd1-10cf719113b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>48fe4518-3b0f-4bb4-af21-c5e0ac73294c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	RUC - Registro único de contribuyentes
+	Otro
+
+</value>
+      <webElementGuid>00446064-94db-4f08-87f0-71a3184284c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_DatosBasicosProveedor_ddlTipoIdentificadorTributario&quot;)</value>
+      <webElementGuid>3fdd9b08-733a-4f49-924f-b7932cff29ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_DatosBasicosProveedor_ddlTipoIdentificadorTributario']</value>
+      <webElementGuid>0389ff87-74ec-435e-8e23-51a146ece547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section/div/div[5]/div/div/div[2]/div/div[4]/div/div/select</value>
+      <webElementGuid>e811365b-9fcc-4ed0-a374-2d5f35c1d605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo identificador tributario:'])[1]/following::select[1]</value>
+      <webElementGuid>99552552-edcb-4859-b6b8-917632b3d4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completar'])[2]/following::select[1]</value>
+      <webElementGuid>7d03adf2-093d-47ee-ac5d-057ffb1e1fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completar'])[3]/preceding::select[1]</value>
+      <webElementGuid>9014f968-7957-4e88-941b-fe7b1a2484d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identificador tributario:'])[1]/preceding::select[1]</value>
+      <webElementGuid>c8e7cc65-e338-4149-a3e7-4ed691bd2a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/select</value>
+      <webElementGuid>8b2527bb-1106-4e17-af5b-4cbf5c206783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$DatosBasicosProveedor$ddlTipoIdentificadorTributario' and @id = 'ctl00_CPH1_DatosBasicosProveedor_ddlTipoIdentificadorTributario' and (text() = '
+	RUC - Registro único de contribuyentes
+	Otro
+
+' or . = '
+	RUC - Registro único de contribuyentes
+	Otro
+
+')]</value>
+      <webElementGuid>5884cad5-1b0e-40fd-82b7-0d94a4c27c34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

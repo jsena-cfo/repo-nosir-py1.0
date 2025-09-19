@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarCuitInvalido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8aa742e6-2c81-4817-b393-ef639015bbc4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d47d20f2-f013-47d0-b069-1b31083c899c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63faece0-e3c8-4799-94eb-74d85dfb2703</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'11223311221'</defaultValue>
+      <description></description>
+      <id>d47d20f2-f013-47d0-b069-1b31083c899c</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>63faece0-e3c8-4799-94eb-74d85dfb2703</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

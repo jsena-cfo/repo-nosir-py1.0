@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CancelarConfirmar</name>
+   <tag></tag>
+   <elementGuidId>bf22cbc5-3c00-42a7-bf7c-c5139ea2f518</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.q-btn.inline.relative-position.q-btn-item.non-selectable.q-btn-rectangle.q-btn-flat.q-focusable.q-hoverable.text-primary</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Cancelar' or . = 'Cancelar')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@type = 'button' and (text() = 'Cancelar' or . = 'Cancelar' or . = 'CANCELAR')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3add39d1-5c7c-467b-9871-a1a6251403b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7fa1496c-6c53-4262-8524-038023f7e1e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>daaa9cbc-ed0d-4611-8e95-e8cce1577597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-btn-flat q-focusable q-hoverable text-primary</value>
+      <webElementGuid>7d67e23a-0712-46ae-9824-320f05bccc92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancelar</value>
+      <webElementGuid>f79dafe1-321b-4f86-99f6-1b1fffd99caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat desktop no-touch platform-mat&quot;]/div[@class=&quot;modal fullscreen row minimized flex-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-buttons row&quot;]/button[@class=&quot;q-btn inline relative-position q-btn-item non-selectable q-btn-rectangle q-btn-flat q-focusable q-hoverable text-primary&quot;]</value>
+      <webElementGuid>579a4151-322e-4122-8e82-315919855163</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[32]</value>
+      <webElementGuid>2295eac1-8936-4ca7-a38f-5bd1a13c3cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se guardará la Redeterminación de Precios. ¿Desea continuar?'])[1]/following::button[1]</value>
+      <webElementGuid>92d75249-972c-404d-951a-663cc4706077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmación'])[1]/following::button[1]</value>
+      <webElementGuid>de627d34-d229-4184-a746-9d71b63d133e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[4]/preceding::button[1]</value>
+      <webElementGuid>fdecaedf-e793-4b73-bbaf-7922c3330f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[3]/button</value>
+      <webElementGuid>58015f31-6c1a-46c6-bc90-eae3c84d8348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancelar' or . = 'Cancelar')]</value>
+      <webElementGuid>fb390a11-45ea-47dc-92df-078b86408bae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

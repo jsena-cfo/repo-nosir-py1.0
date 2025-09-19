@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_RegistroVOLVERSubmit</name>
+   <tag></tag>
+   <elementGuidId>9d3b9fef-a503-439a-b0ed-09de6db42f66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.jss20.MuiButton-outlinedPrimary.MuiButton-fullWidth</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'submit' and (text() = 'Volver' or . = 'Volver' or . = 'VOLVER')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and (text() = 'VOLVER' or . = 'VOLVER')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dac26760-877c-48b8-bb21-f203bdfe8443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-outlined jss20 MuiButton-outlinedPrimary MuiButton-fullWidth</value>
+      <webElementGuid>93ac89a7-768a-4af6-959c-ff034dcde6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>61d747ad-e250-42fd-bc0c-8f1330f383d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>78ba4671-c991-4064-9ca2-bf51f47f25c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VOLVER</value>
+      <webElementGuid>b9106fe2-72c1-4d2d-8663-445cc641c4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss1 MuiGrid-container&quot;]/div[@class=&quot;MuiPaper-root MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8 MuiGrid-grid-md-7 MuiPaper-elevation6&quot;]/div[@class=&quot;jss6&quot;]/form[@class=&quot;jss7&quot;]/a[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined jss20 MuiButton-outlinedPrimary MuiButton-fullWidth&quot;]</value>
+      <webElementGuid>5423ac5b-1e07-4251-ba11-9f1f8b641965</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>2fb3481c-cb80-4bc5-b90a-ff49c1ad6683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/form/a/button</value>
+      <webElementGuid>24edeba8-058a-415a-a81b-c1a6cc7b2cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT/CUIL'])[2]/following::button[1]</value>
+      <webElementGuid>7784f1af-4e57-4c7c-bfa2-dddc3dfcafd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT/CUIL'])[1]/following::button[1]</value>
+      <webElementGuid>42f19f44-ec86-4ee9-92cd-940cedf470ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar sesión'])[1]/preceding::button[1]</value>
+      <webElementGuid>45d80b91-6814-4820-b56a-c552a15f30ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>25455baf-bf2a-4234-8313-04cf49bd03b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'VOLVER' or . = 'VOLVER')]</value>
+      <webElementGuid>bb39a899-b3e9-4e1d-92eb-295f2224f775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

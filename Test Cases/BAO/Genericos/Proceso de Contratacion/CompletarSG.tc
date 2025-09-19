@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarSG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5407b54e-1877-4c66-98fc-d921641a61db</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>352455c8-31c8-483b-a183-3bb4e10a0705</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'401-4151-SG22'</defaultValue>
+      <description></description>
+      <id>352455c8-31c8-483b-a183-3bb4e10a0705</id>
+      <masked>false</masked>
+      <name>NumeroSG</name>
+   </variable>
+</TestCaseEntity>

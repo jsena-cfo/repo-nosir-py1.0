@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SeleccionDeProveedoresCD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf675608-bb95-41a7-b265-2c1471690aa2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78383537-5e26-43ab-bf95-cca2a6f3b8e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4702d6cf-6c1a-4bc1-88e3-4c211fc7d9e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CIENTIFICA PARQUE CENTENARIO S.R.L.'</defaultValue>
+      <description></description>
+      <id>78383537-5e26-43ab-bf95-cca2a6f3b8e2</id>
+      <masked>false</masked>
+      <name>razonsocial</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test QA'</defaultValue>
+      <description></description>
+      <id>4702d6cf-6c1a-4bc1-88e3-4c211fc7d9e8</id>
+      <masked>false</masked>
+      <name>justificacion</name>
+   </variable>
+</TestCaseEntity>

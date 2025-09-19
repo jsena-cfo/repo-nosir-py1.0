@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarPersonasLegales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e181bd5-6265-405f-b46c-e9e62efd07d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30bbf0df-d97d-4895-a63d-f13f270f25f2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>30bbf0df-d97d-4895-a63d-f13f270f25f2</id>
+      <masked>false</masked>
+      <name>esExtranjero</name>
+   </variable>
+</TestCaseEntity>

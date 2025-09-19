@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenBing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb2b10c2-a1d4-4448-a8f2-b6308d6c4886</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d134846-f1ac-4528-9b14-0d4e30fe73b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>374163d2-3e78-4eba-8d13-3fc42971823a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b686c6d-8bc2-45c1-b9a7-c3dc8b060e25</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Bing'</defaultValue>
+      <description></description>
+      <id>0d134846-f1ac-4528-9b14-0d4e30fe73b6</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Bing se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>374163d2-3e78-4eba-8d13-3fc42971823a</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Bing correctamente'</defaultValue>
+      <description></description>
+      <id>8b686c6d-8bc2-45c1-b9a7-c3dc8b060e25</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

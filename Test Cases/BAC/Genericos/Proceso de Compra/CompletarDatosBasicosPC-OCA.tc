@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDatosBasicosPC-OCA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4264f7db-7ced-4521-a937-ade24c852175</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64e16733-668c-4a0e-bd30-11bf04d889cb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'QA Test\r\n'</defaultValue>
+      <description></description>
+      <id>64e16733-668c-4a0e-bd30-11bf04d889cb</id>
+      <masked>false</masked>
+      <name>nombrePC</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,714 @@
+************************30/08/2022**************************
+
+Numero: 4255
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 5
+
+Digito validado: 5
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4256
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 5
+
+Digito validado: 6
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4257
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 5
+
+Digito validado: 7
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4258
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 5
+
+Digito validado: 8
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4262
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 6
+
+Digito validado: 2
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4264
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 6
+
+Digito validado: 4
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4265
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 6
+
+Digito validado: 5
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4266
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 6
+
+Digito validado: 6
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4267
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 6
+
+Digito validado: 7
+
+Cantidad fallas detectadas: 0
+
+
+************************30/08/2022**************************
+
+Numero: 4268
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 6
+
+Digito validado: 8
+
+Cantidad fallas detectadas: 0
+
+
+************************31/08/2022**************************
+
+Numero: 4270
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 0
+
+Cantidad fallas detectadas: 0
+
+
+*************************31/08/2022*************************
+
+Numero: 4271
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 1
+
+Cantidad fallas detectadas: 0
+
+
+**************************31/08/2022************************
+
+Numero: 4272
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 2
+
+Cantidad fallas detectadas: 0
+
+
+**************************31/08/2022************************
+
+Numero: 4273
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 3
+
+Cantidad fallas detectadas: 0
+
+
+**************************31/08/2022************************
+
+Numero: 4274
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 4
+
+Cantidad fallas detectadas: 0
+
+
+**************************31/08/2022************************
+
+Numero: 4275
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 5
+
+Cantidad fallas detectadas: 0
+
+
+**************************31/08/2022************************
+
+Numero: 4276
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 6
+
+Cantidad fallas detectadas: 0
+
+
+**************************05/09/2022************************
+
+Numero: 4279
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 7
+
+Digito validado: 9
+
+Cantidad fallas detectadas: 0
+
+
+**************************05/09/2022************************
+
+Numero: 4280
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 0
+
+Cantidad fallas detectadas: 0
+
+
+**************************05/09/2022************************
+
+Numero: 4281
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 1
+
+Cantidad fallas detectadas: 0
+
+
+**************************05/09/2022************************
+
+Numero: 4282
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 2
+
+Cantidad fallas detectadas: 0
+
+
+**************************05/09/2022************************
+
+Numero: 4283
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 3
+
+Cantidad fallas detectadas: 0
+
+
+**************************06/09/2022************************
+
+Numero: 4284
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 4
+
+Cantidad fallas detectadas: 0
+
+
+**************************06/09/2022************************
+
+Numero: 4285
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 5
+
+Cantidad fallas detectadas: 0
+
+
+**************************06/09/2022************************
+
+Numero: 4286
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 6
+
+Cantidad fallas detectadas: 0
+
+
+**************************06/09/2022************************
+
+Numero: 4287
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 7
+
+Cantidad fallas detectadas: 0
+
+
+**************************06/09/2022************************
+
+Numero: 4288
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 8
+
+Cantidad fallas detectadas: 0
+
+
+**************************07/09/2022************************
+
+Numero: 4289
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 8
+
+Digito validado: 9
+
+Cantidad fallas detectadas: 0
+
+
+**************************07/09/2022************************
+
+Numero: 4293
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 3
+
+Cantidad fallas detectadas: 0
+
+
+**************************07/09/2022************************
+
+Numero: 4294
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 4
+
+Cantidad fallas detectadas: 0
+
+
+**************************07/09/2022************************
+
+Numero: 4295
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 5
+
+Cantidad fallas detectadas: 0
+
+
+**************************07/09/2022************************
+
+Numero: 4296
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 6
+
+Cantidad fallas detectadas: 0
+
+
+**************************08/09/2022************************
+
+Numero: 4297
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 7
+
+Cantidad fallas detectadas: 0
+
+
+**************************08/09/2022************************
+
+Numero: 4298
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 8
+
+Cantidad fallas detectadas: 0
+
+
+**************************09/09/2022************************
+
+Numero: 4299
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 2
+
+Digito validado: 9
+
+Digito validado: 9
+
+Cantidad fallas detectadas: 0
+
+
+**************************12/09/2022************************
+
+Numero: 4300
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 0
+
+Cantidad fallas detectadas: 0
+
+
+**************************12/09/2022************************
+
+Numero: 4301
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 1
+
+Cantidad fallas detectadas: 0
+
+
+**************************12/09/2022************************
+
+Numero: 4302
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 2
+
+Cantidad fallas detectadas: 0
+
+
+**************************12/09/2022************************
+
+Numero: 4303
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 3
+
+Cantidad fallas detectadas: 0
+
+
+**************************12/09/2022************************
+
+Numero: 4304
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 4
+
+Cantidad fallas detectadas: 0
+
+
+**************************15/09/2022************************
+
+Numero: 4305
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 5
+
+Cantidad fallas detectadas: 0
+
+
+**************************29/09/2022************************
+
+Numero: 4306
+
+Porcentaje OCR de exactitud: 100%
+
+Digito validado: 4
+
+Digito validado: 3
+
+Digito validado: 0
+
+Digito validado: 6
+
+Cantidad fallas detectadas: 0
+
+

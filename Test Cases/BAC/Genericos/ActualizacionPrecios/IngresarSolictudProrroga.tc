@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarSolictudProrroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>230d7b5c-5b08-413f-8d56-4ac4248e5259</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab780970-27fc-4234-b350-6467e708f13a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>ab780970-27fc-4234-b350-6467e708f13a</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

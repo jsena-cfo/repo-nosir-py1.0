@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Sigaf-Web-TEST</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sigaf-test.dguiaf-gcba.gov.ar/core/Login.aspx'</initValue>
+      <name>urlSigafWeb</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CAMILAMARTINEZ'</initValue>
+      <name>userSigafWeb</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sigaf2014'</initValue>
+      <name>pass1SigafWeb</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sigaf2015'</initValue>
+      <name>pass2SigafWeb</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

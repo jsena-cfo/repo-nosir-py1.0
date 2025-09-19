@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MontoyDuracionContratoPC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bef4b9bc-33c2-4640-b2ed-eb0b355d5fb2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6298259-30c7-4d26-8749-a946a50412e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02d18d41-6e15-42c7-8016-2813446d76f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2140eef-af3d-4277-b586-6f6782aaca70</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Semanal'</defaultValue>
+      <description></description>
+      <id>b6298259-30c7-4d26-8749-a946a50412e8</id>
+      <masked>false</masked>
+      <name>semanal</name>
+   </variable>
+   <variable>
+      <defaultValue>'12'</defaultValue>
+      <description></description>
+      <id>02d18d41-6e15-42c7-8016-2813446d76f8</id>
+      <masked>false</masked>
+      <name>duracion</name>
+   </variable>
+   <variable>
+      <defaultValue>'Meses'</defaultValue>
+      <description></description>
+      <id>d2140eef-af3d-4277-b586-6f6782aaca70</id>
+      <masked>false</masked>
+      <name>tiempo</name>
+   </variable>
+</TestCaseEntity>

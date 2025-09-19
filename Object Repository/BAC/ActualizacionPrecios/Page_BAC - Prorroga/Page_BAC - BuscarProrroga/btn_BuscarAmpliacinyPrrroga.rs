@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_BuscarAmpliacinyPrrroga</name>
+   <tag></tag>
+   <elementGuidId>0fd44239-ac7c-4e50-9601-6f1b4d4677aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(11) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ebfe6bec-afb0-401a-a076-e071520094b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/OC/BusquedaSolicitudesAmpliacionProrroga.aspx</value>
+      <webElementGuid>41234660-73ec-4c9d-8f66-dd22a1222c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buscar Ampliación y Prórroga</value>
+      <webElementGuid>d640c076-1c88-4409-8f2e-079228c1790e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[11]/a[1]</value>
+      <webElementGuid>cc4873c3-064b-4167-8712-f82749928557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu']/ul/li[11]/a</value>
+      <webElementGuid>bf00a330-8853-4f45-bbc6-134663140357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buscar Ampliación y Prórroga')]</value>
+      <webElementGuid>6a0e3a6b-8bda-4837-96d8-d9b4fe06c7c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Solicitud Centralizada'])[1]/following::a[1]</value>
+      <webElementGuid>0ad07733-380e-49f3-85dc-e574812569b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Afectación'])[1]/following::a[2]</value>
+      <webElementGuid>88c1b705-2cb6-4964-82de-db70985fffd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Garantías'])[1]/preceding::a[1]</value>
+      <webElementGuid>536ae721-8ec4-407e-948b-803a4f0eae35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesoría Técnica'])[1]/preceding::a[2]</value>
+      <webElementGuid>d8b42508-fb65-4d2b-a42f-00e6e3ac0974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buscar Ampliación y Prórroga']/parent::*</value>
+      <webElementGuid>76663944-4acd-4a81-b37a-76c8a0c0f7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/OC/BusquedaSolicitudesAmpliacionProrroga.aspx')]</value>
+      <webElementGuid>927faaa6-12a2-4ee4-93be-278cddddef74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a</value>
+      <webElementGuid>49ae33ae-9805-4152-8512-e5fa0356b714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/OC/BusquedaSolicitudesAmpliacionProrroga.aspx' and (text() = 'Buscar Ampliación y Prórroga' or . = 'Buscar Ampliación y Prórroga')]</value>
+      <webElementGuid>b9ee12b8-d947-4853-9074-54b1ce9e8dc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

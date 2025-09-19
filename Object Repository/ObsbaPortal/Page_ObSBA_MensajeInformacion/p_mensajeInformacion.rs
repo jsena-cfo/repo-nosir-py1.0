@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_mensajeInformacion</name>
+   <tag></tag>
+   <elementGuidId>a1487f45-ccfc-4f6d-b94a-89348e9d6e0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='transition-modal-description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transition-modal-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e16075b4-c82d-4d26-9326-77e9cda79b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1</value>
+      <webElementGuid>19ea09af-f574-489c-8146-160466d6e457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transition-modal-description</value>
+      <webElementGuid>894d7db3-89b4-4e04-8b4d-41aced79b015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sx</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>c43794fa-e891-447c-962d-7b3108a93f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estimado usuario, queremos recordarle que tiene carpetas pendientes de enviar. Por favor, revise su lista de carpetas y asegúrese de enviar todas aquellas que sean necesarias para evitar retrasos o inconvenientes. ¡Gracias por su colaboración!</value>
+      <webElementGuid>1aa294a9-cf79-46a6-8a6e-24d9ccc62d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transition-modal-description&quot;)</value>
+      <webElementGuid>3c3b1eb0-5bff-4586-9d36-94bf24aec893</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='transition-modal-description']</value>
+      <webElementGuid>8af05727-7636-4bd0-91e2-bc39828594f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información'])[1]/following::p[1]</value>
+      <webElementGuid>7b3906c1-259d-4627-a0d5-ae255e76800c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'transition-modal-description', '&quot;', ')')])[1]/following::p[1]</value>
+      <webElementGuid>56715973-f8a2-4606-bbd7-8523d3fd10cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Estimado usuario, queremos recordarle que tiene carpetas pendientes de enviar. Por favor, revise su lista de carpetas y asegúrese de enviar todas aquellas que sean necesarias para evitar retrasos o inconvenientes. ¡Gracias por su colaboración!']/parent::*</value>
+      <webElementGuid>e591fa54-7c48-4430-9295-ce662cac8062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>39bc227b-02e2-4f4f-bf60-4d30254c313a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'transition-modal-description' and (text() = 'Estimado usuario, queremos recordarle que tiene carpetas pendientes de enviar. Por favor, revise su lista de carpetas y asegúrese de enviar todas aquellas que sean necesarias para evitar retrasos o inconvenientes. ¡Gracias por su colaboración!' or . = 'Estimado usuario, queremos recordarle que tiene carpetas pendientes de enviar. Por favor, revise su lista de carpetas y asegúrese de enviar todas aquellas que sean necesarias para evitar retrasos o inconvenientes. ¡Gracias por su colaboración!')]</value>
+      <webElementGuid>2e43f78c-b202-4454-a3c5-7c156b57ec66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PublicarDictamen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bd50cfe-be94-41d9-b9d9-4e4aa0b3874b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a36eeefc-d91c-4289-91b9-17e1d5a93e9d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>a36eeefc-d91c-4289-91b9-17e1d5a93e9d</id>
+      <masked>false</masked>
+      <name>pliego</name>
+   </variable>
+</TestCaseEntity>

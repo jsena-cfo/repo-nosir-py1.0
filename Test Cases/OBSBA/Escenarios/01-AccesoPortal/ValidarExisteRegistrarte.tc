@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarExisteRegistrarte</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c0bc37d-1727-4f18-bfc1-3af6675487dd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56040140-7d1d-44ee-bd0a-602bbeb5aaf1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>56040140-7d1d-44ee-bd0a-602bbeb5aaf1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

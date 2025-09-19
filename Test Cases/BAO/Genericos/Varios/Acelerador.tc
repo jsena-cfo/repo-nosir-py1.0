@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Acelerador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a6b5cf8-8951-4459-b29c-161e8dc67838</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73149092-de91-4a9b-9e29-037543371c54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1bda5579-20cb-4aef-a844-64f0b6e6c6fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Publicar'</defaultValue>
+      <description></description>
+      <id>73149092-de91-4a9b-9e29-037543371c54</id>
+      <masked>false</masked>
+      <name>accion</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>1bda5579-20cb-4aef-a844-64f0b6e6c6fa</id>
+      <masked>false</masked>
+      <name>pliego</name>
+   </variable>
+</TestCaseEntity>

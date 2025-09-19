@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Indice2Incompleto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f7dabc9-8a19-4d9d-aae7-7b0f619e4710</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44f5c4f8-20d6-4064-90df-11a3c77f0555</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>44f5c4f8-20d6-4064-90df-11a3c77f0555</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

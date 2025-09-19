@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreInscripcionSociedadAnonima</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f51ae89-60f0-4916-ba77-548c6221755b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55b3741b-7d72-4faa-a09c-d54366aaa342</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SociedadAnonima'</defaultValue>
+      <description></description>
+      <id>55b3741b-7d72-4faa-a09c-d54366aaa342</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

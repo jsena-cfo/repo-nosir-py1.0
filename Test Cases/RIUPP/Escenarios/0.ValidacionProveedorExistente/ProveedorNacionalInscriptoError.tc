@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProveedorNacionalInscriptoError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f83637f6-cb3e-4f7c-bceb-e464f750c304</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ede851d5-9fde-4c3a-9e15-01bbbc759c69</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>ede851d5-9fde-4c3a-9e15-01bbbc759c69</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

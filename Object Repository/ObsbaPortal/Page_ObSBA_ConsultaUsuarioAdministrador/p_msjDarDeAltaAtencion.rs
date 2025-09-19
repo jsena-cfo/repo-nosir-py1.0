@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_msjDarDeAltaAtencion</name>
+   <tag></tag>
+   <elementGuidId>539bfa7e-81de-4372-b931-2adef833eb11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#alert-dialog-description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='alert-dialog-description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e2f6d694-44ba-4130-b46f-1bc867a841ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiDialogContentText-root MuiTypography-body1 MuiTypography-colorTextSecondary</value>
+      <webElementGuid>249599d9-2a14-4c31-b0eb-e7cfbf3ea8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alert-dialog-description</value>
+      <webElementGuid>69b6f07e-d523-44c6-9660-ca910d7c9506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Desea dar de alta al usuario 20120043995 con perfil Empleado?</value>
+      <webElementGuid>e3d6374b-2174-4b56-b467-451819eed9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-dialog-description&quot;)</value>
+      <webElementGuid>0b5e9a94-bd91-41da-94e4-d11cfde70821</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='alert-dialog-description']</value>
+      <webElementGuid>1bb1c279-8088-4b2f-b4ac-acb20e3300f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Atención!'])[1]/following::p[1]</value>
+      <webElementGuid>68307509-5398-4237-8fb2-84a9e058b921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'alert-dialog-description', '&quot;', ')')])[1]/following::p[1]</value>
+      <webElementGuid>b3cd54f9-bb32-4c3f-b920-b950d386b392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCELAR'])[1]/preceding::p[1]</value>
+      <webElementGuid>d0aa6b0a-1af4-436c-89d6-ceebba4cfea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONFIRMAR'])[1]/preceding::p[1]</value>
+      <webElementGuid>857defd4-46e6-4a44-908b-2dc4b1389459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿Desea dar de alta al usuario']/parent::*</value>
+      <webElementGuid>7a596e76-7df0-426b-ad81-71039e18d82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/p</value>
+      <webElementGuid>a79c1d5d-1c8a-48fc-af4c-9983e28bd7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'alert-dialog-description' and (text() = '¿Desea dar de alta al usuario 20120043995 con perfil Empleado?' or . = '¿Desea dar de alta al usuario 20120043995 con perfil Empleado?')]</value>
+      <webElementGuid>fbb8fcbc-b558-4a8d-9a12-45051e1f0128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

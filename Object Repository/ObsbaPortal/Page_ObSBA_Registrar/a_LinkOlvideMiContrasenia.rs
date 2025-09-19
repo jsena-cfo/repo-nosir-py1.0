@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LinkOlvideMiContrasenia</name>
+   <tag></tag>
+   <elementGuidId>8baf4957-ec6f-457f-8dea-408757783769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '/forgotPassword' and (contains(text(), 'Olvidé mi contraseña ¿Desea desbloquear su usuario?') or contains(., 'Olvidé mi contraseña ¿Desea desbloquear su usuario?'))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.jss23</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/form/div[5]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>248d60ce-9f22-4953-b8a5-cd5a6343a54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>body2</value>
+      <webElementGuid>dde08bea-0d42-4f82-b924-4b1cba071e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss23</value>
+      <webElementGuid>0adfc371-9863-4f2e-88e6-72e328bcc441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/forgotPassword</value>
+      <webElementGuid>cfaa6be6-696c-4efc-96bc-a508aa72e1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Olvidé mi contraseña ¿Desea desbloquear su usuario?</value>
+      <webElementGuid>2d881171-9b01-438c-8dd8-e6fdac447221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiGrid-root jss1 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-content-xs-center MuiGrid-justify-content-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-6&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/a[@class=&quot;jss23&quot;]</value>
+      <webElementGuid>b860e763-bc72-45e7-8c5b-0b7cb4ef4c51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/form/div[5]/div/a</value>
+      <webElementGuid>4344c3d0-8d84-42bb-b028-4ff2afaabbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresar'])[1]/following::a[1]</value>
+      <webElementGuid>ff71eb3a-b97f-4e94-b0c3-8850b95fc438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿No tenés cuenta?'])[1]/preceding::a[1]</value>
+      <webElementGuid>66e607ca-d598-4395-a754-67d25cd629b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRATE'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e9df06e-0b26-483b-8ba8-7094aeeea4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Olvidé mi contraseña']/parent::*</value>
+      <webElementGuid>25c526b0-6da9-4f5c-88d4-cfeb47d1bba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/forgotPassword')]</value>
+      <webElementGuid>2feacdcd-43c2-4dc9-9c6e-1a48565a6559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>76252f72-c1d5-4346-9834-1dd3bef49697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/forgotPassword' and (text() = 'Olvidé mi contraseña ¿Desea desbloquear su usuario?' or . = 'Olvidé mi contraseña ¿Desea desbloquear su usuario?')]</value>
+      <webElementGuid>0167eaef-6398-418b-9c50-c6c1d7329b35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

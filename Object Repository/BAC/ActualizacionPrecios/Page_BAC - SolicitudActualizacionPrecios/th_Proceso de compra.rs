@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Proceso de compra</name>
+   <tag></tag>
+   <elementGuidId>46ff3f40-c690-4496-9863-e0ee2039bb4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio > tbody > tr.tr-header > th:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio']/tbody/tr/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>ce615d70-e974-45d7-94e3-a79b5ea19b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>2f12d01c-a1ca-4a89-9744-4fade2653c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceso de compra</value>
+      <webElementGuid>01185d53-d912-4361-892d-97508463ce65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio&quot;)/tbody[1]/tr[@class=&quot;tr-header&quot;]/th[2]</value>
+      <webElementGuid>6c097705-2257-435e-8721-6ee40fb7702f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_CPH1_UC_TareasEscritorio_TablaTareaSolicitudActualizacionPrecios_gvTareasEscritorio']/tbody/tr/th[2]</value>
+      <webElementGuid>86fe342c-4089-482c-99dc-0ee853676373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documento'])[3]/following::th[1]</value>
+      <webElementGuid>1e7663ee-a9ba-4123-93f3-a654feb4c05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[5]/preceding::th[1]</value>
+      <webElementGuid>9103aa23-3740-45f5-a8ed-dcf774f87d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de tarea'])[5]/preceding::th[2]</value>
+      <webElementGuid>bae8b6f9-8333-4f45-9c9c-ec859ba09fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/table/tbody/tr/th[2]</value>
+      <webElementGuid>a4ec0eab-d4bd-4f06-bf2c-24f6c50c5628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Proceso de compra' or . = 'Proceso de compra')]</value>
+      <webElementGuid>947f1807-8c6b-499c-a480-428253e118f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

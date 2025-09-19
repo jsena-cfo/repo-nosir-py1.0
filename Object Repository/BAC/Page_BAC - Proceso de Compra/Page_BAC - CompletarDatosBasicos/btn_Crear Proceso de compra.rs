@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Crear Proceso de compra</name>
+   <tag></tag>
+   <elementGuidId>5afa5144-0910-490d-8e3f-ea267ef38c86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearPliego</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Crear Proceso de compra')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>77f4c47b-0522-42f2-852d-47826c2a3087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearPliego</value>
+      <webElementGuid>d3b21e16-42a1-4826-95ae-11883aceb74e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right</value>
+      <webElementGuid>49bb1c8a-9e4c-4738-9258-0f75b986e48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$UC_BandejaTareasPersonal$btnCrearPliego&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/PLIEGO/CrearProceso.aspx&quot;, false, true))</value>
+      <webElementGuid>dfc419a1-9b81-4403-9158-054147011712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear Proceso de compra</value>
+      <webElementGuid>24a63574-e5b2-49ed-b71f-bb113f7d541b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearPliego&quot;)</value>
+      <webElementGuid>d4099637-8fd9-466e-af41-e077168e8621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearPliego']</value>
+      <webElementGuid>f78f2d4e-59cb-4335-aa61-ac18ae24e715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseMenuProcesoCompra']/div/a</value>
+      <webElementGuid>e46fbbb2-0cce-44ad-9a9f-7476101e0653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Crear Proceso de compra')]</value>
+      <webElementGuid>2131a939-5bd5-469d-99d4-e54254cb6425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejecutar'])[9]/following::a[1]</value>
+      <webElementGuid>e8fbaeaf-d83b-4462-a163-cc095d7b6845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afectar compromiso definitivo'])[2]/following::a[2]</value>
+      <webElementGuid>fcb7defe-5266-44f4-8f0b-e7f17598dc58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear Proceso de compra']/parent::*</value>
+      <webElementGuid>022f0175-bc2e-4e41-8a1c-bf48b4757813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$UC_BandejaTareasPersonal$btnCrearPliego&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/PLIEGO/CrearProceso.aspx&quot;, false, true))')]</value>
+      <webElementGuid>d573bb55-5053-4af4-bbb7-ef224829d625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/a</value>
+      <webElementGuid>8f94ff08-b439-45c4-aa91-7d4d919a6d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_UC_BandejaTareasPersonal_btnCrearPliego' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$UC_BandejaTareasPersonal$btnCrearPliego&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/PLIEGO/CrearProceso.aspx&quot;, false, true))' and (text() = 'Crear Proceso de compra' or . = 'Crear Proceso de compra')]</value>
+      <webElementGuid>3bd72029-67ab-4868-9426-0cad4f269b04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

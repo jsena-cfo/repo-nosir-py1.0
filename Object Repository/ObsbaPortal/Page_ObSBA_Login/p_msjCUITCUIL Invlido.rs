@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_msjCUITCUIL Invlido</name>
+   <tag></tag>
+   <elementGuidId>4d2b2dfe-7e84-4d2b-8216-dcb6987c739b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = 'CUIT/CUIL Inválido' or . = 'CUIT/CUIL Inválido')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#idInpCuil-helper-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'CUIT/CUIL Inválido' or . = 'CUIT/CUIL Inválido' or . = 'CUIT/CUIL inválido')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0eef8b6d-ae6c-47d8-bdb4-48bf1ba48845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled Mui-required</value>
+      <webElementGuid>e1128d0d-c246-4b0f-b16b-dfea40f7af2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idInpCuil-helper-text</value>
+      <webElementGuid>82942c25-1a78-46fb-9a16-ae8b10934268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CUIT/CUIL Inválido</value>
+      <webElementGuid>f48ecd3c-7e2c-416b-ab91-206b94bf1ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idInpCuil-helper-text&quot;)</value>
+      <webElementGuid>8925bc3a-b794-47ee-b6a3-5678e2aac77a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='idInpCuil-helper-text']</value>
+      <webElementGuid>b6985d3e-5cdd-4237-b309-36e6ecf03452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/form/div[2]/div/p</value>
+      <webElementGuid>b5cc01cb-626c-445b-9697-0988eb39e8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CUIT/CUIL Inválido']/parent::*</value>
+      <webElementGuid>37bd6510-caee-49f9-87cb-c50ef1c1920f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>fd7ebb3a-11c6-485a-8355-7609d3126861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'idInpCuil-helper-text' and (text() = 'CUIT/CUIL Inválido' or . = 'CUIT/CUIL Inválido')]</value>
+      <webElementGuid>1eeb13e9-97fe-444e-810c-75d21c4f5fc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

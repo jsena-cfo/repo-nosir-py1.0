@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_horizontalScroll</name>
+   <tag></tag>
+   <elementGuidId>0874f1ba-1b64-431c-ba22-f6698ab0d95a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDataGrid-virtualScroller.css-frlfct</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss38 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss39 MuiGrid-item&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-f75cnp&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-frlfct&quot;][count(. | //div[@class = 'MuiDataGrid-virtualScroller css-frlfct']) = count(//div[@class = 'MuiDataGrid-virtualScroller css-frlfct'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f880503a-d009-488f-839f-5d367510a138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDataGrid-virtualScroller css-frlfct</value>
+      <webElementGuid>8d4dde98-cace-45e3-8736-8421f80862f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023-10654 Prueba de obs AfiliadoNBIEN SALUDUsuario 2 perfiles20 de jul de 2023, 14:40N/AN/A N/A 20 de jul de 2023, 15:11RECHAZADAMESA DE ENTRADAS CEN  2023-10653 Prueba de envio de carpetaNBIEN SALUDUsuario 2 perfiles20 de jul de 2023, 12:04N/AN/A N/A 20 de jul de 2023, 12:05INGRESADAMESA DE ENTRADAS CEN  2023-10652 Prueba titulo91225NBIEN SALUDautomPrestador19 de jul de 2023, 16:30N/AN/A N/A 19 de jul de 2023, 16:30EN INGRESO  2023-10651 Prueba titulo96698NBIEN SALUDadminPrestador19 de jul de 2023, 16:27N/AN/A N/A 19 de jul de 2023, 16:27EN INGRESO  2023-10650 Prueba titulo10447NBIEN SALUDREGRESION054019 de jul de 2023, 16:22N/AN/A N/A 19 de jul de 2023, 16:23EN INGRESO  </value>
+      <webElementGuid>b7fc82fa-975d-41e5-af00-142e4489b9f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss38 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss39 MuiGrid-item&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-autoHeight MuiDataGrid-root--densityStandard MuiDataGrid-withBorderColor css-f75cnp&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[@class=&quot;MuiDataGrid-virtualScroller css-frlfct&quot;]</value>
+      <webElementGuid>90df07fb-d1a5-4615-ab1d-63fda7ea55d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div/div[2]</value>
+      <webElementGuid>ba57cb5a-18fe-4101-a762-c457f47af077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones'])[1]/following::div[2]</value>
+      <webElementGuid>2ee60f79-c762-4121-b6da-0da5a356a323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observaciones'])[1]/following::div[8]</value>
+      <webElementGuid>fc72aefa-b1c8-4605-9b55-bacd0296d376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>f3d8a5c9-626c-45fc-901d-da2808ebb3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2023-10654 Prueba de obs AfiliadoNBIEN SALUDUsuario 2 perfiles20 de jul de 2023, 14:40N/AN/A N/A 20 de jul de 2023, 15:11RECHAZADAMESA DE ENTRADAS CEN  2023-10653 Prueba de envio de carpetaNBIEN SALUDUsuario 2 perfiles20 de jul de 2023, 12:04N/AN/A N/A 20 de jul de 2023, 12:05INGRESADAMESA DE ENTRADAS CEN  2023-10652 Prueba titulo91225NBIEN SALUDautomPrestador19 de jul de 2023, 16:30N/AN/A N/A 19 de jul de 2023, 16:30EN INGRESO  2023-10651 Prueba titulo96698NBIEN SALUDadminPrestador19 de jul de 2023, 16:27N/AN/A N/A 19 de jul de 2023, 16:27EN INGRESO  2023-10650 Prueba titulo10447NBIEN SALUDREGRESION054019 de jul de 2023, 16:22N/AN/A N/A 19 de jul de 2023, 16:23EN INGRESO  ' or . = '2023-10654 Prueba de obs AfiliadoNBIEN SALUDUsuario 2 perfiles20 de jul de 2023, 14:40N/AN/A N/A 20 de jul de 2023, 15:11RECHAZADAMESA DE ENTRADAS CEN  2023-10653 Prueba de envio de carpetaNBIEN SALUDUsuario 2 perfiles20 de jul de 2023, 12:04N/AN/A N/A 20 de jul de 2023, 12:05INGRESADAMESA DE ENTRADAS CEN  2023-10652 Prueba titulo91225NBIEN SALUDautomPrestador19 de jul de 2023, 16:30N/AN/A N/A 19 de jul de 2023, 16:30EN INGRESO  2023-10651 Prueba titulo96698NBIEN SALUDadminPrestador19 de jul de 2023, 16:27N/AN/A N/A 19 de jul de 2023, 16:27EN INGRESO  2023-10650 Prueba titulo10447NBIEN SALUDREGRESION054019 de jul de 2023, 16:22N/AN/A N/A 19 de jul de 2023, 16:23EN INGRESO  ')]</value>
+      <webElementGuid>c7394098-8223-4737-9a55-be50c8d74b21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

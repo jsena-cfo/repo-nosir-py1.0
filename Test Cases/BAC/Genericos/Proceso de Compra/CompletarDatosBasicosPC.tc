@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDatosBasicosPC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4407669a-3d8f-4da7-87c0-1751ed14be00</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e3626f0-771a-4f3e-a429-76ef3cd8275a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd2f3df1-7b9b-4600-b08e-3d72f517fb2e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c176caa-8af8-426b-9107-f8c3cb51a1bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'QA Test '</defaultValue>
+      <description></description>
+      <id>4e3626f0-771a-4f3e-a429-76ef3cd8275a</id>
+      <masked>false</masked>
+      <name>nombrePC</name>
+   </variable>
+   <variable>
+      <defaultValue>'Licitación Pública'</defaultValue>
+      <description></description>
+      <id>dd2f3df1-7b9b-4600-b08e-3d72f517fb2e</id>
+      <masked>false</masked>
+      <name>procedimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sin Modalidad'</defaultValue>
+      <description></description>
+      <id>3c176caa-8af8-426b-9107-f8c3cb51a1bc</id>
+      <masked>false</masked>
+      <name>modalidad</name>
+   </variable>
+</TestCaseEntity>

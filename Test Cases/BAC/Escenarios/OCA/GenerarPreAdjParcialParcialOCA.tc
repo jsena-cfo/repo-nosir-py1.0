@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GenerarPreAdjParcialParcialOCA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d61e473-f1c4-43de-baf9-2973ad1cbf38</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f988009-4ceb-4104-aee5-9e2bcd904ae0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'6'</defaultValue>
+      <description></description>
+      <id>5f988009-4ceb-4104-aee5-9e2bcd904ae0</id>
+      <masked>false</masked>
+      <name>cantidad</name>
+   </variable>
+</TestCaseEntity>

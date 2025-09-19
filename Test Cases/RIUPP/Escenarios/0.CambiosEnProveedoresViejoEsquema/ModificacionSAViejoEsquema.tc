@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ModificacionSAViejoEsquema</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3c14d2f-fdd4-4a8a-9968-9494113de421</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c0d1d52-d5b3-4aea-8f1f-41bd1f84d7b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sociedad Anonima'</defaultValue>
+      <description></description>
+      <id>9c0d1d52-d5b3-4aea-8f1f-41bd1f84d7b9</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

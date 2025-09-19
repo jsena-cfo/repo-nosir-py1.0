@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_RegistroExitoso</name>
+   <tag></tag>
+   <elementGuidId>40bc12fd-8bcf-425a-9ab5-4d1b92f24900</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h1[(text() = 'Gracias por su Registro' or . = 'Gracias por su Registro')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/form/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>40319592-704b-4037-b7eb-2c2542b00cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4</value>
+      <webElementGuid>ed15b247-d174-4a92-acaa-1649da270f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gracias por su Registro</value>
+      <webElementGuid>f955bffb-5746-40b1-8a80-aaf2710886ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiGrid-root jss1 MuiGrid-container&quot;]/div[@class=&quot;MuiPaper-root MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8 MuiGrid-grid-md-7 MuiPaper-elevation6&quot;]/div[@class=&quot;jss6&quot;]/form[@class=&quot;jss7&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h4&quot;]</value>
+      <webElementGuid>908a6ed3-4f30-4cfa-9ae2-854d8885315f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/form/h1</value>
+      <webElementGuid>9cc6a3c5-ee04-4226-a4cb-30416e7d90e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT/CUIL'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9fd115f7-8339-48f5-a245-ee67f7da2b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT/CUIL'])[2]/preceding::h1[1]</value>
+      <webElementGuid>687acd5d-e8d8-4457-a978-8bb896a3985a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gracias por su Registro']/parent::*</value>
+      <webElementGuid>dc3e1a6a-d389-4cfc-aea2-ca7a376d2b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>f8fcdf8a-7dd1-4449-babe-4bd8a22ebca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Gracias por su Registro' or . = 'Gracias por su Registro')]</value>
+      <webElementGuid>797dc6cc-a13b-4bcc-a8a9-a5b37a961a58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

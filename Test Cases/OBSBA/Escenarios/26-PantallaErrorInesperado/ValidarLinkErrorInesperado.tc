@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarLinkErrorInesperado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf309431-009e-4315-8a26-470a3192ed12</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ac75894-9f68-42ba-a484-109288887cf9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>8ac75894-9f68-42ba-a484-109288887cf9</id>
+      <masked>false</masked>
+      <name>varUrl</name>
+   </variable>
+</TestCaseEntity>

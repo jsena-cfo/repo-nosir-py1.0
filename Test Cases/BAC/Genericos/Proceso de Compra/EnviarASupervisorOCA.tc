@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnviarASupervisorOCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bfae000-2245-4e24-8b01-52e5a754a101</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a3ffde4-c4de-4494-87d6-31443ebc71b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Emilse Carmen Filippo'</defaultValue>
+      <description></description>
+      <id>0a3ffde4-c4de-4494-87d6-31443ebc71b7</id>
+      <masked>false</masked>
+      <name>nombreSupervisor</name>
+   </variable>
+</TestCaseEntity>

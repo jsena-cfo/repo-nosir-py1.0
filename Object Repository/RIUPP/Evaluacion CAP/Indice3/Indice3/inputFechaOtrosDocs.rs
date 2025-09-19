@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputFechaOtrosDocs</name>
+   <tag></tag>
+   <elementGuidId>5ba6300c-76b6-40e5-abbd-398ae0ce2cec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;ctl00_CPH1_rptControlDocumentacionSolicitada_ctl04_DocumentosSolicitadosEvaluacion_EvaluacionProveedorTramite_dxeDteFechaVencimiento_I&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

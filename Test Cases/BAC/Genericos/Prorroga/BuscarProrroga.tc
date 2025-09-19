@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuscarProrroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63736467-3781-4483-b7ed-e24adb4f7e3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a18ec4f-ea6b-4ba1-bb27-08f24897831a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>1a18ec4f-ea6b-4ba1-bb27-08f24897831a</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

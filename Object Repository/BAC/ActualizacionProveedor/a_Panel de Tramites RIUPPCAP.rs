@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Panel de Tramites RIUPPCAP</name>
+   <tag></tag>
+   <elementGuidId>ae98cc5e-0f62-48fd-9310-1bca468a46b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ctl00_NavBar_CtrlmenubaseBastrap_rptMenu_ctl01_liMenu&quot;]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.submenu > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ca5839b-3f7b-4103-9e35-8214a07693b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/RIUPP/PanelRIUPP.aspx</value>
+      <webElementGuid>88389dc1-452b-463a-ba04-79723ed9bca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Panel de Tramites RIUPP/CAP</value>
+      <webElementGuid>98454e5d-dc55-4cea-b0f9-b4474ade4be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CtrlMenuBase_rptMenu_ctl01_liMenu&quot;)/ul[@class=&quot;submenu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>a037ea93-7cf9-49c0-8bd8-4c81b736250b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_CtrlMenuBase_rptMenu_ctl01_liMenu']/ul/li[2]/a</value>
+      <webElementGuid>8fe870a1-62af-444c-b68b-543551918adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Panel de Tramites RIUPP/CAP')]</value>
+      <webElementGuid>576c89c0-f03b-4b18-a5ca-8ab128e3a0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurar documentos'])[1]/following::a[1]</value>
+      <webElementGuid>570044f4-1cf9-4e69-b9ef-290bbdce84d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrar'])[1]/following::a[2]</value>
+      <webElementGuid>9a8972c2-99c1-45b3-a6f4-d3c5fb440054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar'])[1]/preceding::a[1]</value>
+      <webElementGuid>4cdf33df-461d-40d6-a2fc-5c653192b18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Proveedores'])[1]/preceding::a[2]</value>
+      <webElementGuid>81ea0211-277b-441f-a2c1-7d5a36ba5c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Panel de Tramites RIUPP/CAP']/parent::*</value>
+      <webElementGuid>3096d12c-7b89-40e7-9517-0dae27afaa47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/RIUPP/PanelRIUPP.aspx')]</value>
+      <webElementGuid>f5f423ac-136f-4c86-8b24-daad6deafd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a</value>
+      <webElementGuid>c7b74f4c-c7f4-43e2-a944-0449cd640c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/RIUPP/PanelRIUPP.aspx' and (text() = 'Panel de Tramites RIUPP/CAP' or . = 'Panel de Tramites RIUPP/CAP')]</value>
+      <webElementGuid>52467831-c5c7-48c8-a509-c4f417a13ff6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

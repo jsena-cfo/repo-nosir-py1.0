@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenToyota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb8cd10e-bf19-46f5-8b75-2e4e3c2ee820</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c4fac8a4-90f3-493a-991c-9f75458e0b7e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b821d48-3ee6-488a-b192-cbc6ea32a235</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9542325a-7ca9-4ca0-bca2-6c23e7f94d35</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Toyota'</defaultValue>
+      <description></description>
+      <id>c4fac8a4-90f3-493a-991c-9f75458e0b7e</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Toyota se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>2b821d48-3ee6-488a-b192-cbc6ea32a235</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Toyota correctamente'</defaultValue>
+      <description></description>
+      <id>9542325a-7ca9-4ca0-bca2-6c23e7f94d35</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

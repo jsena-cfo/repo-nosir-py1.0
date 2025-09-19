@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CambioPassAdministradorMiPerfil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ad739ad-422f-411e-a039-ee49861aad04</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>739aa658-54cd-4278-985f-5c2a2eb100f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a05b979-8d68-4f47-bb12-e188b9f35f74</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7a91c6a-5016-4e7c-967e-7b1fa8a7da4d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAdministrador</defaultValue>
+      <description></description>
+      <id>739aa658-54cd-4278-985f-5c2a2eb100f8</id>
+      <masked>false</masked>
+      <name>usuarioAdm</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>6a05b979-8d68-4f47-bb12-e188b9f35f74</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automation2020'</defaultValue>
+      <description></description>
+      <id>c7a91c6a-5016-4e7c-967e-7b1fa8a7da4d</id>
+      <masked>false</masked>
+      <name>passNew</name>
+   </variable>
+</TestCaseEntity>

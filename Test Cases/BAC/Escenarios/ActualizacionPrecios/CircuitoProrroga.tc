@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CircuitoProrroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d078eb59-340e-4a2f-910a-6a48fb6ff605</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eac11d08-9589-4102-8e2a-e139d708d4ca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34f6185b-6700-424e-95c1-c5fc58075641</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab5d2dd0-795a-45f9-bca6-c787a06d731b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userSolicitante</defaultValue>
+      <description></description>
+      <id>eac11d08-9589-4102-8e2a-e139d708d4ca</id>
+      <masked>false</masked>
+      <name>userVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passSolicitante</defaultValue>
+      <description></description>
+      <id>34f6185b-6700-424e-95c1-c5fc58075641</id>
+      <masked>false</masked>
+      <name>passVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>ab5d2dd0-795a-45f9-bca6-c787a06d731b</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

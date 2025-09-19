@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabBuscador por rubro y grupo</name>
+   <tag></tag>
+   <elementGuidId>2480427b-c258-41c3-a102-09ec3977c14c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_tabUno']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_tabUno</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a15f1892-fa92-41a3-981f-61d867443141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#ctl00_CPH1_tabBuscadorPorRubroYGrupo</value>
+      <webElementGuid>e762da76-ed78-4ef9-9129-7e063290d5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_tabUno</value>
+      <webElementGuid>7ab0c5fc-1ab7-40cb-9778-4bfa70c2b965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>14786d81-10e9-481d-8d10-14b9c0a18b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Buscador por rubro y grupo
+                            </value>
+      <webElementGuid>5cbc0ea1-3218-4791-9b64-36cc4b8fe667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_tabUno&quot;)</value>
+      <webElementGuid>b8271770-72bc-4786-8d65-41e1d523aff2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_tabUno']</value>
+      <webElementGuid>40dfc7de-8a74-4654-a4c5-8e042541c483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_upBuscadores']/div/div/ul/li/a</value>
+      <webElementGuid>7107fa20-efeb-4cbb-adad-713f3526750c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUIT:'])[1]/following::a[1]</value>
+      <webElementGuid>f9cb69fb-50ab-43bf-9efc-03896829c206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='qa13974881@test.com'])[1]/following::a[1]</value>
+      <webElementGuid>4cb37c44-36ea-42c7-ad0d-091966833a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscador de productos'])[1]/preceding::a[1]</value>
+      <webElementGuid>889c583c-bf55-4dd6-9156-ad414ae60577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#ctl00_CPH1_tabBuscadorPorRubroYGrupo')]</value>
+      <webElementGuid>1151780b-9d66-4e53-a047-ae3f6d115d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li/a</value>
+      <webElementGuid>87825bf8-ae7e-4c27-ab40-5310736577d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#ctl00_CPH1_tabBuscadorPorRubroYGrupo' and @id = 'ctl00_CPH1_tabUno' and (text() = '
+                                Buscador por rubro y grupo
+                            ' or . = '
+                                Buscador por rubro y grupo
+                            ')]</value>
+      <webElementGuid>76b4ab8a-858b-4e78-a017-fcc83d327a98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

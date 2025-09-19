@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IngresarItemBusquedaDesc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c9495fc-1206-4ac6-8ced-b4ad1c296f9b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1eec537-3091-42bd-8363-84a758ac1821</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'GEL PARA ECOGRAFIA Y ULTRASONIDO'</defaultValue>
+      <description></description>
+      <id>a1eec537-3091-42bd-8363-84a758ac1821</id>
+      <masked>false</masked>
+      <name>descripcion</name>
+   </variable>
+</TestCaseEntity>

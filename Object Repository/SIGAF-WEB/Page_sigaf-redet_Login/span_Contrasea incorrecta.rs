@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contrasea incorrecta</name>
+   <tag></tag>
+   <elementGuidId>209a556f-92e4-49ad-969a-21552d127330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id = 'BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel' and @class = 'error' and (text() = 'Contraseña incorrecta - 1 intentos fallidos de 5.' or . = 'Contraseña incorrecta - 1 intentos fallidos de 5.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c0efde0-40ad-41e9-b211-868da8cd5555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel</value>
+      <webElementGuid>c6b5d47d-8df9-43c6-890d-5ee4ae0a65ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>f0320e29-dd2c-4a5c-a866-9ee756e93c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contraseña incorrecta - 1 intentos fallidos de 5.</value>
+      <webElementGuid>11be5328-ccd3-4b05-998a-a6d5d09521ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel&quot;)</value>
+      <webElementGuid>38996c41-750f-4c18-8936-4aad6e0686ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel']</value>
+      <webElementGuid>f194e62f-cc6c-4a91-958d-0ae24d8e3e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BodyPlaceHolder_ucLogin_messageLoginBar__messagePanel']/span</value>
+      <webElementGuid>19a634e4-eae7-440d-a8af-06228e2d00ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidó su contraseña?'])[1]/following::span[1]</value>
+      <webElementGuid>282ed4f1-d0b4-45b9-b517-bc5c3929c7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña:'])[1]/following::span[1]</value>
+      <webElementGuid>ef0952d8-8a1b-4afd-aeec-5cba9c691cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ogepusigaf@buenosaires.gov.ar'])[1]/preceding::span[1]</value>
+      <webElementGuid>7c5a41e5-01eb-4977-b557-9082790bfba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuperar datos de acceso'])[1]/preceding::span[1]</value>
+      <webElementGuid>64ca607d-684e-4152-9607-cdd1243c085e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contraseña incorrecta - 1 intentos fallidos de 5.']/parent::*</value>
+      <webElementGuid>67a6eff7-3dbe-40a7-a8c8-f9788fa177bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>2ddd61e6-f0a6-4658-9c03-68b6f89af3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'BodyPlaceHolder_ucLogin_messageLoginBar__messageLabel' and (text() = 'Contraseña incorrecta - 1 intentos fallidos de 5.' or . = 'Contraseña incorrecta - 1 intentos fallidos de 5.')]</value>
+      <webElementGuid>a2c3de5b-85e6-49d0-b88f-f2d65ee10998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

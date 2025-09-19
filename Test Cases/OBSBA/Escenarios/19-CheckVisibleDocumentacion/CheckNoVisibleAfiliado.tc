@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckNoVisibleAfiliado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a451128-51b1-4f98-bd4d-3be0342548d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aece46c6-e0fb-4209-9f2c-bb9e4cce6042</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de82f944-14b4-46f8-8205-078e6113c7b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>687716bd-c926-4e77-a824-e77a0c520893</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAfiliado</defaultValue>
+      <description></description>
+      <id>aece46c6-e0fb-4209-9f2c-bb9e4cce6042</id>
+      <masked>false</masked>
+      <name>userAfiliado</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cuitInterno</defaultValue>
+      <description></description>
+      <id>de82f944-14b4-46f8-8205-078e6113c7b5</id>
+      <masked>false</masked>
+      <name>userInterno</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passObsba</defaultValue>
+      <description></description>
+      <id>687716bd-c926-4e77-a824-e77a0c520893</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

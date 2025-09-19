@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecomendarOfertaParcialParcial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21749ad0-6fa5-4139-9e1c-866cc6789128</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3acca730-f7ef-4dd2-a71d-17074a53411e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>3acca730-f7ef-4dd2-a71d-17074a53411e</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

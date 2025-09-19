@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecibirOCAProrroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e9c4776-dddc-4ff7-b874-48368f7defc6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a6e6745-4335-4d9f-8210-7a0a50fedc62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>4a6e6745-4335-4d9f-8210-7a0a50fedc62</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

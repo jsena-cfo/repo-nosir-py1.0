@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySiteOpenOracle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6eb6bfe3-7d36-4577-9872-02dffaf0c884</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8da8e02d-36aa-457a-b2f2-16907c9ffef0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b411b8c-276a-44ad-b5c5-155f1653f114</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1038d33-30b5-41dd-83d6-727dc56c8c97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verificar sitio open Oracle'</defaultValue>
+      <description></description>
+      <id>8da8e02d-36aa-457a-b2f2-16907c9ffef0</id>
+      <masked>false</masked>
+      <name>nameTestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'El sitio Oracle se cargo correctamente'</defaultValue>
+      <description></description>
+      <id>3b411b8c-276a-44ad-b5c5-155f1653f114</id>
+      <masked>false</masked>
+      <name>msjPassed</name>
+   </variable>
+   <variable>
+      <defaultValue>'No se pudo cargar el sitio Oracle correctamente'</defaultValue>
+      <description></description>
+      <id>e1038d33-30b5-41dd-83d6-727dc56c8c97</id>
+      <masked>false</masked>
+      <name>msjFailed</name>
+   </variable>
+</TestCaseEntity>

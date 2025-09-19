@@ -1,0 +1,33 @@
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import internal.GlobalVariable as GlobalVariable
+
+
+//seleccionar Item a OFertar
+WebUI.click(findTestObject('BAC/Page_BAC - Vista Proveedor/btnAccionesItem', [('nroRenglon') : renglon]))
+
+WebUI.click(findTestObject('BAC/Page_BAC - Proceso de Compra/Page BAC - Busqueda PC/li_EditarPC', [('accion') : 'Ofertar']))
+
+WebUI.setText(findTestObject('BAC/Page_BAC - Vista Proveedor/inp_PrecioUnitario'), precio)
+
+WebUI.setText(findTestObject('BAC/Page_BAC - Vista Proveedor/Inp_EspecificacionesTecnicas'), 'Especificaciones de Prueba')
+
+WebUI.click(findTestObject('BAC/Page_BAC - Vista Proveedor/a_Guardar'))
+
+
+
+

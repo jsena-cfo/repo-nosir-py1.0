@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_msjSinSolicitudes</name>
+   <tag></tag>
+   <elementGuidId>f1d10bb0-e8a8-4c2c-9892-d1fd0195431a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12 > h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_CPH1_upSolicitudes']/div[2]/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>67a443ba-4779-47b3-963a-8be1656f1a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No hay solicitudes de actualización disponibles.</value>
+      <webElementGuid>c85d68a1-453c-4d60-913a-5bb34d76d41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_upSolicitudes&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/h4[1]</value>
+      <webElementGuid>49125394-49c2-4b49-8def-4b2bb5c393ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_upSolicitudes']/div[2]/div/h4</value>
+      <webElementGuid>4fbab220-6d06-489f-88b5-f9b69daba53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número del Proceso de Compra:'])[1]/following::h4[1]</value>
+      <webElementGuid>4aff3002-b346-4079-930d-2cabcb931bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Test20250718'])[1]/following::h4[1]</value>
+      <webElementGuid>fb8f928f-4697-47a3-a515-4815007883e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página 1 de 1'])[1]/preceding::h4[1]</value>
+      <webElementGuid>f58cd0c9-2f37-462b-b885-f564b52ab360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir a página:'])[1]/preceding::h4[2]</value>
+      <webElementGuid>5af6ca02-b84f-4307-8671-aa1b76ec68dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No hay solicitudes de actualización disponibles.']/parent::*</value>
+      <webElementGuid>06a29444-f64d-40bb-b2b7-6a04c9f012d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4</value>
+      <webElementGuid>d3cc849f-ea18-4ee2-8020-95cf0eaf5998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'No hay solicitudes de actualización disponibles.' or . = 'No hay solicitudes de actualización disponibles.')]</value>
+      <webElementGuid>c8ff7f40-7cd1-413b-bead-abfc744eebfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

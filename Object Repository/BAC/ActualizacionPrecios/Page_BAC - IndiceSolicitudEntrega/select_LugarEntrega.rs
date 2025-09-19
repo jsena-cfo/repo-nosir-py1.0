@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_LugarEntrega</name>
+   <tag></tag>
+   <elementGuidId>a700cc5b-5715-41c5-9655-ed5016944025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_ddlLugarEntrega</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_CPH1_ddlLugarEntrega']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3802db84-e30d-4dd3-8eb9-a4feec6a25c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$CPH1$ddlLugarEntrega</value>
+      <webElementGuid>0aa5407b-5ed1-48e0-a5bf-82081e8295ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_ddlLugarEntrega</value>
+      <webElementGuid>dd3226f3-9d5f-440b-8ea3-0df3877f90f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cajas</value>
+      <webElementGuid>8d7de2ed-7fe6-4c66-9a8a-da713fec70db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>HabilitaOtra()</value>
+      <webElementGuid>3396c463-be32-4c1f-b89d-b82a3ccc2b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Otro
+	Seleccionar
+	
+
+</value>
+      <webElementGuid>380e65fc-1c2d-4233-83e8-4ee463994f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_ddlLugarEntrega&quot;)</value>
+      <webElementGuid>3c2b7872-bb36-4df8-9d2b-495ab43fc024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_ddlLugarEntrega']</value>
+      <webElementGuid>269c1593-9bae-45f9-b119-929ce3c4da0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_CPH1_UpdatePanel2']/select</value>
+      <webElementGuid>09140689-7b4d-4c9c-bf98-ee1db797b2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lugar de entrega:'])[1]/following::select[1]</value>
+      <webElementGuid>2d7c9e74-132a-4290-a4e5-b4f444289985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>61b47068-4848-40e8-a10b-12bc0ed1d8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otro lugar de entrega:'])[1]/preceding::select[1]</value>
+      <webElementGuid>1f86538c-8aea-4917-97dc-a973157856e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/select</value>
+      <webElementGuid>be5de2f8-7736-434e-a305-8545bda45287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$CPH1$ddlLugarEntrega' and @id = 'ctl00_CPH1_ddlLugarEntrega' and (text() = '
+	Otro
+	Seleccionar
+	
+
+' or . = '
+	Otro
+	Seleccionar
+	
+
+')]</value>
+      <webElementGuid>fe802b61-82f9-47a5-a455-2aca569d232d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

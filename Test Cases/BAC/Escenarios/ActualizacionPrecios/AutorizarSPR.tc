@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AutorizarSPR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e889bd19-4f03-479c-ae62-f34cd574dd1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7ce6f4f-6f7b-4990-b26a-023726537b80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f719e1c-3025-4704-99bb-06b0c46ffcff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>754669a7-527e-4b50-91cd-4bc89177f4dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userSolicitante</defaultValue>
+      <description></description>
+      <id>e7ce6f4f-6f7b-4990-b26a-023726537b80</id>
+      <masked>false</masked>
+      <name>userVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passSolicitante</defaultValue>
+      <description></description>
+      <id>0f719e1c-3025-4704-99bb-06b0c46ffcff</id>
+      <masked>false</masked>
+      <name>passVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>754669a7-527e-4b50-91cd-4bc89177f4dd</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Solicitudes de Actualizacin de Precios</name>
+   <tag></tag>
+   <elementGuidId>9b1f6fb3-4040-42c0-ab42-bc445d585041</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='aspnetForm']/section/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>3383ffa1-1a8d-4775-8ce3-b72562935f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solicitudes de Actualización de Precios</value>
+      <webElementGuid>ff2bead6-4e7b-471b-a392-090aa7b73ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/section[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/h2[1]</value>
+      <webElementGuid>bb68a8f7-91dd-424e-ba15-e1203cc2ee80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section/div/div/div/h2</value>
+      <webElementGuid>c5495e93-6841-407a-ae49-8f0d19af4d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::h2[1]</value>
+      <webElementGuid>868082c9-dd52-4dc2-80e0-47030cca2f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información del proceso de compra'])[1]/preceding::h2[1]</value>
+      <webElementGuid>dbd49196-f6f1-4cd1-b5b1-305b6c10b2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número Orden de Compra Abierta:'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7cf587eb-d8b7-4734-a4c5-44709cc0f0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solicitudes de Actualización de Precios']/parent::*</value>
+      <webElementGuid>5fb2882a-acb8-4f5e-9e4e-9b72b5100a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>718bdb7f-993f-455f-a424-a6be58b3f80b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Solicitudes de Actualización de Precios' or . = 'Solicitudes de Actualización de Precios')]</value>
+      <webElementGuid>77cf3597-b3c3-410e-8307-4f9db1489002</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

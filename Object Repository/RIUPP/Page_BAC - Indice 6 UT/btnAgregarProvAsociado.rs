@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnAgregarProvAsociado</name>
+   <tag></tag>
+   <elementGuidId>8543be0a-3c59-459c-8476-bc7a08d15dea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_gridRegistros_ctl02_ibAgregar']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>163f0426-ca9a-492c-8cc6-9832762716a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-plus</value>
+      <webElementGuid>a4c752b3-b75e-4827-8f12-eb1ebac67b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_gridRegistros_ctl02_ibAgregar&quot;)/span[@class=&quot;glyphicon glyphicon-plus&quot;]</value>
+      <webElementGuid>178a35d6-cde3-4401-a62b-61a4832334b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_gridRegistros_ctl02_ibAgregar']/span</value>
+      <webElementGuid>3df01036-7614-4849-93d3-51cbc598836c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a/span</value>
+      <webElementGuid>54b69e51-8a76-4da6-bb08-ca7dede58eed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

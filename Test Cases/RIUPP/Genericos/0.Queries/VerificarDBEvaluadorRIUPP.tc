@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerificarDBEvaluadorRIUPP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d5ca648-e975-4176-ba8f-ad3042c9d417</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34ffbd3b-ceea-48d3-8e84-c57aa3de8c5d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34ffbd3b-ceea-48d3-8e84-c57aa3de8c5d</id>
+      <masked>false</masked>
+      <name>nroTramite</name>
+   </variable>
+</TestCaseEntity>

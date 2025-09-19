@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarPassInvalido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>263a0496-9fc1-4956-a921-d04d04a11a37</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1f535f8-07e8-45d1-bcb4-74a222e04cdc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>602ce6d6-d688-4a19-9f6a-14c56e9c14c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5abdb6f8-1d80-4bc2-b116-6ce8f03c8d54</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.cuitAfiliado</defaultValue>
+      <description></description>
+      <id>d1f535f8-07e8-45d1-bcb4-74a222e04cdc</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'Passinvalido1234'</defaultValue>
+      <description></description>
+      <id>602ce6d6-d688-4a19-9f6a-14c56e9c14c7</id>
+      <masked>false</masked>
+      <name>Contrasena</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.URL_OBSBA</defaultValue>
+      <description></description>
+      <id>5abdb6f8-1d80-4bc2-b116-6ce8f03c8d54</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

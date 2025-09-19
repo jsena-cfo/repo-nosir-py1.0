@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_labelComunicarse</name>
+   <tag></tag>
+   <elementGuidId>438ae078-1ad7-42fc-a9c0-a622ca327d81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss27.MuiTypography-body1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/form/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8ba07e2a-1286-4cf2-97f4-355cd60b4b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss27 MuiTypography-body1</value>
+      <webElementGuid>b92e1b49-aff5-4b0b-a1ca-655e98736509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ante cualquier inconveniente comunicarse con los canales de soporte habilitados0800-333-6722  Soporte ObSBA:  asis.soporte@obsba.org.ar</value>
+      <webElementGuid>4fee2a2e-32e6-48ef-9576-1fd4c3475e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;jss31&quot;]/form[@class=&quot;jss6&quot;]/p[@class=&quot;MuiTypography-root jss27 MuiTypography-body1&quot;]</value>
+      <webElementGuid>7dd22bbd-5b4a-4c74-8a76-7dc7ba44c22b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/form/p[3]</value>
+      <webElementGuid>ccf613f2-0e1e-4af4-8329-16f3b39948e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERROR'])[2]/following::p[1]</value>
+      <webElementGuid>1cb27c10-80b4-4602-8a03-a678f4665d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ante cualquier inconveniente comunicarse con los canales de soporte habilitados']/parent::*</value>
+      <webElementGuid>16b3815a-d25d-4af9-9edc-44cb9247c960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>1c1b59cb-a0a2-46d1-a2ec-470a03435013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ante cualquier inconveniente comunicarse con los canales de soporte habilitados0800-333-6722  Soporte ObSBA:  asis.soporte@obsba.org.ar' or . = 'Ante cualquier inconveniente comunicarse con los canales de soporte habilitados0800-333-6722  Soporte ObSBA:  asis.soporte@obsba.org.ar')]</value>
+      <webElementGuid>06d4bed2-5a63-426a-9583-f627c12eb346</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

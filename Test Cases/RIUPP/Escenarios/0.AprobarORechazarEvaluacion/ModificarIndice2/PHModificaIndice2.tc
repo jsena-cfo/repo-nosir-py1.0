@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>se verifica que en la evaluación de modificaciones se traigan las fechas y permita aprobar o rechazar items que ya habian sido aprobado o rechazado</description>
+   <name>PHModificaIndice2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ff58f0d-5c88-43fe-974d-2e1d3d9e01fa</testCaseGuid>
+</TestCaseEntity>

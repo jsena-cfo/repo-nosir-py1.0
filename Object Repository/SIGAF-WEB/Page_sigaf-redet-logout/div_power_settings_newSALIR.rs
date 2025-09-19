@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_power_settings_newSALIR</name>
+   <tag></tag>
+   <elementGuidId>f44d7822-3276-4a19-903a-0824ac73e125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/header/div[2]/div[2]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>418b7fec-2656-4f85-af53-511987637094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row no-wrap justify-center items-center</value>
+      <webElementGuid>281c9432-ba54-4e3b-90c1-dd9afbaabb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>power_settings_newSALIR
+      </value>
+      <webElementGuid>0738116a-2103-48a3-957e-be91144169f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/header[@class=&quot;q-layout-header q-layout-marginal q-layout-transition no-shadow absolute-top&quot;]/div[@class=&quot;nav-main row no-wrap justify-between&quot;]/div[2]/div[@class=&quot;row no-wrap actions&quot;]/div[@class=&quot;row no-wrap justify-center items-center&quot;]</value>
+      <webElementGuid>30835eb5-4f4c-41ec-b586-d6797409992a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/header/div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>4fb411b7-7657-43ba-9bfd-ec2d61250cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienes de Consumo BUP Usuario'])[1]/preceding::div[3]</value>
+      <webElementGuid>a955099c-a4d4-429c-8fac-a0fbb98ab780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bienes de Consumo BUP DGC'])[1]/preceding::div[3]</value>
+      <webElementGuid>83add861-5719-41ca-83b3-2478dde91e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SALIR']/parent::*</value>
+      <webElementGuid>e9057794-d833-4701-a6d1-ed79e9fdedaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>9cd751a0-70fd-4e24-9019-74fd5c877e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'power_settings_newSALIR
+      ' or . = 'power_settings_newSALIR
+      ')]</value>
+      <webElementGuid>a203b641-c78d-478f-8ea2-f767d307e94e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

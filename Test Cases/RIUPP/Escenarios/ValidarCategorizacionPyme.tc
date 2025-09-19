@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarCategorizacionPyme</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0595a0b-7a0c-4330-92b2-ca754119eb90</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bae50675-5e96-4603-ab95-2438b84b4f10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SociedadAnonima'</defaultValue>
+      <description></description>
+      <id>bae50675-5e96-4603-ab95-2438b84b4f10</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

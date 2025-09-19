@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__col q-input-target ellipsis justify-start-fecha2</name>
+   <tag></tag>
+   <elementGuidId>69b27742-0ee1-48ab-b958-9b0ca16c01fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.q-if.row.no-wrap.relative-position.q-datetime-input.q-if-focused.q-if-focusable.q-if-standard.text-secondary > div.q-if-inner.col.column.q-popup--skip > div.row.no-wrap.relative-position > div.col.q-input-target.ellipsis.justify-start</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div[5]/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a544fda-447f-4855-b1ba-911c6aa9689d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col q-input-target ellipsis justify-start</value>
+      <webElementGuid>d90e57e3-062f-43e0-ab9a-f2d42560044a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[1]/div[@class=&quot;q-layout&quot;]/div[@class=&quot;q-layout-page-container q-layout-transition&quot;]/main[@class=&quot;q-layout-page layout-padding&quot;]/div[@class=&quot;edit-view&quot;]/form[1]/div[@class=&quot;controls-container&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-11&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;q-if row no-wrap relative-position q-datetime-input q-if-focused q-if-focusable q-if-standard text-secondary&quot;]/div[@class=&quot;q-if-inner col column q-popup--skip&quot;]/div[@class=&quot;row no-wrap relative-position&quot;]/div[@class=&quot;col q-input-target ellipsis justify-start&quot;]</value>
+      <webElementGuid>478b9ad2-8068-467e-bdc9-59cb3be9bf30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/form/div/div/div/div/div[5]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>6daecf27-ae80-41b2-9c73-210e9f4e31c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>15d5352a-33e8-4acc-a967-a3f1b8963488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AccionesEvaluador2</name>
+   <tag></tag>
+   <elementGuidId>e2c7b9f5-f340-4657-9e31-61d8f6dbc7be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@id,'Acciones')]/button)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>28a7aac9-1406-4ead-a44b-cfb679d398a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1660836031731</value>
+      <webElementGuid>7405190f-8196-4555-bc15-0e070231902c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

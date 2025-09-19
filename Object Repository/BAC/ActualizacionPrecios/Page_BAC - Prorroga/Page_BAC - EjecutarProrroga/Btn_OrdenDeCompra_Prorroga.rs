@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_OrdenDeCompra_Prorroga</name>
+   <tag></tag>
+   <elementGuidId>0da487bd-b8a2-4591-a9f3-79ba7f618d94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordionMenuOCA']/div[3]/div/h4/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>90414dd6-a979-4369-ab4c-4034c4636bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>indicator glyphicon pull-left glyphicon-plus</value>
+      <webElementGuid>3dd0f0fb-1ee0-49a6-aa74-a40daa02414c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>4ec5df0f-a1cf-44ea-a9d5-b97bc09c8377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordionMenuOCA&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-heading&quot;]/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]/i[@class=&quot;indicator glyphicon pull-left glyphicon-plus&quot;]</value>
+      <webElementGuid>e9f78a06-4a8d-4b97-8bf6-80549cce8242</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordionMenuOCA']/div[3]/div/h4/a/i</value>
+      <webElementGuid>5b499402-1792-4d94-90f3-b8191f00b50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar'])[14]/following::i[1]</value>
+      <webElementGuid>28ef3ec0-20b3-41a8-8fe6-fa440ffafce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documento'])[8]/preceding::i[1]</value>
+      <webElementGuid>c8532f4b-413c-44d1-b044-82368c3420db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceso de compra'])[8]/preceding::i[1]</value>
+      <webElementGuid>cc65b990-3bc0-4d51-8322-5c2a280db543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h4/a/i</value>
+      <webElementGuid>084e7a9f-5d48-4b69-b451-d1e3b36ed9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>448e1934-7d7c-4f01-b5a5-4d04f427765f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnRecomendarOferta</name>
+   <tag></tag>
+   <elementGuidId>4369cc6d-0edb-4f48-b882-5ae52d2dbb9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_CPH1_lnkRecomendarOferta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_CPH1_lnkRecomendarOferta']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a13aa808-43db-4eb3-a7a8-7a8fef780e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_CPH1_lnkRecomendarOferta</value>
+      <webElementGuid>aec12146-6cd7-4c3d-b89b-454794aef1b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>a17962ed-6c5b-4c41-ba40-515d93621775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkRecomendarOferta&quot;, &quot;&quot;, false, &quot;&quot;, &quot;RecomendarOfertaPorRenglon.aspx?qs=Gbut9cInK75sXEjMP8Du2EE0K5Qcc3zAnLfDkUTAvQsccQO|ci7yeRr41DE07/3m53|ARidaQxmnZ01wB3qFDlahefuI4CL|A3EVhfNdi39l4Yp4ke9zHUPIjWR1Ct6Yx/tthAZfmvUlZzk5hu8mzoe|COnC7vkCPWr95tfo2E0WWL9cRjvx|eyK1qMXLRsl2YaNV8LEjP6UXm35O4Z3IcaCDwCETYqh&quot;, false, true))</value>
+      <webElementGuid>68bef3f6-9c0f-4a54-bca9-bdf956dcbbe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recomendar Oferta</value>
+      <webElementGuid>e142f8fc-8d2d-4a85-b911-7cae985e5074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_lnkRecomendarOferta&quot;)</value>
+      <webElementGuid>3ff5ec50-133b-489f-86ee-66f53df0c7a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_CPH1_lnkRecomendarOferta']</value>
+      <webElementGuid>ac253240-a591-4980-acdb-4395193c4387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section/div/div[3]/div[2]/a[3]</value>
+      <webElementGuid>43fefff3-510b-469c-a4c7-911fdca1dfc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Recomendar Oferta')]</value>
+      <webElementGuid>c989d9ab-ee14-45c3-8c23-9b7224ffa16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observaciones'])[1]/following::a[1]</value>
+      <webElementGuid>7fb03af0-855b-4254-8770-11d1c90e8aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuadro Comparativo'])[1]/following::a[2]</value>
+      <webElementGuid>aac21b30-e4b9-4098-a158-8335279c69bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Documentacion complementaria'])[1]/preceding::a[1]</value>
+      <webElementGuid>836192df-6910-437e-872d-64c82056506d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificar Evaluaciones'])[1]/preceding::a[2]</value>
+      <webElementGuid>658c48b2-fc79-4a12-9d6b-1c0eb3984875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recomendar Oferta']/parent::*</value>
+      <webElementGuid>9f8bef7c-505b-4424-bb38-c876da627958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkRecomendarOferta&quot;, &quot;&quot;, false, &quot;&quot;, &quot;RecomendarOfertaPorRenglon.aspx?qs=Gbut9cInK75sXEjMP8Du2EE0K5Qcc3zAnLfDkUTAvQsccQO|ci7yeRr41DE07/3m53|ARidaQxmnZ01wB3qFDlahefuI4CL|A3EVhfNdi39l4Yp4ke9zHUPIjWR1Ct6Yx/tthAZfmvUlZzk5hu8mzoe|COnC7vkCPWr95tfo2E0WWL9cRjvx|eyK1qMXLRsl2YaNV8LEjP6UXm35O4Z3IcaCDwCETYqh&quot;, false, true))')]</value>
+      <webElementGuid>f5667873-5347-47de-b859-0c04fe2e2cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>05afc263-6df7-497e-9a63-3cb6a57054c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_CPH1_lnkRecomendarOferta' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPH1$lnkRecomendarOferta&quot;, &quot;&quot;, false, &quot;&quot;, &quot;RecomendarOfertaPorRenglon.aspx?qs=Gbut9cInK75sXEjMP8Du2EE0K5Qcc3zAnLfDkUTAvQsccQO|ci7yeRr41DE07/3m53|ARidaQxmnZ01wB3qFDlahefuI4CL|A3EVhfNdi39l4Yp4ke9zHUPIjWR1Ct6Yx/tthAZfmvUlZzk5hu8mzoe|COnC7vkCPWr95tfo2E0WWL9cRjvx|eyK1qMXLRsl2YaNV8LEjP6UXm35O4Z3IcaCDwCETYqh&quot;, false, true))' and (text() = 'Recomendar Oferta' or . = 'Recomendar Oferta')]</value>
+      <webElementGuid>5246a33c-4b54-430f-89d3-840e7c98fc2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

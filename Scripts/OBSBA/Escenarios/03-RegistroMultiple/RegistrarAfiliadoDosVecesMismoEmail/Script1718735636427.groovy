@@ -1,0 +1,56 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+/**Script registra un usuario afiliado y luego lo activa**/
+/**Luego intenta volver a registrarlo con el mismo email**/
+/**Se valida el mensaje: El usuario XXXXX ya tiene perfil afiliado**/
+String genero = CustomKeywords.'adicionales.GeneroRandomGenerator.obtenerGeneroAleatorio'()
+
+String dni = CustomKeywords.'adicionales.DniRandomGenerator.generarDNIRandom'()
+
+String cuil = CustomKeywords.'adicionales.CuilRandomGenerator.get_cuil'(genero, dni)
+
+'Registra usuario afiliado'
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/RegistrarObsba'), [('varCuil') : cuil, ('varPassword') : varPassword, ('varPerfil') : 'Afiliado'
+        , ('varUsuario') : varUsuario, ('varEmail') : varEmail, ('varTelefono') : varTelefono, ('varUrl') : varUrl, ('varDomicilio') : varDomicilio], 
+    FailureHandling.STOP_ON_FAILURE)
+
+String token = WebUI.callTestCase(findTestCase('OBSBA/Genericos/ObtenerTokenBD'), [('varUsuario') : cuil], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/ActivarUsuario'), [('varCuil') : cuil, ('varToken') : token], FailureHandling.STOP_ON_FAILURE)
+
+String cuilSinGuiones = CustomKeywords.'adicionales.CuilRandomGenerator.quitarGuionesyBlancos'(cuil)
+
+String fecha = '  ->Fecha: ' + CustomKeywords.'tool.DateGenerator.today'()
+
+String reg = '  ->Intento registro Perfil Afiliado dos veces mismo mail en entorno ' + varUrl
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/RegistrarObsba'), [('varCuil') : cuil, ('varPassword') : varPassword, ('varPerfil') : 'Afiliado'
+        , ('varUsuario') : varUsuario, ('varEmail') : varEmail2, ('varTelefono') : varTelefono, ('varDomicilio') : varDomicilio
+        , ('varUrl') : varUrl], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/EscribirATxtSalida'), [('varCuil') : cuilSinGuiones, ('varFecha') : fecha
+        , ('varRegistro') : reg], FailureHandling.STOP_ON_FAILURE)
+
+String valorTexto = '\n' + '***Log: Valida mensaje error: Registra un afiliado y luego intenta cargar nuevamente con el mismo mail: ' + cuil.toString() + '\n'
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/EscribirALog'), [('varTexto') : valorTexto], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('OBSBA/Genericos/CerrarNavegador'), [:], FailureHandling.STOP_ON_FAILURE)
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDatosPersonaHumana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdfbc94f-254c-4a83-9226-4bda82917e97</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>061b6aea-b7ce-459d-9c82-44af3a38c65e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PersonaFisica'</defaultValue>
+      <description></description>
+      <id>061b6aea-b7ce-459d-9c82-44af3a38c65e</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_usuarioEvaluador</name>
+   <tag></tag>
+   <elementGuidId>e890ec79-e4f9-4cb4-8c8f-eb22aa61f1c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='38467']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;38467&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[(text() = 'Francisco Ciorciari' or . = 'Francisco Ciorciari')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>60ea88f8-86e8-4d00-b1a3-648ff9314106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>38467</value>
+      <webElementGuid>dc56eae8-a472-4747-af97-68df9ed2c25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Francisco Ciorciari</value>
+      <webElementGuid>c79712ca-bebe-4a36-9878-46445e476873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_UCPanelTodosLosTramites_ddlElegirUsuarioCAP&quot;)/option[4]</value>
+      <webElementGuid>260fccf1-39d4-40de-9184-6d98296d43a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='38467']</value>
+      <webElementGuid>b8cbf21d-2925-440b-a18e-6009df3d8b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_CPH1_UCPanelTodosLosTramites_ddlElegirUsuarioCAP']/option[4]</value>
+      <webElementGuid>3c6795a8-56e7-4a02-b959-5f735e8bbcf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asignar usuario'])[2]/following::option[4]</value>
+      <webElementGuid>01ff293a-3bdc-4346-a3f7-e13895978c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir a página:'])[1]/following::option[4]</value>
+      <webElementGuid>7b1cc64b-8965-4ff7-8630-39abf631acac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificar'])[2]/preceding::option[5]</value>
+      <webElementGuid>3e834bb9-3dd9-4baa-9b5f-51d225209834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/preceding::option[5]</value>
+      <webElementGuid>6f1279ec-9c8c-4428-b99b-89a2fe1b392b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Francisco Ciorciari']/parent::*</value>
+      <webElementGuid>d365b2fd-b4b1-459d-aecc-3aac059df41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select/option[4]</value>
+      <webElementGuid>5f633607-a8ab-480f-b77b-c5c294eb612d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'Francisco Ciorciari' or . = 'Francisco Ciorciari')]</value>
+      <webElementGuid>4e9de479-7097-400f-86a6-5b8998f45cbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

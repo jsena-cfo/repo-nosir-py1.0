@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarVolverSolicitarActualizacionPrecios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab4d3f47-8ae7-4485-8a1a-0c62adc823ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac42b849-5fc6-4973-b0bb-7fde88c75b50</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>091eccfb-d1b6-45cc-831e-69fc7091dce7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0969e3c3-f0c0-4c4e-9cdc-babfd95f319d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userProveedor</defaultValue>
+      <description></description>
+      <id>ac42b849-5fc6-4973-b0bb-7fde88c75b50</id>
+      <masked>false</masked>
+      <name>userVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passProveedor</defaultValue>
+      <description></description>
+      <id>091eccfb-d1b6-45cc-831e-69fc7091dce7</id>
+      <masked>false</masked>
+      <name>passVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>0969e3c3-f0c0-4c4e-9cdc-babfd95f319d</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_msjPeriodoInvalido</name>
+   <tag></tag>
+   <elementGuidId>17f8b5d5-755f-4e9d-8ed9-384a783666f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body2.MuiTypography-colorError</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/form/div/div[3]/p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = 'El Período Desde debe ser menor o igual que el Período Hasta' or . = 'El Período Desde debe ser menor o igual que el Período Hasta')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fb24a184-6591-44b6-9966-9061cbdeff4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2 MuiTypography-colorError</value>
+      <webElementGuid>c49d3811-f49c-4d63-a746-5432362b64a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El Período Desde debe ser menor o igual que el Período Hasta</value>
+      <webElementGuid>970c73fc-ab83-4c6b-ba77-62d8960f4921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss56&quot;]/main[@class=&quot;MuiGrid-root jss55 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root jss54 MuiGrid-item&quot;]/form[@class=&quot;jss69&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 MuiTypography-colorError&quot;]</value>
+      <webElementGuid>025a5386-dc85-4996-a6ed-7f62bedf2ab0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/form/div/div[3]/p</value>
+      <webElementGuid>f1b48f05-e806-439a-9c30-527d155d3dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha Hasta'])[2]/following::p[1]</value>
+      <webElementGuid>25586927-0816-440f-b526-2bbf398d0c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha Hasta'])[1]/following::p[1]</value>
+      <webElementGuid>4f1592fb-74e7-4715-a673-3bce19367698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar'])[1]/preceding::p[1]</value>
+      <webElementGuid>f63cad1e-ba3f-4e09-bf73-45ddc26f2a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar'])[1]/preceding::p[1]</value>
+      <webElementGuid>c52cb8fd-9a82-4643-abde-45f4f1acb501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El Período Desde debe ser menor o igual que el Período Hasta']/parent::*</value>
+      <webElementGuid>1c4ac790-85f1-4477-a02e-797388d9feaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>fcee95da-2fdc-448c-9a0a-404e6797088c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'El Período Desde debe ser menor o igual que el Período Hasta' or . = 'El Período Desde debe ser menor o igual que el Período Hasta')]</value>
+      <webElementGuid>24f32358-3372-4b18-9295-991db8cd95fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

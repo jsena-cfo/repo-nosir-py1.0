@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdjudicarProcesoDeCompraOCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc1ee65-324b-4443-b1a7-04bfd0e154a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6b97f20-c317-4089-b043-0a7d19588905</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroPC</defaultValue>
+      <description></description>
+      <id>a6b97f20-c317-4089-b043-0a7d19588905</id>
+      <masked>false</masked>
+      <name>nroPC</name>
+   </variable>
+</TestCaseEntity>

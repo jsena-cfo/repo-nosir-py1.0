@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProveedorNacionalErrorDarDeBaja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42bd9fcc-a19f-40f0-8833-697a0195511b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2894a6cf-49fc-4ef8-84be-1173eaea09f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cooperativas'</defaultValue>
+      <description></description>
+      <id>2894a6cf-49fc-4ef8-84be-1173eaea09f8</id>
+      <masked>false</masked>
+      <name>tipoProveedor</name>
+   </variable>
+</TestCaseEntity>

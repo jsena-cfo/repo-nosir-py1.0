@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarDetalleEntrega</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4cd53a3-188e-41cd-ab74-52b38c42cad7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae7dcf2d-887e-4a62-9623-56309b7f10ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>ae7dcf2d-887e-4a62-9623-56309b7f10ad</id>
+      <masked>false</masked>
+      <name>renglon</name>
+   </variable>
+</TestCaseEntity>

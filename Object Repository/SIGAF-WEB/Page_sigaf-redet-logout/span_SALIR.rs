@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SALIR</name>
+   <tag></tag>
+   <elementGuidId>246f3c5a-a424-48a2-8138-8687cdea4ce6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='SALIR']/parent::*</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'SALIR' or . = 'SALIR')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ctl00_BodyPlaceHolder_btnLogout_BTC > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a279a483-6b04-4f36-9b7c-c4707d2ef841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SALIR</value>
+      <webElementGuid>d62bd8fc-5abf-4184-8075-c5142093a86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ctl00_BodyPlaceHolder_btnLogout_BTC&quot;)/span[1]</value>
+      <webElementGuid>ed6734a9-b630-4bc7-9bf5-ffa9d4f51d28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_ctl00_BodyPlaceHolder_btnLogout_BTC']/span</value>
+      <webElementGuid>b3ad1073-1e97-484f-9108-1db00cdd62cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AYUDA'])[1]/following::span[1]</value>
+      <webElementGuid>1d2de084-de5b-4b5b-92a2-c5a5ce4eab40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INICIO'])[1]/following::span[2]</value>
+      <webElementGuid>ff9830d7-0458-4536-9125-166cf468b5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimados usuarios: Se recuerda que el ejercicio 2024 se podrá afectar hasta el 31/01/2025'])[1]/preceding::span[1]</value>
+      <webElementGuid>df21dd7d-92ea-445c-87c1-5ddda152a8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevas Funcionalidades Incorporadas'])[1]/preceding::span[1]</value>
+      <webElementGuid>829007bc-59cf-4124-a1f5-965fb08e6fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SALIR']/parent::*</value>
+      <webElementGuid>a6378d2a-d4c3-4cdc-85d1-cc1666f7d7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/table/tbody/tr/td/div[2]/table/tbody/tr/td[2]/span</value>
+      <webElementGuid>b93bece7-5eab-4a4f-adde-1759e1a67338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SALIR' or . = 'SALIR')]</value>
+      <webElementGuid>69dace7e-757d-4b37-b269-b033bb87b036</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

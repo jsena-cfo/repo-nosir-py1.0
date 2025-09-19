@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Caso negativo, el evaluador cap no puede evaluar el indice 5 (rubros licitatorios).</description>
+   <name>EvaluarRubrosEvaluadorCAP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ceb6fa9-ba53-44c5-b442-470342fd3a5f</testCaseGuid>
+</TestCaseEntity>

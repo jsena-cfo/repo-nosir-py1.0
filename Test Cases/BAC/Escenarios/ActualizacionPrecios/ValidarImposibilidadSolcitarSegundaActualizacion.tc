@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidarImposibilidadSolcitarSegundaActualizacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b753759c-118a-447a-8c43-a1ebc0719ca9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fdffc899-a088-49b3-aab5-7c455ac6286a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>402657bd-45ad-43bb-8d8f-b93e9e59afc2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab2b06fc-4912-4b04-8602-59d1dd07ab3b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.userProveedor</defaultValue>
+      <description></description>
+      <id>fdffc899-a088-49b3-aab5-7c455ac6286a</id>
+      <masked>false</masked>
+      <name>userVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.passProveedor</defaultValue>
+      <description></description>
+      <id>402657bd-45ad-43bb-8d8f-b93e9e59afc2</id>
+      <masked>false</masked>
+      <name>passVar</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.url_BAC</defaultValue>
+      <description></description>
+      <id>ab2b06fc-4912-4b04-8602-59d1dd07ab3b</id>
+      <masked>false</masked>
+      <name>urlVar</name>
+   </variable>
+</TestCaseEntity>

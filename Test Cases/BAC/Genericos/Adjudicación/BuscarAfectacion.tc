@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuscarAfectacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c2a5743-a79e-4bad-9e80-5d284952d522</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a68d43b3-3855-4064-9954-de2090485d06</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.nroSC</defaultValue>
+      <description></description>
+      <id>a68d43b3-3855-4064-9954-de2090485d06</id>
+      <masked>false</masked>
+      <name>nroSolicitudCompra</name>
+   </variable>
+</TestCaseEntity>

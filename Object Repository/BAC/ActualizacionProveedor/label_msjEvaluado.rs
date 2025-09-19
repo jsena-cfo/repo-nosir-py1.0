@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_msjEvaluado</name>
+   <tag></tag>
+   <elementGuidId>9e8b347e-4175-4ef9-9cd6-ff5c77b0f582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_CPH1_divMensajeExito']/div/h4/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f7771e0e-9f73-4907-98cd-a77c1a7a2f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>3bf761bd-067b-4419-958d-0e8e359cd695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>La evaluación CAP ha finalizado con éxito.</value>
+      <webElementGuid>19e8996a-a4d0-454c-9cf5-423d6f167990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CPH1_divMensajeExito&quot;)/div[@class=&quot;alert-link-text text-success&quot;]/h4[1]/label[@class=&quot;h4&quot;]</value>
+      <webElementGuid>a4f7a915-7125-4c24-804b-f7d526bd1ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CPH1_divMensajeExito']/div/h4/label</value>
+      <webElementGuid>d7a30e2d-2dd0-405a-bc46-9c9c58e8aac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::label[1]</value>
+      <webElementGuid>d39beaa8-fb90-4f8f-a707-b820a1e885e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver al escritorio'])[1]/preceding::label[1]</value>
+      <webElementGuid>ff8a48c0-fb31-48da-89d6-c731e7d3f69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buenos Aires Ciudad'])[2]/preceding::label[1]</value>
+      <webElementGuid>06ec46db-ee53-4f01-a618-45c6202c1c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='La evaluación CAP ha finalizado con éxito.']/parent::*</value>
+      <webElementGuid>a8c2e37e-494e-4515-8a0b-817c26803f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/label</value>
+      <webElementGuid>45ae19d4-6f64-479f-a4c4-0fe818249760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'La evaluación CAP ha finalizado con éxito.' or . = 'La evaluación CAP ha finalizado con éxito.')]</value>
+      <webElementGuid>1ae62afa-65f8-452a-8db6-f24da8d8cb75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

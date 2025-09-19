@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AgregarAdminLegPersonaHumana</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3229a9e2-2a66-47e5-a9bf-79f0fa84ad25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd6fe829-faa1-434a-836e-1963a936be9a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f0f2ced-02c8-4b38-9f4a-6c4f37ae952f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05972261-ba59-44a7-80d6-3b6aae9f00cb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Apoderado'</defaultValue>
+      <description></description>
+      <id>fd6fe829-faa1-434a-836e-1963a936be9a</id>
+      <masked>false</masked>
+      <name>tipoAdministrador</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>8f0f2ced-02c8-4b38-9f4a-6c4f37ae952f</id>
+      <masked>false</masked>
+      <name>esExtranjero</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>05972261-ba59-44a7-80d6-3b6aae9f00cb</id>
+      <masked>false</masked>
+      <name>esHumano</name>
+   </variable>
+</TestCaseEntity>

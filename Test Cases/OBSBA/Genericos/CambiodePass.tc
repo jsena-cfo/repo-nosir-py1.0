@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CambiodePass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d72b541-cff8-42bc-8518-ddf7fe69d980</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57dd1734-e293-49f8-aed0-0472f88db308</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automation1234'</defaultValue>
+      <description></description>
+      <id>57dd1734-e293-49f8-aed0-0472f88db308</id>
+      <masked>false</masked>
+      <name>NuevaContrasena</name>
+   </variable>
+</TestCaseEntity>
